@@ -1,0 +1,82 @@
+{
+    "WELCOME_SCREEN": {
+        "BACKGROUND": {
+            "MAIN": "#DC7913",
+            "MAIN_BUTTONS": {
+                "ON_PRESS": "#A85A29",
+                "ON_RELEASE": "#8F4A1B"
+            }
+        },
+        "TEXT": {
+            "MAIN_LABEL": "#E5A600"
+        }
+    },
+    "LEVEL_SELECTING_SCREEN": {
+        "BACKGROUND": {
+            "MAIN": "#DC7913",
+            "EXIT_BUTTON": {
+                "ON_PRESS": "#F8B75C",
+                "ON_RELEASE": "#D9A066"
+            },
+            "START_BUTTON": {
+                "ON_PRESS": "#A85A29",
+                "ON_RELEASE": "#8F4A1B"
+            }
+        },
+        "TEXT": {
+            "LABEL1": "#591603",
+            "LABEL2": "#2ECC71",
+            "LABEL3": "#F1C40F",
+            "LABEL4": "#8E44AD"
+        }
+    },
+    "GAME_VIEW": {
+        "BACKGROUND": {
+            "MAIN": "#DC7913",
+            "EXIT_BUTTON": {
+                "ON_PRESS": "#F8B75C",
+                "ON_RELEASE": "#D9A066"
+            },
+            "WORD_BUTTON": "#E1BA7F",
+            "TEXTINPUT": "#7B3900"
+        }
+    },
+    "STAT_LEVEL_SELECTION_SCREEN": {
+        "BACKGROUND": {
+            "MAIN": "#DC7913",
+            "MAIN_BUTTON": {
+                "ON_PRESS": "#FFE487",
+                "ON_RELEASE": "#F8B75C"
+            },
+            "EXIT_BUTTON": {
+                "ON_PRESS": "#F8B75C",
+                "ON_RELEASE": "#D9A066"
+            }
+        },
+        "TEXT": {
+            "MAIN_LABEL": "#A4571B"
+        }
+    },
+    "PLAYER_DATA_SCREEN": {
+        "BACKGROUND": {
+            "MAIN": "#DC7913",
+            "EXIT_BUTTON": {
+                "ON_PRESS": "#F8B75C",
+                "ON_RELEASE": "#D9A066"
+            },
+            "DATA_BOX1": "#D87F0B"
+        }
+    },
+    "CUSTOM_KEYBOARD": {
+        "BACKGROUND": {
+            "MAIN": "#D87F0B",
+            "BUTTONS": {
+                "ON_PRESS": "#E0B97F",
+                "ON_RELEASE": "#E88D1D"
+            }
+        },
+        "TEXT": {
+            "DEFAULT": "#FFFFFF"
+        }
+    }
+}

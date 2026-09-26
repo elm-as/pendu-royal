@@ -1,0 +1,844 @@
+[
+    {
+        "word": "abjurer",
+        "definition": "Renoncer solennellement, par un acte public ou officiel, à une religion, une opinion ou une conviction ; implique une dimension d’engagement et de rupture explicite."
+    },
+    {
+        "word": "abscons",
+        "definition": "Synonyme proche d’‘abstrus’ : tellement obscur ou compliqué qu’il en devient difficilement compréhensible."
+    },
+    {
+        "word": "abstinence",
+        "definition": "Action volontaire de s’abstenir, de se priver, en particulier de nourriture, de boisson (notamment d’alcool) ou de rapports sexuels, souvent dans un cadre religieux ou médical."
+    },
+    {
+        "word": "abstrus",
+        "definition": "Qui est très difficile à comprendre, obscur par excès de complexité ou de subtilité, exigeant un effort intellectuel considérable."
+    },
+    {
+        "word": "accolade",
+        "definition": "Geste consistant à entourer quelqu’un de ses bras pour le serrer contre soi (embrassade) ; en héraldique, rapprochement d’objets ou d’armoiries."
+    },
+    {
+        "word": "adversité",
+        "definition": "Situation malheureuse, ensemble de difficultés, de revers et d’épreuves auxquelles on doit faire face."
+    },
+    {
+        "word": "amphibologie",
+        "definition": "Construction grammaticale ambiguë pouvant donner lieu à un double sens, souvent exploitée dans les jeux de mots ou dans la rhétorique."
+    },
+    {
+        "word": "anaphore",
+        "definition": "Figure de style consistant à répéter un même mot ou groupe de mots en début de phrases ou de vers successifs, pour produire un effet rythmique ou insistant."
+    },
+    {
+        "word": "antinomie",
+        "definition": "Contradiction réelle ou apparente entre deux principes, deux lois, deux idées également valides mais difficilement conciliables."
+    },
+    {
+        "word": "aphasie",
+        "definition": "Trouble du langage causé par une lésion cérébrale, se traduisant par la difficulté ou l’incapacité à parler, à comprendre ou à écrire."
+    },
+    {
+        "word": "aphorisme",
+        "definition": "Formule concise exprimant une pensée, un principe ou une vérité d’ordre moral ou philosophique de façon frappante."
+    },
+    {
+        "word": "apoplexie",
+        "definition": "Ancien terme médical désignant une perte soudaine de connaissance causée par une hémorragie cérébrale (aujourd’hui appelée AVC) ; par extension, une violente émotion."
+    },
+    {
+        "word": "apostrophe",
+        "definition": "Figure de style où l’on interpelle directement une personne absente, un objet inanimé, une idée abstraite ; peut aussi désigner le signe orthographique (’)."    },
+    {
+        "word": "azimut",
+        "definition": "En navigation, en astronomie : angle mesuré entre le plan de l’horizon et une direction donnée par rapport au nord ; par extension, orientation, direction."
+    },
+    {
+        "word": "ballotine",
+        "definition": "Préparation culinaire où l’on farcit et roule une volaille ou une viande, maintenue par une ficelle, souvent braisée ou pochée."
+    },
+    {
+        "word": "baryton",
+        "definition": "Voix masculine située entre le ténor et la basse, caractérisée par une tessiture médiane ; peut aussi désigner le chanteur ou l’instrument correspondant."
+    },
+    {
+        "word": "biface",
+        "definition": "Outil préhistorique taillé sur ses deux faces, généralement en silex, utilisé comme couteau, hache ou grattoir."
+    },
+    {
+        "word": "bourrasque",
+        "definition": "Coup de vent soudain, violent et de courte durée, souvent accompagné de pluie ou de neige ; par extension, agitation brutale et passagère."
+    },
+    {
+        "word": "boursier",
+        "definition": "Relatif à la bourse des valeurs (finance) ; peut aussi désigner un étudiant bénéficiant d’une bourse d’étude."
+    },
+    {
+        "word": "boustrophédon",
+        "definition": "Ancien procédé d’écriture dans lequel les lignes s’enchaînent alternativement de gauche à droite puis de droite à gauche, imitant le mouvement des bœufs labourant un champ."
+    },
+    {
+        "word": "cacophonie",
+        "definition": "Mélange confus et désagréable de sons discordants ; au sens figuré, désorganisation ou incohérence dans un ensemble d’éléments."
+    },
+    {
+        "word": "cambouis",
+        "definition": "Graisse noire, visqueuse et salissante issue des moteurs ou des machines ; par extension, saleté tenace."
+    },
+    {
+        "word": "capricieux",
+        "definition": "Qui manifeste des changements d’humeur ou de comportement imprévisibles ; se dit aussi d’un climat ou d’un phénomène irrégulier."
+    },
+    {
+        "word": "chaumine",
+        "definition": "Petite maison rustique, souvent modeste et pauvre, construite en matériaux simples (paille, torchis, bois)."
+    },
+    {
+        "word": "chiasme",
+        "definition": "Figure de style consistant à inverser l’ordre de deux groupes de mots selon un schéma en miroir (ex. : « Il faut manger pour vivre et non vivre pour manger »)."
+    },
+    {
+        "word": "chiquet",
+        "definition": "Morceau, petit fragment arraché ; en reliure, désigne les fines coupes faites sur les tranches du livre."
+    },
+    {
+        "word": "chlorure",
+        "definition": "Composé chimique formé à partir du chlore et d’un autre élément, généralement un métal ou un radical (ex. : chlorure de sodium = sel de table)."
+    },
+    {
+        "word": "clandestin",
+        "definition": "Qui se fait en secret ou dans l’illégalité, souvent pour échapper à la loi ou à l’autorité."
+    },
+    {
+        "word": "cliquetis",
+        "definition": "Bruit léger et répété produit par le choc métallique de petits objets, comme des clés ou des chaînes."
+    },
+    {
+        "word": "colophane",
+        "definition": "Résidu solide obtenu par distillation de la résine de pin, utilisé notamment pour frotter les archets des instruments à cordes afin d’améliorer l’adhérence."
+    },
+    {
+        "word": "coriandre",
+        "definition": "Plante aromatique dont les feuilles et les graines sont utilisées en cuisine et en phytothérapie."
+    },
+    {
+        "word": "craindre",
+        "definition": "Éprouver de la peur ou de l’appréhension face à un danger, une douleur ou un événement ; implique aussi le respect mêlé de crainte envers une autorité."
+    },
+    {
+        "word": "crépuscule",
+        "definition": "Lumière diffuse qui précède le lever ou suit le coucher du soleil ; par extension, déclin d’une époque, d’une vie."
+    },
+    {
+        "word": "cyanure",
+        "definition": "Sel ou ester de l’acide cyanhydrique, très toxique, souvent associé à l’empoisonnement ; utilisé dans l’industrie (métallurgie, chimie)."
+    },
+    {
+        "word": "cynisme",
+        "definition": "Attitude consistant à afficher un mépris des normes sociales ou morales ; au sens antique, doctrine philosophique prônant la liberté par le rejet des conventions."
+    },
+    {
+        "word": "dirimant",
+        "definition": "Qui rend nul un acte juridique (notamment un mariage) en raison d’un empêchement légal ou canonique insurmontable."
+    },
+    {
+        "word": "dissonant",
+        "definition": "Qui manque d’harmonie dans un son, une musique ; par extension, ce qui détonne ou choque dans un ensemble."
+    },
+    {
+        "word": "druides",
+        "definition": "Prêtres de la société celtique, à la fois détenteurs du savoir religieux, juridique et scientifique."
+    },
+    {
+        "word": "durillon",
+        "definition": "Épaississement localisé et dur de la peau, généralement causé par un frottement ou une pression répétée (surtout aux pieds ou aux mains)."
+    },
+    {
+        "word": "délétère",
+        "definition": "Nocif pour la santé ou pour l’esprit, pernicieux, corrupteur."
+    },
+    {
+        "word": "exergue",
+        "definition": "Petit espace au bas d’une médaille ou d’une monnaie, souvent occupé par une inscription ; au sens figuré, mise en valeur d’une idée ou d’une phrase au début d’un texte."
+    },
+    {
+        "word": "exsuder",
+        "definition": "Laisser échapper un liquide (sang, sueur, résine) à travers les pores ou une fissure ; au sens figuré, exprimer un sentiment de manière visible."
+    },
+    {
+        "word": "exulter",
+        "definition": "Éprouver une joie intense, souvent difficile à contenir et qui se manifeste extérieurement."
+    },
+    {
+        "word": "exuvie",
+        "definition": "Enveloppe externe rejetée par certains animaux lors de la mue (insectes, crustacés, reptiles)."
+    },
+    {
+        "word": "factice",
+        "definition": "Qui est artificiel, imité, non naturel ; peut aussi qualifier un comportement forcé ou affecté."
+    },
+    {
+        "word": "flexion",
+        "definition": "Action de plier un membre ou une partie du corps ; en grammaire, modification d’un mot selon ses variations (genre, nombre, temps, etc.)."
+    },
+    {
+        "word": "fracas",
+        "definition": "Bruit violent produit par un choc ou une chute ; par extension, tumulte ou retentissement d’un événement."
+    },
+    {
+        "word": "funeste",
+        "definition": "Qui cause ou annonce le malheur, la mort, la destruction."
+    },
+    {
+        "word": "gabeloue",
+        "definition": "Sous l’Ancien Régime, officier chargé de percevoir la gabelle (impôt sur le sel)."
+    },
+    {
+        "word": "glauque",
+        "definition": "D’un vert bleuâtre trouble ; au sens figuré, se dit d’une atmosphère lugubre, malsaine ou sinistre."
+    },
+    {
+        "word": "gommures",
+        "definition": "Petits morceaux de gomme à effacer détachés après usage ; en imprimerie, altération due à la gomme arabique."
+    },
+    {
+        "word": "gouaille",
+        "definition": "Attitude moqueuse, familière et populaire, souvent accompagnée d’un parler sarcastique."
+    },
+    {
+        "word": "gouffre",
+        "definition": "Cavité naturelle profonde dans le sol ; au figuré, situation sans issue ou dépense énorme."
+    },
+    {
+        "word": "goulag",
+        "definition": "Ensemble des camps de travail forcé de l’URSS stalinienne ; par extension, tout système concentrationnaire."
+    },
+    {
+        "word": "guenille",
+        "definition": "Vêtement usé, déchiré, de peu de valeur ; par extension, personne misérable."
+    },
+    {
+        "word": "gypseuse",
+        "definition": "Variante féminine de ‘gypseux’ : qualifie une roche, une terre ou une substance riche en gypse."
+    },
+    {
+        "word": "gypseux",
+        "definition": "Qui contient du gypse (sulfate de calcium hydraté), roche tendre utilisée dans la fabrication du plâtre."
+    },
+    {
+        "word": "géode",
+        "definition": "Cavité rocheuse tapissée de cristaux minéraux, souvent formée par des dépôts dans une bulle de lave."
+    },
+    {
+        "word": "gésir",
+        "definition": "Être couché sans mouvement, inanimé ou mort ; se dit aussi d’un objet abandonné au sol."
+    },
+    {
+        "word": "halieutique",
+        "definition": "Relatif à la pêche et à l’exploitation des ressources aquatiques, notamment maritimes."
+    },
+    {
+        "word": "halluciné",
+        "definition": "Qui est sujet à des hallucinations, c’est-à-dire des perceptions sans objet réel ; par extension, qui semble égaré, perdu dans un état de folie ou de stupeur."
+    },
+    {
+        "word": "hargneux",
+        "definition": "Qui manifeste de l’agressivité, une mauvaise humeur tenace, voire de la rancune."
+    },
+    {
+        "word": "hibiscus",
+        "definition": "Plante tropicale ou subtropicale aux grandes fleurs colorées ; certaines espèces sont utilisées en infusion."
+    },
+    {
+        "word": "hublots",
+        "definition": "Petites fenêtres rondes pratiquées dans la coque d’un navire ou la carlingue d’un avion."
+    },
+    {
+        "word": "hybride",
+        "definition": "Résultat du croisement de deux individus d’espèces, de variétés ou de genres différents ; par extension, mélange de deux éléments d’origines diverses."
+    },
+    {
+        "word": "hématome",
+        "definition": "Accumulation de sang sous la peau ou dans un tissu, consécutive à un choc ou à une rupture de vaisseau sanguin."
+    },
+    {
+        "word": "hémione",
+        "definition": "Mammifère équidé d’Asie centrale, intermédiaire entre l’âne et le cheval, adapté aux steppes."
+    },
+    {
+        "word": "hépatite",
+        "definition": "Inflammation du foie, pouvant être d’origine virale, toxique, médicamenteuse ou auto-immune."
+    },
+    {
+        "word": "impudique",
+        "definition": "Qui manque de pudeur, qui choque par son indécence, son absence de retenue."
+    },
+    {
+        "word": "incipit",
+        "definition": "Premiers mots ou premières phrases d’un texte, d’un roman ou d’un poème, qui donnent souvent le ton de l’œuvre."
+    },
+    {
+        "word": "inique",
+        "definition": "Profondément injuste, qui blesse la justice et l’équité."
+    },
+    {
+        "word": "jocrisse",
+        "definition": "Personnage naïf, maladroit ou ridicule ; par extension, individu sot et niais."
+    },
+    {
+        "word": "jouvence",
+        "definition": "Source ou principe imaginaire rendant la jeunesse ou la vigueur ; allusion à la « fontaine de Jouvence »."
+    },
+    {
+        "word": "juteux",
+        "definition": "Qui contient beaucoup de jus ; au figuré, très avantageux ou rentable."
+    },
+    {
+        "word": "kobold",
+        "definition": "Dans la mythologie germanique, esprit domestique ou souterrain, parfois bienveillant, parfois malicieux ; en minéralogie, a donné son nom au cobalt."
+    },
+    {
+        "word": "kouglof",
+        "definition": "Brioche alsacienne levée, cuite dans un moule cannelé en forme de couronne, souvent garnie de raisins secs et d’amandes."
+    },
+    {
+        "word": "kératose",
+        "definition": "Affection cutanée caractérisée par un épaississement anormal de la couche cornée de l’épiderme."
+    },
+    {
+        "word": "labyrinthe",
+        "definition": "Construction ou réseau complexe de chemins entrecroisés, conçus pour égarer ; au sens figuré, situation confuse ou inextricable."
+    },
+    {
+        "word": "limande",
+        "definition": "Poisson plat de mer, voisin de la sole, à chair fine ; par extension, peut désigner une personne mince et plate."
+    },
+    {
+        "word": "loquace",
+        "definition": "Qui parle volontiers et abondamment, avec une grande facilité d’expression."
+    },
+    {
+        "word": "lumbago",
+        "definition": "Douleur aiguë localisée dans le bas du dos (région lombaire), souvent due à un effort ou à une affection musculaire."
+    },
+    {
+        "word": "lutécien",
+        "definition": "Relatif à Lutèce, ancien nom de Paris ; en géologie, se dit aussi d’un étage du tertiaire."
+    },
+    {
+        "word": "luxueux",
+        "definition": "Qui présente un caractère de luxe, marqué par la richesse, l’opulence et le raffinement."
+    },
+    {
+        "word": "macabre",
+        "definition": "Qui évoque la mort de manière sinistre ou terrifiante ; par extension, qui provoque un malaise morbide."
+    },
+    {
+        "word": "manichéen",
+        "definition": "Relatif au manichéisme, doctrine religieuse fondée sur l’opposition radicale entre le Bien et le Mal ; par extension, vision simpliste réduisant tout à deux camps opposés."
+    },
+    {
+        "word": "martinet",
+        "definition": "Petit fouet composé de lanières de cuir utilisé pour corriger les enfants ; désigne aussi un oiseau migrateur insectivore, proche de l’hirondelle."
+    },
+    {
+        "word": "miasmes",
+        "definition": "Émanations malsaines supposées provenir de matières en décomposition ; au figuré, influences corruptrices."
+    },
+    {
+        "word": "misanthrope",
+        "definition": "Personne qui éprouve de l’aversion pour le genre humain et fuit la société."
+    },
+    {
+        "word": "monstrueux",
+        "definition": "Qui a l’apparence ou les proportions d’un monstre ; au figuré, qui dépasse la norme au point de choquer par son excès."
+    },
+    {
+        "word": "morpheme",
+        "definition": "Unité linguistique minimale porteuse de sens (racine, préfixe, suffixe)."
+    },
+    {
+        "word": "mélomane",
+        "definition": "Personne passionnée de musique, qui en a une connaissance ou une appréciation fine."
+    },
+    {
+        "word": "métempsychose",
+        "definition": "Croyance philosophique ou religieuse selon laquelle une âme peut se réincarner dans un autre corps humain ou animal après la mort."
+    },
+    {
+        "word": "nacarat",
+        "definition": "Couleur rouge orangé vif, rappelant l’éclat du corail."
+    },
+    {
+        "word": "nocif",
+        "definition": "Qui nuit à la santé ou à l’équilibre, qui cause du tort."
+    },
+    {
+        "word": "noyade",
+        "definition": "Mort ou suffocation provoquée par immersion dans un liquide ; par extension, submersion accidentelle."
+    },
+    {
+        "word": "nymphe",
+        "definition": "Dans la mythologie grecque, divinité féminine de la nature ; en biologie, stade de développement intermédiaire entre la larve et l’adulte chez certains insectes."
+    },
+    {
+        "word": "népotisme",
+        "definition": "Faveur excessive accordée à sa famille ou à ses proches, en particulier dans la distribution de charges et d’emplois."
+    },
+    {
+        "word": "ocelles",
+        "definition": "Petites taches rondes colorées sur les ailes de certains papillons ou sur les plumes d’oiseaux, rappelant un œil ; en zoologie, désigne aussi des yeux simples chez certains insectes."
+    },
+    {
+        "word": "onirique",
+        "definition": "Relatif au rêve et à son univers ; au figuré, qui a une qualité étrange, irréelle ou poétique."
+    },
+    {
+        "word": "ophidien",
+        "definition": "Relatif aux serpents ; en zoologie, désigne l’ordre des reptiles comprenant les serpents."
+    },
+    {
+        "word": "orphelin",
+        "definition": "Enfant privé de son père, de sa mère ou des deux ; par extension, personne ou chose privée d’un élément essentiel."
+    },
+    {
+        "word": "oubliette",
+        "definition": "Cachot souterrain étroit et obscur, utilisé au Moyen Âge pour enfermer et faire disparaître secrètement des prisonniers."
+    },
+    {
+        "word": "outrager",
+        "definition": "Infliger une grave offense par des paroles ou des actes marqués de mépris ou de violence."
+    },
+    {
+        "word": "oxalique",
+        "definition": "Qualifie un acide organique toxique présent dans certaines plantes (oseille, rhubarbe), utilisé en chimie."
+    },
+    {
+        "word": "oxydant",
+        "definition": "Substance chimique qui provoque une oxydation en captant des électrons ; par extension, agent corrosif."
+    },
+    {
+        "word": "oxymore",
+        "definition": "Figure de style associant deux termes contradictoires pour créer un effet saisissant (ex. : « obscure clarté »)."
+    },
+    {
+        "word": "panique",
+        "definition": "Peur soudaine, extrême et irraisonnée pouvant se propager à un groupe entier ; au sens individuel, frayeur incontrôlable."
+    },
+    {
+        "word": "paroxysme",
+        "definition": "Degré le plus intense atteint par un sentiment, une émotion ou un phénomène."
+    },
+    {
+        "word": "pendule",
+        "definition": "Dispositif oscillant servant à mesurer le temps ; par extension, état d’hésitation ou de balancement entre deux choix."
+    },
+    {
+        "word": "phloxes",
+        "definition": "Plantes ornementales herbacées de la famille des Polemoniaceae, originaires d’Amérique du Nord, aux fleurs vivement colorées, cultivées en massifs de jardin."
+    },
+    {
+        "word": "phobies",
+        "definition": "Peur irrationnelle et intense d’un objet, d’une situation ou d’un être vivant, entraînant souvent un évitement et une souffrance psychologique."
+    },
+    {
+        "word": "phtisie",
+        "definition": "Ancien nom de la tuberculose pulmonaire, maladie infectieuse chronique grave."
+    },
+    {
+        "word": "pittoresque",
+        "definition": "Qui attire par son originalité, son charme visuel ou expressif ; se dit aussi d’une description vivante et imagée."
+    },
+    {
+        "word": "pupitre",
+        "definition": "Petit meuble incliné servant de support pour lire, écrire ou poser des partitions musicales."
+    },
+    {
+        "word": "pylône",
+        "definition": "Haute structure verticale servant de support à des câbles électriques, à une antenne ou à une partie d’ouvrage (pont, etc.)."
+    },
+    {
+        "word": "pécunier",
+        "definition": "Relatif à l’argent, aux biens financiers (terme rare, vieilli, supplanté par « pécuniaire »)."
+    },
+    {
+        "word": "pénombre",
+        "definition": "État de lumière atténuée entre l’ombre et la clarté ; au figuré, obscurité morale, ignorance."
+    },
+    {
+        "word": "péremptif",
+        "definition": "Qui s’impose d’une manière absolue et exclut toute objection ; en droit, qualifie une décision ou un délai rendant l’action caduque s’il n’est pas respecté."    },
+    {
+        "word": "quartz",
+        "definition": "Minéral très répandu, composé de dioxyde de silicium (SiO₂), utilisé en joaillerie, en horlogerie (grâce à sa piézoélectricité) et dans l’industrie."
+    },
+    {
+        "word": "rassasié",
+        "definition": "Qui a suffisamment mangé, voire trop, au point de ne plus avoir faim ; au figuré, comblé, satisfait."
+    },
+    {
+        "word": "rhizome",
+        "definition": "Tige souterraine horizontale, souvent charnue, qui produit des racines et des tiges aériennes, servant d’organe de réserve et de propagation."
+    },
+    {
+        "word": "rugueux",
+        "definition": "Qui présente une surface inégale, rude au toucher ; au figuré, personne au caractère âpre, peu délicat."
+    },
+    {
+        "word": "rutilant",
+        "definition": "Qui brille avec éclat, en particulier avec des reflets rouges ; au figuré, flamboyant, éclatant."
+    },
+    {
+        "word": "sanglot",
+        "definition": "Manifestation sonore et saccadée de la respiration accompagnant les pleurs ; au figuré, parole ou son entrecoupé par l’émotion."
+    },
+    {
+        "word": "sarcasme",
+        "definition": "Raillerie amère et ironique, souvent cruelle et blessante."
+    },
+    {
+        "word": "sarcophage",
+        "definition": "Cercueil de pierre destiné à recevoir un corps, souvent décoré, utilisé dans l’Antiquité."
+    },
+    {
+        "word": "sardonicisme",
+        "definition": "Expression figée et ironique du visage, proche du rictus, associée à un rire amer."
+    },
+    {
+        "word": "sardonique",
+        "definition": "Qui exprime une ironie amère et moqueuse, accompagnée d’un rire forcé ou cynique."
+    },
+    {
+        "word": "satyrique",
+        "definition": "Relatif au satyre (divinité mi-homme mi-bouc de la mythologie grecque) ; par extension, qualifie un comportement lubrique et excessivement porté sur la sexualité."
+    },
+    {
+        "word": "scarlatine",
+        "definition": "Maladie infectieuse infantile due au streptocoque, caractérisée par une forte fièvre et une éruption cutanée rouge vif."
+    },
+    {
+        "word": "scrupule",
+        "definition": "Hésitation, doute moral qui retient d’agir ; au sens ancien, petite pierre pointue (d’où le sens figuré de ‘gêne morale’)."
+    },
+    {
+        "word": "scruter",
+        "definition": "Examiner avec une attention minutieuse et soutenue, en cherchant à découvrir ce qui est caché ou imperceptible."
+    },
+    {
+        "word": "seigneur",
+        "definition": "Titre de noblesse du Moyen Âge ; au figuré, homme puissant ou personnage vénérable."
+    },
+    {
+        "word": "sinuosité",
+        "definition": "Ligne ou forme marquée par des courbes irrégulières ; au figuré, caractère tortueux, compliqué."
+    },
+    {
+        "word": "soliloque",
+        "definition": "Discours qu’une personne se tient à elle-même, souvent à haute voix, comme si elle pensait à voix haute."
+    },
+    {
+        "word": "soufreux",
+        "definition": "Qui contient du soufre ou qui a l’odeur du soufre ; au figuré, qui évoque l’enfer ou le diabolique."
+    },
+    {
+        "word": "succube",
+        "definition": "Démon féminin censé abuser des hommes durant leur sommeil ; par extension, femme séductrice et dominatrice."
+    },
+    {
+        "word": "supplice",
+        "definition": "Souffrance atroce infligée volontairement, souvent en guise de châtiment ; au figuré, douleur morale très vive."
+    },
+    {
+        "word": "suranné",
+        "definition": "Qui appartient à une époque révolue, vieilli, désuet."
+    },
+    {
+        "word": "tacitisme",
+        "definition": "Doctrine qui interprète la pensée d’un auteur par ce qu’il ne dit pas explicitement."
+    },
+    {
+        "word": "taciturne",
+        "definition": "Se dit d’une personne qui parle peu, qui manifeste une humeur sombre et silencieuse."
+    },
+    {
+        "word": "tisonner",
+        "definition": "Remuer un feu avec un tisonnier ; au figuré, attiser une querelle."
+    },
+    {
+        "word": "torpeurs",
+        "definition": "État de demi-sommeil, de ralentissement des facultés physiques ou mentales."
+    },
+    {
+        "word": "torride",
+        "definition": "D’une chaleur extrême, brûlante ; par extension, ardent, passionné."
+    },
+    {
+        "word": "torve",
+        "definition": "Regard oblique et menaçant, qui inspire la méfiance."
+    },
+    {
+        "word": "toxique",
+        "definition": "Qui empoisonne ou nuit gravement à la santé ; par extension, qui est nocif moralement."
+    },
+    {
+        "word": "toxémie",
+        "definition": "Présence de substances toxiques dans le sang, souvent liée à une infection."
+    },
+    {
+        "word": "transi",
+        "definition": "Saisi par le froid, ou submergé par une émotion intense."
+    },
+    {
+        "word": "trombine",
+        "definition": "Visage ou mine, souvent avec un ton amusé ou péjoratif."
+    },
+    {
+        "word": "trompe",
+        "definition": "Organe allongé (comme celui de l’éléphant) ou dispositif en forme de tube."
+    },
+    {
+        "word": "tréfonds",
+        "definition": "La partie la plus profonde d’un lieu, d’une pensée ou d’un être."
+    },
+    {
+        "word": "tumulte",
+        "definition": "Désordre bruyant, agitation confuse d’une foule ou d’une situation."
+    },
+    {
+        "word": "turpitude",
+        "definition": "Grande bassesse morale, ignominie d’un comportement."
+    },
+    {
+        "word": "tutélaire",
+        "definition": "Qui protège, comme une divinité ou une figure protectrice."
+    },
+    {
+        "word": "ténacité",
+        "definition": "Qualité de ce qui résiste et persiste, souvent dans l’effort ou l’attachement."
+    },
+    {
+        "word": "ténor",
+        "definition": "Voix d’homme la plus aiguë en chant classique ; par extension, personnage de premier plan."
+    },
+    {
+        "word": "ténèbres",
+        "definition": "Obscurité profonde ; image du mystère, de l’ignorance ou du mal."
+    },
+    {
+        "word": "tératologie",
+        "definition": "Science qui étudie les malformations chez les êtres vivants."
+    },
+    {
+        "word": "valence",
+        "definition": "En chimie, capacité d’un atome à se lier avec d’autres ; par extension, valeur ou importance d’un élément."
+    },
+    {
+        "word": "valétudinaire",
+        "definition": "Personne d’une santé fragile, souvent malade ou affaiblie."
+    },
+    {
+        "word": "vampire",
+        "definition": "Créature légendaire qui se nourrit du sang des vivants ; par extension, personne exploitant les autres."
+    },
+    {
+        "word": "vassalise",
+        "definition": "Action de soumettre quelqu’un ou quelque chose dans une dépendance semblable à celle d’un vassal."
+    },
+    {
+        "word": "vermine",
+        "definition": "Ensemble de parasites nuisibles (poux, puces…) ; par extension, foule méprisable."
+    },
+    {
+        "word": "vicariant",
+        "definition": "Qui se substitue ou remplace une fonction, un rôle ou un élément manquant."
+    },
+    {
+        "word": "vicariat",
+        "definition": "Fonction ou charge d’un vicaire, représentant ou suppléant d’une autorité ecclésiastique."
+    },
+    {
+        "word": "volubile",
+        "definition": "Qui parle avec aisance et abondance, parfois trop rapidement."
+    },
+    {
+        "word": "vortex",
+        "definition": "Tourbillon de fluide (air, eau) qui entraîne tout dans son mouvement."
+    },
+    {
+        "word": "walkyrie",
+        "definition": "Dans la mythologie nordique, divinité féminine qui choisit les guerriers morts au combat et les conduit au Valhalla."
+    },
+    {
+        "word": "wapiti",
+        "definition": "Grand cervidé d’Amérique du Nord, proche de l’élan, reconnaissable à ses bois imposants."
+    },
+    {
+        "word": "warranter",
+        "definition": "Terme juridique : garantir par un ‘warrant’ (titre de propriété ou de gage). Par extension, certifier une marchandise déposée dans un entrepôt."
+    },
+    {
+        "word": "wassermann",
+        "definition": "Ancien test sérologique utilisé pour diagnostiquer la syphilis, basé sur une réaction immunologique."
+    },
+    {
+        "word": "watergang",
+        "definition": "Mot d’origine flamande désignant un fossé ou canal de drainage dans les régions humides."
+    },
+    {
+        "word": "wayang",
+        "definition": "Théâtre d’ombres traditionnel d’Indonésie, utilisant des marionnettes plates en cuir décoré."
+    },
+    {
+        "word": "weissbier",
+        "definition": "Bière allemande de fermentation haute, brassée principalement à base de blé."
+    },
+    {
+        "word": "wendat",
+        "definition": "Peuple amérindien aussi appelé Hurons, originaire de la région des Grands Lacs."
+    },
+    {
+        "word": "wurtzite",
+        "definition": "Minéral rare, une variété de sulfure de zinc, de structure cristalline hexagonale."
+    },
+    {
+        "word": "xiphoïde",
+        "definition": "Petit cartilage en forme de pointe situé à l’extrémité inférieure du sternum."
+    },
+    {
+        "word": "xylophone",
+        "definition": "Instrument de musique composé de lames de bois de tailles variées frappées avec des baguettes."
+    },
+    {
+        "word": "xénophobie",
+        "definition": "Rejet ou haine de ce qui est étranger, des personnes venues d’ailleurs."
+    },
+    {
+        "word": "yack",
+        "definition": "Grand bœuf domestique ou sauvage du Tibet et des régions de l’Himalaya, adapté aux hautes altitudes."
+    },
+    {
+        "word": "yakitori",
+        "definition": "Plat japonais composé de petites brochettes de poulet grillé, souvent assaisonnées d’une sauce sucrée-salée."
+    },
+    {
+        "word": "yatagan",
+        "definition": "Sabre courbe d’origine ottomane, caractérisé par sa lame large et recourbée."
+    },
+    {
+        "word": "yeuse",
+        "definition": "Chêne vert, arbre méditerranéen au feuillage persistant."
+    },
+    {
+        "word": "yiddish",
+        "definition": "Langue germanique mêlée d’hébreu et de slave, parlée historiquement par les communautés juives ashkénazes."
+    },
+    {
+        "word": "yin",
+        "definition": "Principe féminin, sombre et passif de la philosophie chinoise du yin et du yang."
+    },
+    {
+        "word": "yoctoseconde",
+        "definition": "Unité de temps extrêmement petite : un quadrillionième de seconde (10⁻²⁴ s)."
+    },
+    {
+        "word": "yourte",
+        "definition": "Habitation traditionnelle des peuples nomades d’Asie centrale, faite de feutre et de bois."
+    },
+    {
+        "word": "yperite",
+        "definition": "Autre nom du gaz moutarde, arme chimique toxique utilisée pendant la Première Guerre mondiale."
+    },
+    {
+        "word": "yttrium",
+        "definition": "Élément chimique métallique (symbole Y), utilisé notamment dans les lasers et certaines céramiques."
+    },
+    {
+        "word": "zeugme",
+        "definition": "Figure de style qui consiste à rattacher à un même mot deux compléments de sens très différents."
+    },
+    {
+        "word": "zinc",
+        "definition": "Métal gris-bleu, utilisé dans la galvanisation et les toitures ; familièrement, le comptoir d’un café."
+    },
+    {
+        "word": "zircon",
+        "definition": "Minéral dur utilisé en bijouterie comme pierre précieuse ou imitation du diamant."
+    },
+    {
+        "word": "zloty",
+        "definition": "Monnaie officielle de la Pologne."
+    },
+    {
+        "word": "zodiacal",
+        "definition": "Relatif au zodiaque, bande du ciel où passent le soleil, la lune et les planètes."
+    },
+    {
+        "word": "zombifier",
+        "definition": "Transformer en zombie, au sens propre (imaginaire fantastique) comme au figuré (abrutir)."
+    },
+    {
+        "word": "zoologie",
+        "definition": "Science qui étudie les animaux, leur classification, leur biologie."
+    },
+    {
+        "word": "zoophage",
+        "definition": "Qui se nourrit d’animaux ou de chair animale."
+    },
+    {
+        "word": "zygote",
+        "definition": "Cellule issue de la fécondation d’un ovule par un spermatozoïde, première étape du développement embryonnaire."
+    },
+    {
+        "word": "zéphyr",
+        "definition": "Vent léger et doux venant de l’ouest ; par extension, ce qui est agréable et aérien."
+    },
+    {
+        "word": "éboulure",
+        "definition": "Éboulement de matériaux (roches, terre, gravats) sur une pente ou une paroi ; désigne aussi la masse effondrée."
+    },
+    {
+        "word": "ébéniste",
+        "definition": "Artisan spécialisé dans la fabrication et la restauration de meubles en bois de qualité, généralement précieux ou raffinés."
+    },
+    {
+        "word": "écharde",
+        "definition": "Petit fragment pointu de bois, de métal ou d’os qui s’enfonce sous la peau et provoque une douleur locale."
+    },
+    {
+        "word": "égrener",
+        "definition": "Détacher les grains d’une plante (blé, maïs, raisin, grenade) ; au sens figuré, énoncer une suite de mots ou d’éléments un à un."
+    },
+    {
+        "word": "émphase",
+        "definition": "Manière d’exprimer une idée avec intensité ou exagération, souvent jugée excessive."
+    },
+    {
+        "word": "épilepsie",
+        "definition": "Maladie neurologique chronique caractérisée par des crises soudaines dues à une activité électrique anormale du cerveau."
+    },
+    {
+        "word": "épiphyse",
+        "definition": "Petite glande endocrine du cerveau (appelée aussi « glande pinéale ») ; en anatomie osseuse, extrémité élargie d’un os long."
+    },
+    {
+        "word": "équinoxe",
+        "definition": "Moment de l’année où le jour et la nuit ont une durée sensiblement égale (vers le 20 mars et le 23 septembre)."
+    },
+    {
+        "word": "équité",
+        "definition": "Principe moral de justice naturelle qui vise à tempérer la rigidité des lois pour s’adapter aux cas particuliers."
+    },
+    {
+        "word": "équivoque",
+        "definition": "Ce qui présente plusieurs sens possibles, souvent ambigu ou douteux moralement."
+    },
+    {
+        "word": "ésotérisme",
+        "definition": "Ensemble de doctrines ou de pratiques réservées à un petit cercle d’initiés, généralement obscures pour le grand public."
+    },
+    {
+        "word": "étrave",
+        "definition": "Partie avant d’un navire, qui fend l’eau et permet la progression."
+    }
+]

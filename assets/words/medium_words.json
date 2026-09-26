@@ -1,0 +1,657 @@
+[
+    {
+    "word": "abandons",
+    "definition": "Action de laisser quelque chose ou quelqu’un derrière soi, volontairement ou par obligation. Peut évoquer un manque de soin ou une décision difficile."
+    },
+    {
+        "word": "accident",
+        "definition": "Un événement imprévu et généralement négatif (ex : accident de voiture)."
+    },
+    {
+        "word": "activiste",
+        "definition": "Individu militant, engagé activement pour défendre une cause ou un idéal."
+    },
+    {
+        "word": "ajoutées",
+        "definition": "Choses qui ont été rajoutées en plus du contenu d'origine."
+    },
+    {
+        "word": "alerteur",
+        "definition": "Celui qui avertit ou alerte d’un danger."
+    },
+    {
+        "word": "analyser",
+        "definition": "Examiner en détail pour comprendre."
+    },
+    {
+        "word": "ancrages",
+        "definition": "Points de fixation solides qui maintiennent un objet ou une idée en place ; peut être utilisé au sens figuré pour parler de repères dans la vie."
+    },
+    {
+        "word": "animales",
+        "definition": "Ce qui se rapporte directement aux animaux, par exemple la vie animale ou les comportements animaux."
+    },
+    {
+        "word": "animatif",
+        "definition": "Caractère qui anime ou stimule, souvent utilisé pour parler de supports d’animation ou d’activités."
+    },
+    {
+        "word": "animaux",
+        "definition": "Êtres vivants appartenant au règne animal, capables de ressentir et de se mouvoir."
+    },
+    {
+        "word": "apprenti",
+        "definition": "Personne en formation qui apprend un métier ou une activité auprès d’un professionnel."
+    },
+    {
+        "word": "appuyer",
+        "definition": "Mettre un objet ou une partie du corps contre un support ; aussi, donner son soutien à une idée ou une personne."
+    },
+    {
+        "word": "arrogant",
+        "definition": "Personne ou attitude qui montre un excès d’orgueil, de fierté ou de mépris envers les autres."
+    },
+    {
+        "word": "aspirant",
+        "definition": "Celui qui souhaite accéder à un poste ou un statut ; aussi, appareil ou personne qui aspire l’air."
+    },
+    {
+        "word": "assaut",
+        "definition": "Attaque rapide et violente, souvent militaire, mais aussi utilisée pour décrire une action énergique."
+    },
+    {
+        "word": "assiette",
+        "definition": "Objet de vaisselle plat pour servir et manger ; peut aussi désigner l’équilibre ou la stabilité."    },
+    {
+        "word": "augmenta",
+        "definition": "Action passée du verbe augmenter : quelque chose a grandi, s’est intensifié ou est devenu plus important."
+    },
+    {
+        "word": "augmenter",
+        "definition": "Rendre plus grand, plus fort ou plus intense."
+    },
+    {
+        "word": "banquiers",
+        "definition": "Personnes travaillant dans le domaine bancaire, qui gèrent l’argent et les crédits."
+    },
+    {
+        "word": "brillant",
+        "definition": "Qui brille fortement ; peut aussi désigner une personne très douée ou un succès remarquable."
+    },
+    {
+        "word": "bruyante",
+        "definition": "Qui fait beaucoup de bruit, qui perturbe le calme."
+    },
+    {
+        "word": "bénéfice",
+        "definition": "Avantage ou profit obtenu grâce à une action, une activité ou une décision."
+    },
+    {
+        "word": "cachoter",
+        "definition": "Cacher ou dissimuler quelque chose volontairement, souvent par malice."
+    },
+    {
+        "word": "calculer",
+        "definition": "Effectuer une opération mathématique ou estimer quelque chose par la réflexion."
+    },
+    {
+        "word": "candidats",
+        "definition": "Personnes qui postulent pour un emploi, un concours, une élection ou une admission."
+    },
+    {
+        "word": "capturer",
+        "definition": "Attraper ou prendre de force quelque chose ou quelqu’un, comme un animal ou un criminel."
+    },
+    {
+        "word": "carreaux",
+        "definition": "Petits morceaux de céramique ou de verre servant à couvrir des surfaces ; peut aussi désigner les motifs sur un tissu."
+    },
+    {
+        "word": "caution",
+        "definition": "Somme d’argent donnée comme garantie, ou personne qui garantit une obligation."
+    },
+    {
+        "word": "chaleurs",
+        "definition": "Températures élevées ; aussi utilisé pour parler de la période de reproduction chez certains animaux."
+    },
+    {
+        "word": "charisme",
+        "definition": "Qualité d’une personne qui attire, séduit et influence les autres par sa présence."
+    },
+    {
+        "word": "chassent",
+        "definition": "Forme du verbe chasser : ils ou elles poursuivent des animaux ou font fuir quelque chose."
+    },
+    {
+        "word": "chassure",
+        "definition": "Ancien mot ou variante mal utilisée de chaussure, désignant des souliers pour se chausser."
+    },
+    {
+        "word": "chaussée",
+        "definition": "Partie de la route où circulent les véhicules ; par extension, surface pavée pour marcher."
+    },
+    {
+        "word": "cheminée",
+        "definition": "Conduit permettant à la fumée de sortir d’une maison ; peut aussi désigner la structure décorative autour du foyer."
+    },
+    {
+        "word": "chevaux",
+        "definition": "Animaux domestiqués utilisés pour le transport, le travail ou le sport."
+    },
+    {
+        "word": "chiffres",
+        "definition": "Symboles numériques servant à compter ou mesurer."
+    },
+    {
+        "word": "ciblages",
+        "definition": "Actions de repérer ou viser un groupe ou un objectif."
+    },
+    {
+        "word": "climats",
+        "definition": "Ensemble des conditions météorologiques d’une région sur une longue durée."
+    },
+    {
+        "word": "comiques",
+        "definition": "Qui fait rire, humoristique ; ou personnes spécialisées dans l’humour."
+    },
+    {
+        "word": "condamné",
+        "definition": "Personne reconnue coupable et punie par la justice ; peut aussi désigner quelqu’un voué à un sort malheureux."
+    },
+    {
+        "word": "conjoint",
+        "definition": "Époux, épouse ou partenaire officiel dans une union."
+    },
+    {
+        "word": "courageux",
+        "definition": "Qui agit malgré la peur, qui fait preuve de bravoure."
+    },
+    {
+        "word": "crayonne",
+        "definition": "Action de dessiner ou écrire légèrement au crayon."
+    },
+    {
+        "word": "création",
+        "definition": "Action de donner naissance à quelque chose de nouveau, qu’il soit artistique, technique ou conceptuel."
+    },
+    {
+        "word": "créature",
+        "definition": "Être vivant, souvent utilisé pour désigner des personnages imaginaires ou étranges."
+    },
+    {
+        "word": "curieuse",
+        "definition": "Personne qui aime découvrir, apprendre et poser des questions ; peut aussi désigner un comportement indiscret."
+    },
+    {
+        "word": "dentelle",
+        "definition": "Tissu très fin et décoratif, fait de fils entrelacés, utilisé pour les vêtements ou la décoration."
+    },
+    {
+        "word": "dentiste",
+        "definition": "Médecin spécialisé dans le soin des dents et de la bouche."
+    },
+    {
+        "word": "dialogue",
+        "definition": "Échange de paroles entre deux ou plusieurs personnes."
+    },
+    {
+        "word": "diffuser",
+        "definition": "Répandre, faire circuler une information, une émission ou une substance."
+    },
+    {
+        "word": "dirigent",
+        "definition": "Forme du verbe diriger : ils ou elles guident, commandent ou administrent."
+    },
+    {
+        "word": "dissiper",
+        "definition": "Faire disparaître peu à peu quelque chose, comme un doute, une peur ou de la fumée."
+    },
+    {
+        "word": "douleurs",
+        "definition": "Sensation physique ou émotionnelle désagréable et pénible."
+    },
+    {
+        "word": "déclarer",
+        "definition": "Annoncer officiellement ou exprimer clairement une opinion, une décision ou une vérité."
+    },
+    {
+        "word": "défenses",
+        "definition": "Parties du corps de certains animaux (éléphants, sangliers) ; peut aussi désigner des moyens de protection."
+    },
+    {
+        "word": "dépasser",
+        "definition": "Aller au-delà d’une limite, surmonter une difficulté ou devancer quelqu’un."
+    },
+    {
+        "word": "désirant",
+        "definition": "Qui souhaite, qui a envie d’obtenir quelque chose."
+    },
+    {
+        "word": "dévorant",
+        "definition": "Qui mange avec avidité ; au sens figuré, une passion ou une émotion très forte."
+    },
+    {
+        "word": "embraser",
+        "definition": "Mettre en feu ; au sens figuré, enflammer les esprits ou les émotions."
+    },
+    {
+        "word": "enrichir",
+        "definition": "Rendre plus riche, soit en argent, soit en connaissances ou expériences."
+    },
+    {
+        "word": "enseigné",
+        "definition": "Participe passé d’enseigner : transmettre un savoir ou une compétence."
+    },
+    {
+        "word": "entourer",
+        "definition": "Placer autour de quelqu’un ou quelque chose ; aussi protéger ou accompagner."
+    },
+    {
+        "word": "escalade",
+        "definition": "Action de grimper sur une paroi, une montagne ou un obstacle."
+    },
+    {
+        "word": "esquiver",
+        "definition": "Éviter habilement un coup, une attaque ou une situation gênante."
+    },
+    {
+        "word": "estomper",
+        "definition": "Rendre moins net, atténuer ou faire disparaître progressivement."
+    },
+    {
+        "word": "exilés",
+        "definition": "Personnes contraintes de quitter leur pays, souvent pour des raisons politiques ou de sécurité."
+    },
+    {
+        "word": "existant",
+        "definition": "Qui est présent, réel, qui existe déjà."
+    },
+    {
+        "word": "expliquer",
+        "definition": "Faire comprendre quelque chose en donnant des détails ou des raisons."
+    },
+    {
+        "word": "explorer",
+        "definition": "Parcourir un lieu pour le découvrir, l’étudier ou en connaître les détails."
+    },
+    {
+        "word": "facteurs",
+        "definition": "Éléments qui influencent une situation ; ou personnes qui distribuent le courrier."
+    },
+    {
+        "word": "faiblesse",
+        "definition": "Manque de force physique ou morale ; défaut ou fragilité."
+    },
+    {
+        "word": "fermette",
+        "definition": "Petite ferme, souvent rustique, utilisée comme habitation ou exploitation."
+    },
+    {
+        "word": "fermetés",
+        "definition": "Caractère de ce qui est solide et stable ; peut aussi désigner une attitude décidée."
+    },
+    {
+        "word": "figurine",
+        "definition": "Petite statuette décorative ou de collection représentant une personne, un animal ou un personnage."
+    },
+    {
+        "word": "filament",
+        "definition": "Fil très fin et souple, naturel ou artificiel, utilisé en électricité, en textile ou en biologie."
+    },
+    {
+        "word": "fluviale",
+        "definition": "Relatif aux fleuves et aux rivières."
+    },
+    {
+        "word": "forgeron",
+        "definition": "Artisan qui travaille le métal en le chauffant et en le martelant."
+    },
+    {
+        "word": "formules",
+        "definition": "Expressions toutes faites ou équations mathématiques."
+    },
+    {
+        "word": "frissons",
+        "definition": "Petits tremblements involontaires du corps, causés par le froid, la peur ou l’émotion."
+    },
+    {
+        "word": "fromages",
+        "definition": "Produits alimentaires fabriqués à partir de lait caillé, affinés de différentes manières."
+    },
+    {
+        "word": "fusibles",
+        "definition": "Petits dispositifs électriques qui protègent un circuit en cas de surcharge."
+    },
+    {
+        "word": "garderie",
+        "definition": "Lieu où l’on s’occupe des enfants pendant l’absence de leurs parents."
+    },
+    {
+        "word": "glissade",
+        "definition": "Action de glisser sur une surface, souvent involontairement."
+    },
+    {
+        "word": "générale",
+        "definition": "Qui concerne tout le monde ou l’ensemble d’une situation."
+    },
+    {
+        "word": "généreux",
+        "definition": "Qui aime donner, partager ou aider sans attendre quelque chose en retour."
+    },
+    {
+        "word": "habituel",
+        "definition": "Qui se fait régulièrement, de manière courante ou normale."
+    },
+    {
+        "word": "hommages",
+        "definition": "Marques de respect, de reconnaissance ou d’admiration envers quelqu’un."
+    },
+    {
+        "word": "hôpitaux",
+        "definition": "Établissements où l’on soigne les malades et blessés."
+    },
+    {
+        "word": "intenses",
+        "definition": "Très forts, puissants ou extrêmes, que ce soit pour une sensation, une émotion ou un effort."
+    },
+    {
+        "word": "intimide",
+        "definition": "Qui provoque de la crainte ou rend quelqu’un mal à l’aise."
+    },
+    {
+        "word": "isolante",
+        "definition": "Qui empêche le passage de la chaleur, du son ou de l’électricité."
+    },
+    {
+        "word": "journal",
+        "definition": "Publication quotidienne ou périodique contenant des informations ; peut aussi désigner un carnet personnel."
+    },
+    {
+        "word": "journaux",
+        "definition": "Forme plurielle de journal : publications régulières contenant des actualités."
+    },
+    {
+        "word": "libertine",
+        "definition": "Personne qui mène une vie libre, parfois marquée par la recherche des plaisirs."
+    },
+    {
+        "word": "localise",
+        "definition": "Situer quelque chose dans l’espace, identifier sa position."
+    },
+    {
+        "word": "longueur",
+        "definition": "Mesure de la dimension la plus longue d’un objet."
+    },
+    {
+        "word": "luminaire",
+        "definition": "Objet qui éclaire une pièce, comme une lampe ou un lustre."
+    },
+    {
+        "word": "lumières",
+        "definition": "Rayons émis par une source lumineuse ; au figuré, connaissances et savoirs."
+    },
+    {
+        "word": "lunettes",
+        "definition": "Objet optique porté devant les yeux pour mieux voir ou se protéger."
+    },
+    {
+        "word": "légendes",
+        "definition": "Récits traditionnels souvent imaginaires ; aussi, explications courtes accompagnant une image."
+    },
+    {
+        "word": "marchand",
+        "definition": "Personne qui vend des biens ou services, souvent sur un marché."
+    },
+    {
+        "word": "mariages",
+        "definition": "Union officielle ou religieuse de deux personnes, célébrée par une cérémonie."
+    },
+    {
+        "word": "militant",
+        "definition": "Personne engagée activement pour défendre une idée, une cause ou un mouvement."
+    },
+    {
+        "word": "ministre",
+        "definition": "Membre du gouvernement chargé d’un domaine particulier, comme la santé ou l’éducation."
+    },
+    {
+        "word": "moineaux",
+        "definition": "Petits oiseaux communs vivant près des habitations humaines."
+    },
+    {
+        "word": "mosaïque",
+        "definition": "Assemblage décoratif fait de petits morceaux colorés ; aussi, mélange varié d’éléments."
+    },
+    {
+        "word": "musicien",
+        "definition": "Personne qui joue d’un instrument ou compose de la musique."
+    },
+    {
+        "word": "mystères",
+        "definition": "Choses difficiles à comprendre ou à expliquer, entourées de secret."
+    },
+    {
+        "word": "navettes",
+        "definition": "Transports faisant des allers-retours réguliers ; peut aussi désigner des petits biscuits allongés."
+    },
+    {
+        "word": "nettoyer",
+        "definition": "Enlever la saleté, rendre propre."
+    },
+    {
+        "word": "nouveaux",
+        "definition": "Choses récentes, qui apparaissent ou viennent d’arriver."
+    },
+    {
+        "word": "nuageux",
+        "definition": "Ciel couvert de nuages, manquant de soleil."
+    },
+    {
+        "word": "obstacle",
+        "definition": "Ce qui empêche le passage ou rend une action difficile."
+    },
+    {
+        "word": "officiel",
+        "definition": "Qui émane d’une autorité reconnue ; ou personne représentant une autorité."
+    },
+    {
+        "word": "palissade",
+        "definition": "Clôture faite de planches ou de pieux serrés, servant de barrière."
+    },
+    {
+        "word": "panaches",
+        "definition": "Grandes touffes ou ornements, souvent de plumes, de fumée ou de flammes."
+    },
+    {
+        "word": "panorama",
+        "definition": "Vue d’ensemble très large sur un paysage."
+    },
+    {
+        "word": "pharaons",
+        "definition": "Anciens rois d’Égypte considérés comme des divinités."
+    },
+    {
+        "word": "piratage",
+        "definition": "Action illégale consistant à copier, voler ou accéder à des données ou programmes."
+    },
+    {
+        "word": "pistache",
+        "definition": "Petit fruit sec comestible, souvent utilisé en pâtisserie ou comme en-cas."
+    },
+    {
+        "word": "polluent",
+        "definition": "Forme du verbe polluer : ils ou elles rendent l’air, l’eau ou la terre sales et nuisibles."
+    },
+    {
+        "word": "poursuit",
+        "definition": "Forme du verbe poursuivre : il ou elle continue une action ou chasse quelqu’un."
+    },
+    {
+        "word": "problème",
+        "definition": "Question ou difficulté à résoudre."
+    },
+    {
+        "word": "prochain",
+        "definition": "Qui vient immédiatement après, dans le temps ou dans l’espace."
+    },
+    {
+        "word": "promesse",
+        "definition": "Engagement de faire quelque chose ou de tenir une parole."
+    },
+    {
+        "word": "proverbe",
+        "definition": "Courte phrase populaire exprimant une vérité ou un conseil de sagesse."
+    },
+    {
+        "word": "précieux",
+        "definition": "Qui a une grande valeur matérielle ou affective."
+    },
+    {
+        "word": "présider",
+        "definition": "Diriger une assemblée, une réunion ou un organisme officiel."
+    },
+    {
+        "word": "prévient",
+        "definition": "Forme du verbe prévenir : il ou elle avertit d’un danger ou empêche qu’il arrive."
+    },
+    {
+        "word": "pénétrer",
+        "definition": "Entrer dans un lieu ou traverser une surface."
+    },
+    {
+        "word": "périmètre",
+        "definition": "Mesure du contour d’une figure géométrique ; ou limite d’un espace."
+    },
+    {
+        "word": "périodes",
+        "definition": "Durées de temps limitées marquées par certains événements."
+    },
+    {
+        "word": "rassuré",
+        "definition": "Qui a retrouvé son calme après une inquiétude."
+    },
+    {
+        "word": "ravivant",
+        "definition": "Qui redonne de la force, de la vie ou de l’intensité."
+    },
+    {
+        "word": "rayonnés",
+        "definition": "Qui ont diffusé de la lumière, de la chaleur ou une influence."
+    },
+    {
+        "word": "refusent",
+        "definition": "Forme du verbe refuser : ils ou elles rejettent une demande ou une proposition."
+    },
+    {
+        "word": "relatifs",
+        "definition": "Qui se rapportent à quelque chose ou qui dépendent d’une comparaison."
+    },
+    {
+        "word": "renforcé",
+        "definition": "Devenu plus solide, plus intense ou plus résistant."
+    },
+    {
+        "word": "renouvel",
+        "definition": "Forme du verbe renouveler : refaire, remplacer ou donner une nouvelle vie à quelque chose."
+    },
+    {
+        "word": "reptiles",
+        "definition": "Animaux à sang froid comme les serpents, lézards ou tortues."
+    },
+    {
+        "word": "respirer",
+        "definition": "Inspirer et expirer de l’air pour vivre ; peut aussi signifier se détendre."
+    },
+    {
+        "word": "ressenti",
+        "definition": "Ce que l’on perçoit intérieurement, comme une émotion ou une impression."
+    },
+    {
+        "word": "retarder",
+        "definition": "Repousser un événement à plus tard, ralentir."
+    },
+    {
+        "word": "retouche",
+        "definition": "Modification ou correction apportée à un texte, une image ou un objet."
+    },
+    {
+        "word": "romancer",
+        "definition": "Transformer un récit en histoire plus imaginaire, embellie ou fictive."
+    },
+    {
+        "word": "réalisez",
+        "definition": "Forme du verbe réaliser : vous accomplissez ou vous comprenez quelque chose."
+    },
+    {
+        "word": "réalisés",
+        "definition": "Choses qui ont été faites ou accomplies."
+    },
+    {
+        "word": "récitait",
+        "definition": "Forme du verbe réciter : il ou elle disait un texte appris par cœur."
+    },
+    {
+        "word": "récitant",
+        "definition": "Personne qui lit ou déclame un texte à voix haute."
+    },
+    {
+        "word": "réduire",
+        "definition": "Rendre plus petit, moins intense ou moins important."
+    },
+    {
+        "word": "réduites",
+        "definition": "Qui ont été diminuées en taille, en quantité ou en intensité."
+    },
+    {
+        "word": "réformer",
+        "definition": "Changer une organisation ou une règle pour l’améliorer."
+    },
+    {
+        "word": "résister",
+        "definition": "Ne pas céder face à une force, une pression ou une tentation."
+    },
+    {
+        "word": "résultat",
+        "definition": "Conséquence ou effet d’une action, d’un travail ou d’un événement."
+    },
+    {
+        "word": "sceptres",
+        "definition": "Bâtons ornés symbolisant le pouvoir des rois."
+    },
+    {
+        "word": "sentiers",
+        "definition": "Petits chemins étroits, souvent en pleine nature."
+    },
+    {
+        "word": "solidité",
+        "definition": "Caractère de ce qui est solide, résistant ou stable."
+    },
+    {
+        "word": "solistes",
+        "definition": "Musiciens ou chanteurs qui jouent ou chantent seuls, en avant d’un groupe."
+    },
+    {
+        "word": "solitude",
+        "definition": "État d’une personne qui est seule, volontairement ou non."
+    },
+    {
+        "word": "soumettre",
+        "definition": "Placer sous l’autorité de quelqu’un ou faire accepter quelque chose."
+    },
+    {
+        "word": "souvenir",
+        "definition": "Mémoire d’une expérience passée, ou objet rappelant un événement."
+    },
+    {
+        "word": "éliminer",
+        "definition": "Faire disparaître, supprimer ou écarter quelque chose ou quelqu’un."
+    },
+    {
+        "word": "éléphant",
+        "definition": "Grand mammifère à trompe, vivant en Afrique ou en Asie."
+    },
+    {
+        "word": "épreuves",
+        "definition": "Situations difficiles à surmonter ; peut aussi désigner des tests ou compétitions."
+    }
+]

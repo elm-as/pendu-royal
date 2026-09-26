@@ -1,0 +1,813 @@
+[
+    {
+        "word": "abandons",
+        "definition": "Action de laisser quelque chose ou quelqu’un derrière soi, volontairement ou par obligation. Peut évoquer un manque de soin ou une décision difficile."
+    },
+    {
+        "word": "absolument",
+        "definition": "De manière certaine, sans aucun doute."
+    },
+    {
+        "word": "académiquement",
+        "definition": "Selon les règles ou usages d'une académie, souvent lié à l'enseignement ou aux études."
+    },
+    {
+        "word": "accessibilité",
+        "definition": "Caractère de ce qui est facilement accessible ou utilisable, notamment pour les personnes handicapées."
+    },
+    {
+        "word": "accident",
+        "definition": "Un événement imprévu et généralement négatif (ex : accident de voiture)."
+    },
+    {
+        "word": "acclimatation",
+        "definition": "Adaptation progressive d’un être vivant ou d’une personne à un nouvel environnement."
+    },
+    {
+        "word": "accompagnement",
+        "definition": "Action d’accompagner quelqu’un ou quelque chose, ou bien musique jouée en soutien d’un chant."
+    },
+    {
+        "word": "accréditation",
+        "definition": "Autorisation officielle donnée à une personne ou une organisation pour exercer une activité."
+    },
+    {
+        "word": "activiste",
+        "definition": "Individu militant, engagé activement pour défendre une cause ou un idéal."
+    },
+    {
+        "word": "administratif",
+        "definition": "Relatif à l’administration, aux services de gestion ou aux formalités officielles."
+    },
+    {
+        "word": "administration",
+        "definition": "Organisation chargée de gérer une structure publique ou privée ; action de gérer."
+    },
+    {
+        "word": "affirmation",
+        "definition": "Action de déclarer quelque chose comme vrai ou de soutenir une idée."
+    },
+    {
+        "word": "ajoutées",
+        "definition": "Choses qui ont été rajoutées en plus du contenu d'origine."
+    },
+    {
+        "word": "alerteur",
+        "definition": "Celui qui avertit ou alerte d’un danger."
+    },
+    {
+        "word": "alimentation",
+        "definition": "Action de fournir de la nourriture ou des ressources nécessaires au fonctionnement."
+    },
+    {
+        "word": "analyser",
+        "definition": "Examiner en détail pour comprendre."
+    },
+    {
+        "word": "ancrages",
+        "definition": "Points de fixation solides qui maintiennent un objet ou une idée en place ; peut être utilisé au sens figuré pour parler de repères dans la vie."
+    },
+    {
+        "word": "animales",
+        "definition": "Ce qui se rapporte directement aux animaux, par exemple la vie animale ou les comportements animaux."
+    },
+    {
+        "word": "animatif",
+        "definition": "Caractère qui anime ou stimule, souvent utilisé pour parler de supports d’animation ou d’activités."
+    },
+    {
+        "word": "animaux",
+        "definition": "Êtres vivants appartenant au règne animal, capables de ressentir et de se mouvoir."
+    },
+    {
+        "word": "apprenti",
+        "definition": "Personne en formation qui apprend un métier ou une activité auprès d’un professionnel."
+    },
+    {
+        "word": "apprentissage",
+        "definition": "Processus par lequel on acquiert des connaissances ou un savoir-faire."
+    },
+    {
+        "word": "approvisionnement",
+        "definition": "Action de fournir et de distribuer des ressources ou des marchandises."
+    },
+    {
+        "word": "appréciation",
+        "definition": "Action de porter un jugement positif ou négatif sur quelqu’un ou quelque chose."
+    },
+    {
+        "word": "appuyer",
+        "definition": "Poser quelque chose contre un support ou donner son soutien à une personne, une idée ou une action."
+    },
+    {
+        "word": "aristocratie",
+        "definition": "Classe sociale privilégiée, historiquement composée de nobles."
+    },
+    {
+        "word": "arrogant",
+        "definition": "Personne ou attitude qui montre un excès d’orgueil, de fierté ou de mépris envers les autres."
+    },
+    {
+        "word": "artistiquement",
+        "definition": "D’une manière qui se rapporte à l’art ou à la créativité."
+    },
+    {
+        "word": "aspirant",
+        "definition": "Personne qui souhaite atteindre une fonction, un poste ou un objectif ; aussi, quelqu’un qui aspire l’air."
+    },
+    {
+        "word": "aspirateur",
+        "definition": "Appareil électroménager servant à nettoyer en aspirant la poussière."
+    },
+    {
+        "word": "assaut",
+        "definition": "Attaque soudaine et violente contre une personne, un lieu ou un obstacle."
+    },
+    {
+        "word": "assiette",
+        "definition": "Objet plat utilisé pour manger ; peut aussi désigner la position stable d’un objet ou d’un avion."
+    },
+    {
+        "word": "assurément",
+        "definition": "D’une manière certaine, sans aucun doute."
+    },
+    {
+        "word": "augmenta",
+        "definition": "Forme passée du verbe augmenter, signifiant qu’une chose est devenue plus grande ou plus importante."
+    },
+    {
+        "word": "authenticité",
+        "definition": "Caractère de ce qui est vrai, sincère, conforme à la réalité."
+    },
+    {
+        "word": "autodidacte",
+        "definition": "Personne qui a appris seule, sans suivre d’enseignement formel."
+    },
+    {
+        "word": "automatiquement",
+        "definition": "Qui se fait sans intervention humaine directe, ou de manière spontanée."
+    },
+    {
+        "word": "bibliographe",
+        "definition": "Spécialiste qui décrit, classe et étudie les livres."
+    },
+    {
+        "word": "bibliothèque",
+        "definition": "Lieu où sont conservés et prêtés des livres, ou meuble pour ranger des livres."
+    },
+    {
+        "word": "bioluminescent",
+        "definition": "Qui émet de la lumière naturellement par réaction chimique (par ex. lucioles, certains poissons)."
+    },
+    {
+        "word": "camionnette",
+        "definition": "Petit camion servant à transporter des marchandises ou du matériel."
+    },
+    {
+        "word": "caractéristique",
+        "definition": "Trait distinctif qui permet d’identifier une chose ou une personne."
+    },
+    {
+        "word": "carnavalesque",
+        "definition": "Qui a le caractère d’un carnaval : festif, coloré, parfois exagéré."
+    },
+    {
+        "word": "centralisation",
+        "definition": "Action de regrouper le pouvoir ou les services en un seul centre."
+    },
+    {
+        "word": "circonstanciel",
+        "definition": "Qui dépend des circonstances ou du contexte."
+    },
+    {
+        "word": "clémentines",
+        "definition": "Petits agrumes sucrés et sans pépins, proches des mandarines."
+    },
+    {
+        "word": "collaboration",
+        "definition": "Travail réalisé en commun avec d’autres personnes."
+    },
+    {
+        "word": "communication",
+        "definition": "Action de transmettre des informations ou d’entrer en relation avec autrui."
+    },
+    {
+        "word": "compatibilité",
+        "definition": "Caractère de ce qui peut fonctionner ou coexister sans contradiction."
+    },
+    {
+        "word": "compensation",
+        "definition": "Action de compenser une perte, un désavantage ou une dette."
+    },
+    {
+        "word": "complexité",
+        "definition": "Caractère de ce qui est compliqué, qui comporte plusieurs éléments difficiles à analyser."
+    },
+    {
+        "word": "comportemental",
+        "definition": "Qui concerne le comportement, la manière d’agir."
+    },
+    {
+        "word": "concentration",
+        "definition": "Action de rassembler son attention ou ses efforts sur quelque chose."
+    },
+    {
+        "word": "conformément",
+        "definition": "D’une manière qui respecte une règle, une loi ou une consigne."
+    },
+    {
+        "word": "conspiration",
+        "definition": "Entente secrète entre plusieurs personnes pour nuire ou comploter."
+    },
+    {
+        "word": "constructif",
+        "definition": "Qui aide à progresser, à bâtir quelque chose de positif."
+    },
+    {
+        "word": "contemplation",
+        "definition": "Action de regarder attentivement quelque chose avec admiration ou réflexion."
+    },
+    {
+        "word": "conversation",
+        "definition": "Échange de paroles entre plusieurs personnes."
+    },
+    {
+        "word": "coopération",
+        "definition": "Action de travailler ensemble pour un objectif commun."
+    },
+    {
+        "word": "coopérative",
+        "definition": "Organisation où des personnes s’associent pour gérer ensemble une activité."
+    },
+    {
+        "word": "célébration",
+        "definition": "Action de fêter un événement ou de rendre hommage."
+    },
+    {
+        "word": "dictionnaire",
+        "definition": "Ouvrage qui rassemble et définit les mots d’une langue."
+    },
+    {
+        "word": "diffusion",
+        "definition": "Action de propager ou de répandre quelque chose."
+    },
+    {
+        "word": "disparition",
+        "definition": "Fait de ne plus être visible, de cesser d’exister."
+    },
+    {
+        "word": "distillation",
+        "definition": "Procédé de séparation de liquides par évaporation et condensation."
+    },
+    {
+        "word": "diversification",
+        "definition": "Action de varier, d’élargir la gamme d’activités ou de produits."
+    },
+    {
+        "word": "documentation",
+        "definition": "Ensemble de documents servant de référence ou d’information."
+    },
+    {
+        "word": "dramatiquement",
+        "definition": "De manière dramatique, soit au sens théâtral, soit dans un sens grave."
+    },
+    {
+        "word": "décentralisé",
+        "definition": "Qui n’est pas concentré dans un seul centre, mais réparti."
+    },
+    {
+        "word": "démocratique",
+        "definition": "Qui concerne ou respecte les principes de la démocratie."
+    },
+    {
+        "word": "déroutante",
+        "definition": "Qui trouble ou surprend, qui rend confus."
+    },
+    {
+        "word": "désinformation",
+        "definition": "Diffusion volontaire de fausses informations."
+    },
+    {
+        "word": "désobéissance",
+        "definition": "Fait de ne pas obéir à un ordre ou une règle."
+    },
+    {
+        "word": "détermination",
+        "definition": "Volonté ferme de parvenir à un but."
+    },
+    {
+        "word": "développement",
+        "definition": "Action de croître, de progresser ou de rendre plus avancé."
+    },
+    {
+        "word": "enrichissement",
+        "definition": "Action de devenir plus riche, matériellement ou intellectuellement."
+    },
+    {
+        "word": "exagérément",
+        "definition": "D’une manière excessive, au-delà de la mesure."
+    },
+    {
+        "word": "explicativement",
+        "definition": "D’une manière qui sert à expliquer."
+    },
+    {
+        "word": "expérimentation",
+        "definition": "Action de tester ou de faire une expérience pour vérifier une hypothèse."
+    },
+    {
+        "word": "extermination",
+        "definition": "Action de détruire totalement un groupe ou une espèce."
+    },
+    {
+        "word": "extraordinaire",
+        "definition": "Qui est exceptionnel, remarquable, hors du commun."
+    },
+    {
+        "word": "fonctionnaire",
+        "definition": "Personne qui travaille dans la fonction publique."
+    },
+    {
+        "word": "fonctionnelle",
+        "definition": "Qui est conçu pour être pratique et efficace."
+    },
+    {
+        "word": "fondamental",
+        "definition": "Qui est à la base de quelque chose, essentiel."
+    },
+    {
+        "word": "fortement",
+        "definition": "D’une manière forte, avec intensité."    },
+    {
+        "word": "fortification",
+        "definition": "Construction de défenses militaires (murs, remparts)."
+    },
+    {
+        "word": "fréquemment",
+        "definition": "Qui arrive souvent, de manière répétée."
+    },
+    {
+        "word": "gentillesse",
+        "definition": "Qualité de quelqu’un qui est aimable et bienveillant."
+    },
+    {
+        "word": "gouvernemental",
+        "definition": "Qui concerne le gouvernement."
+    },
+    {
+        "word": "généralisable",
+        "definition": "Qui peut être étendu à d’autres cas similaires."
+    },
+    {
+        "word": "généralisateur",
+        "definition": "Qui tend à appliquer une règle ou une idée de façon générale."
+    },
+    {
+        "word": "génératrice",
+        "definition": "Qui produit, qui engendre quelque chose."
+    },
+    {
+        "word": "générosité",
+        "definition": "Disposition à donner aux autres sans attendre en retour."
+    },
+    {
+        "word": "géolocalisation",
+        "definition": "Procédé permettant de déterminer la position géographique d’un objet ou d’une personne."
+    },
+    {
+        "word": "harmonisation",
+        "definition": "Action de rendre quelque chose cohérent et équilibré."
+    },
+    {
+        "word": "hospitalière",
+        "definition": "Qui concerne les hôpitaux ou qui accueille volontiers les autres."
+    },
+    {
+        "word": "hélicoptère",
+        "definition": "Aéronef dont le vol est assuré par des rotors tournant sur lui-même."
+    },
+    {
+        "word": "illustratrice",
+        "definition": "Personne qui réalise des dessins pour accompagner un texte."
+    },
+    {
+        "word": "imagination",
+        "definition": "Capacité de créer des images mentales ou des idées nouvelles."
+    },
+    {
+        "word": "imprévisible",
+        "definition": "Qui ne peut pas être prévu à l’avance."
+    },
+    {
+        "word": "inattendu",
+        "definition": "Qui survient de manière imprévue."
+    },
+    {
+        "word": "incompatibilité",
+        "definition": "Caractère de choses ou de personnes qui ne peuvent pas aller ensemble."
+    },
+    {
+        "word": "incompréhensible",
+        "definition": "Qui ne peut pas être compris."
+    },
+    {
+        "word": "inconditionnel",
+        "definition": "Qui n’est soumis à aucune condition, total."
+    },
+    {
+        "word": "incontestable",
+        "definition": "Qui ne peut pas être mis en doute."
+    },
+    {
+        "word": "incroyablement",
+        "definition": "D’une manière difficile à croire, étonnante."
+    },
+    {
+        "word": "indispensable",
+        "definition": "Qui est absolument nécessaire."
+    },
+    {
+        "word": "individuelle",
+        "definition": "Qui concerne une seule personne."
+    },
+    {
+        "word": "industrialiser",
+        "definition": "Introduire l’industrie dans un domaine ou développer fortement la production industrielle."
+    },
+    {
+        "word": "indépendamment",
+        "definition": "Sans lien direct, séparément."
+    },
+    {
+        "word": "insaisissable",
+        "definition": "Qui est difficile à attraper ou à comprendre."
+    },
+    {
+        "word": "inscription",
+        "definition": "Action de s’enregistrer ou d’écrire son nom pour participer à quelque chose."
+    },
+    {
+        "word": "institution",
+        "definition": "Organisation publique ou privée qui a une fonction sociale importante."
+    },
+    {
+        "word": "institutionnel",
+        "definition": "Qui est relatif aux institutions."
+    },
+    {
+        "word": "instrumentiste",
+        "definition": "Musicien ou musicienne qui joue d’un instrument."
+    },
+    {
+        "word": "intellectuels",
+        "definition": "Personnes qui se consacrent à des activités de réflexion et de culture."
+    },
+    {
+        "word": "interconnexion",
+        "definition": "Lien ou mise en relation de plusieurs éléments."
+    },
+    {
+        "word": "interlocuteur",
+        "definition": "Personne avec qui l’on parle."
+    },
+    {
+        "word": "international",
+        "definition": "Qui concerne plusieurs pays."
+    },
+    {
+        "word": "interprétation",
+        "definition": "Action d’expliquer ou de donner un sens à quelque chose."
+    },
+    {
+        "word": "intervention",
+        "definition": "Action d’intervenir, d’agir dans une situation."
+    },
+    {
+        "word": "investigation",
+        "definition": "Recherche approfondie pour découvrir des faits."
+    },
+    {
+        "word": "juridiquement",
+        "definition": "Du point de vue du droit."
+    },
+    {
+        "word": "jurisprudence",
+        "definition": "Ensemble des décisions de justice qui servent de référence."
+    },
+    {
+        "word": "justification",
+        "definition": "Action d’expliquer ou de prouver la validité de quelque chose."
+    },
+    {
+        "word": "lexicographe",
+        "definition": "Personne qui rédige ou étudie les dictionnaires."
+    },
+    {
+        "word": "manifestation",
+        "definition": "Action de montrer un sentiment ou rassemblement public pour exprimer une opinion."
+    },
+    {
+        "word": "modernisation",
+        "definition": "Action de rendre moderne, d’adapter aux nouvelles techniques."
+    },
+    {
+        "word": "modérément",
+        "definition": "Avec mesure, sans excès."
+    },
+    {
+        "word": "monstrueusement",
+        "definition": "D’une manière monstrueuse, soit énorme, soit effrayante."
+    },
+    {
+        "word": "multinational",
+        "definition": "Qui concerne plusieurs nations, généralement une entreprise présente dans plusieurs pays."
+    },
+    {
+        "word": "mystérieusement",
+        "definition": "D’une manière étrange ou difficile à comprendre."
+    },
+    {
+        "word": "mécanisation",
+        "definition": "Introduction de machines pour remplacer le travail manuel."
+    },
+    {
+        "word": "médiatisation",
+        "definition": "Action de rendre quelque chose public par les médias."
+    },
+    {
+        "word": "naturellement",
+        "definition": "D’une façon naturelle, spontanée ou évidente."
+    },
+    {
+        "word": "neutralisation",
+        "definition": "Action de rendre inoffensif ou de supprimer l’effet d’une chose."
+    },
+    {
+        "word": "obligatoirement",
+        "definition": "De manière obligatoire, sans possibilité de choix."
+    },
+    {
+        "word": "observation",
+        "definition": "Action d’examiner attentivement quelque chose."
+    },
+    {
+        "word": "organisation",
+        "definition": "Action d’agencer les éléments de manière ordonnée."
+    },
+    {
+        "word": "orthographe",
+        "definition": "Manière correcte d’écrire les mots."
+    },
+    {
+        "word": "pharmacologie",
+        "definition": "Science qui étudie les médicaments et leurs effets."
+    },
+    {
+        "word": "philosophie",
+        "definition": "Discipline qui réfléchit sur l’existence, la connaissance et la pensée."
+    },
+    {
+        "word": "photographie",
+        "definition": "Art ou technique de prendre des images avec un appareil photo."
+    },
+    {
+        "word": "potentialiser",
+        "definition": "Donner plus de puissance ou d’efficacité à quelque chose."
+    },
+    {
+        "word": "probabilités",
+        "definition": "Mesure de la chance qu’un événement se produise."
+    },
+    {
+        "word": "programmateur",
+        "definition": "Personne qui écrit ou organise des programmes informatiques."
+    },
+    {
+        "word": "programmation",
+        "definition": "Action d’écrire du code informatique ou d’organiser un plan."
+    },
+    {
+        "word": "proportionnel",
+        "definition": "Qui est en rapport équilibré avec quelque chose."
+    },
+    {
+        "word": "prédestination",
+        "definition": "Croyance selon laquelle le destin d’une personne est fixé à l’avance."
+    },
+    {
+        "word": "prédominance",
+        "definition": "Supériorité ou influence plus forte d’une chose sur une autre."
+    },
+    {
+        "word": "préoccupation",
+        "definition": "Souci ou inquiétude persistante."
+    },
+    {
+        "word": "psychologique",
+        "definition": "Qui se rapporte à la psychologie, à l’esprit."
+    },
+    {
+        "word": "publicitaire",
+        "definition": "Qui concerne la publicité."
+    },
+    {
+        "word": "pédagogique",
+        "definition": "Qui se rapporte à l’enseignement ou à la méthode éducative."
+    },
+    {
+        "word": "pénétration",
+        "definition": "Action de pénétrer dans quelque chose."
+    },
+    {
+        "word": "quantification",
+        "definition": "Action de mesurer en quantité."
+    },
+    {
+        "word": "quantitativement",
+        "definition": "D’un point de vue de la quantité."
+    },
+    {
+        "word": "rationalisme",
+        "definition": "Doctrine qui privilégie la raison pour expliquer et comprendre."
+    },
+    {
+        "word": "recommandation",
+        "definition": "Conseil donné pour guider une action."
+    },
+    {
+        "word": "reconnaissance",
+        "definition": "Fait d’identifier quelqu’un ou de témoigner de la gratitude."
+    },
+    {
+        "word": "relationnel",
+        "definition": "Qui concerne les relations entre personnes."
+    },
+    {
+        "word": "relocalisation",
+        "definition": "Action de déplacer une activité vers un autre lieu."
+    },
+    {
+        "word": "représentatif",
+        "definition": "Qui représente bien un ensemble."
+    },
+    {
+        "word": "respectueusement",
+        "definition": "Avec respect, politesse."
+    },
+    {
+        "word": "responsabilité",
+        "definition": "Obligation de répondre de ses actes ou de ceux des autres."
+    },
+    {
+        "word": "restitution",
+        "definition": "Action de rendre quelque chose à son propriétaire."
+    },
+    {
+        "word": "restructuration",
+        "definition": "Action de réorganiser profondément quelque chose."
+    },
+    {
+        "word": "réalisation",
+        "definition": "Action d’accomplir un projet ou une œuvre."
+    },
+    {
+        "word": "récapitulation",
+        "definition": "Action de résumer les points principaux."
+    },
+    {
+        "word": "récompensateur",
+        "definition": "Qui procure une récompense en échange d’un effort."
+    },
+    {
+        "word": "réflexologie",
+        "definition": "Méthode de massage basée sur la stimulation de points précis du pied ou de la main."
+    },
+    {
+        "word": "réfrigérateur",
+        "definition": "Appareil électroménager servant à conserver les aliments au frais."
+    },
+    {
+        "word": "réglementation",
+        "definition": "Ensemble des règles établies dans un domaine."
+    },
+    {
+        "word": "réhabilitation",
+        "definition": "Action de restaurer les droits ou la réputation de quelqu’un, ou de remettre un lieu en état."
+    },
+    {
+        "word": "réinterprétation",
+        "definition": "Action d’expliquer à nouveau ou différemment quelque chose."
+    },
+    {
+        "word": "réutilisation",
+        "definition": "Action de réemployer quelque chose au lieu de le jeter."
+    },
+    {
+        "word": "révolution",
+        "definition": "Changement radical, bouleversement dans un domaine."
+    },
+    {
+        "word": "révolutionnaire",
+        "definition": "Qui apporte un changement profond, novateur."
+    },
+    {
+        "word": "révolutionner",
+        "definition": "Transformer complètement quelque chose."
+    },
+    {
+        "word": "sensibilisation",
+        "definition": "Action de rendre quelqu’un conscient d’un problème ou d’une cause."
+    },
+    {
+        "word": "singulièrement",
+        "definition": "De manière particulière, inhabituelle."
+    },
+    {
+        "word": "sociologiquement",
+        "definition": "Du point de vue de la sociologie."
+    },
+    {
+        "word": "statistiquement",
+        "definition": "Selon les données ou méthodes statistiques."
+    },
+    {
+        "word": "subdivision",
+        "definition": "Partie issue d’une division plus grande."
+    },
+    {
+        "word": "substantielle",
+        "definition": "Qui est important, considérable en quantité ou en valeur."
+    },
+    {
+        "word": "substitution",
+        "definition": "Action de remplacer une chose par une autre."
+    },
+    {
+        "word": "symboliquement",
+        "definition": "De façon symbolique, représentant une idée ou une valeur."
+    },
+    {
+        "word": "systématique",
+        "definition": "Qui suit une méthode organisée et régulière."
+    },
+    {
+        "word": "technologie",
+        "definition": "Ensemble des techniques et outils développés par l’homme."
+    },
+    {
+        "word": "transmission",
+        "definition": "Action de transmettre, de faire passer quelque chose."
+    },
+    {
+        "word": "transparence",
+        "definition": "Qualité de ce qui est clair, lisible ou honnête."
+    },
+    {
+        "word": "triangulaire",
+        "definition": "Qui a la forme d’un triangle."
+    },
+    {
+        "word": "téléphérique",
+        "definition": "Moyen de transport suspendu par câbles, souvent en montagne."
+    },
+    {
+        "word": "universelle",
+        "definition": "Qui concerne tout le monde, sans exception."
+    },
+    {
+        "word": "utilisation",
+        "definition": "Action d’employer quelque chose pour un but."
+    },
+    {
+        "word": "vérificateur",
+        "definition": "Personne ou dispositif qui contrôle la validité de quelque chose."
+    },
+    {
+        "word": "électricité",
+        "definition": "Forme d’énergie produite par le mouvement des charges électriques."
+    },
+    {
+        "word": "émancipation",
+        "definition": "Action de se libérer d’une dépendance ou d’une autorité."
+    },
+    {
+        "word": "émotionnelle",
+        "definition": "Qui concerne les émotions."
+    },
+    {
+        "word": "époustouflante",
+        "definition": "Qui étonne au plus haut point, qui impressionne fortement."
+    },
+    {
+        "word": "épuration",
+        "definition": "Action de rendre plus pur, souvent en éliminant ce qui est indésirable."
+    },
+    {
+        "word": "évaporation",
+        "definition": "Transformation d’un liquide en vapeur."
+    },
+    {
+        "word": "événementiel",
+        "definition": "Qui est lié à l’organisation d’événements."
+    }
+]
