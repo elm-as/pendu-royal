@@ -110,7 +110,16 @@ MODES = {
         "Le même mot pour tout le monde, un seul essai par jour.",
         forced_level="medium",
     ),
+    # Mode secret, débloqué en touchant 5 fois la couronne du roi sur l'accueil
+    "anime": Mode(
+        "anime", "Animé",
+        "Devine le personnage. Facile : animé, rôle et description. Corsé : animé et rôle. "
+        "Infernal : l'animé seul.",
+    ),
 }
+
+# Indices gratuits affichés d'emblée en mode Animé, selon la difficulté
+ANIME_CLUES = {"noob": ("anime", "role", "description"), "medium": ("anime", "role"), "hard": ("anime",)}
 
 HINTS = {
     "letter": ("Lettre", 15),

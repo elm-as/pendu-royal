@@ -203,7 +203,8 @@
             color: rgba("parchment")
             size_hint_y: None
             height: dp(30)
-        Image:
+        HeroImage:
+            id: hero
             source: img("pendu_hero")
             fit_mode: "contain"
             size_hint_y: 1
@@ -239,7 +240,7 @@
         id: toast
         size_hint: 1, None
         height: dp(40)
-        y: dp(150)
+        top: root.height - dp(130)
 
 # ============================================================== Choix du mode
 <ScreenHeader@BoxLayout>:
@@ -444,7 +445,7 @@
                 text_size: self.width, None
                 halign: "center"
                 size_hint_y: None
-                height: min(self.texture_size[1], dp(64)) if root.hint_text else dp(4)
+                height: min(self.texture_size[1], dp(84)) if root.hint_text else dp(4)
                 shorten: False
 
             # --- Actions
@@ -670,6 +671,93 @@
                 bg: rgba("danger")
                 on_release: root.answer(True)
 
+<HeroImage>:
+    canvas.before:
+        PushMatrix
+        Translate:
+            y: self.bump
+    canvas.after:
+        PopMatrix
+
+<SecretModal>:
+    size_hint: 0.88, None
+    height: box.minimum_height
+    background: ""
+    background_color: 0, 0, 0, 0
+    overlay_color: 0, 0, 0, 0.7
+    Panel:
+        id: box
+        orientation: "vertical"
+        size_hint_y: None
+        height: self.minimum_height
+        padding: dp(18)
+        spacing: dp(12)
+        border: rgba("gold")
+        Image:
+            source: img("icon")
+            size_hint_y: None
+            height: dp(120)
+        Heading:
+            text: root.title
+            halign: "center"
+            text_size: self.width, None
+        Muted:
+            text: root.message
+            color: rgba("text")
+            font_size: sp(16)
+        RoundButton:
+            text: "Voir le mode Animé"
+            size_hint_y: None
+            height: dp(52)
+            bg: rgba("gold")
+            fg: rgba("ink")
+            on_release: root.go()
+
+<FakeCrashModal>:
+    size_hint: 1, 1
+    auto_dismiss: False
+    background: ""
+    background_color: (0.9, 0.66, 0.23, 1) if self.joke else (0.04, 0.39, 0.79, 1)
+    overlay_color: 0, 0, 0, 1
+    BoxLayout:
+        orientation: "vertical"
+        padding: dp(28), dp(60)
+        spacing: dp(18)
+        Label:
+            text: ":(" if not root.joke else ""
+            font_size: sp(96)
+            color: 1, 1, 1, 1
+            halign: "left"
+            valign: "middle"
+            text_size: self.size
+            size_hint_y: None
+            height: 0 if root.joke else dp(130)
+            opacity: 0 if root.joke else 1
+        Image:
+            source: img("pendu_hero")
+            fit_mode: "contain"
+            size_hint_y: None
+            height: dp(300) if root.joke else 0
+            opacity: 1 if root.joke else 0
+        Label:
+            text: ("JE RIGOLE !" if root.joke else "ERREUR 404")
+            font_name: "Title" if root.joke else "Body"
+            bold: True
+            font_size: sp(40)
+            color: rgba("ink") if root.joke else (1, 1, 1, 1)
+            halign: "center" if root.joke else "left"
+            text_size: self.width, None
+            size_hint_y: None
+            height: self.texture_size[1]
+        Label:
+            text: "Continue, Manassé. Le roi compte sur toi (un peu)." if root.joke else "Cerveau de Manassé introuvable.\n\nPENDU_ROYAL.EXE a cessé de fonctionner. Ton téléphone va redémarrer.\n\nCollecte des neurones de Manassé : " + str(int(root.progress)) + " % terminé"
+            font_size: sp(19)
+            color: rgba("ink") if root.joke else (1, 1, 1, 1)
+            halign: "center" if root.joke else "left"
+            valign: "top"
+            text_size: self.width, None
+        Widget:
+
 # ============================================================== Résultats
 <ScoreLine>:
     size_hint_y: None
@@ -721,6 +809,15 @@
                 font_size: sp(15)
                 size_hint_y: None
                 height: dp(20)
+            Label:
+                text: "« " + root.quote + " »" if root.quote else ""
+                color: rgba("parchment")
+                italic: True
+                font_size: sp(15)
+                text_size: self.width, None
+                halign: "center"
+                size_hint_y: None
+                height: self.texture_size[1] if root.quote else 0
             WordBoard:
                 id: board
                 size_hint_y: 0.1

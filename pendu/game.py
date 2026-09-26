@@ -7,7 +7,7 @@ import random
 from dataclasses import dataclass, field
 
 from .config import (
-    CHRONO_MISS_PENALTY, HARDCORE_TURN_TIME, LEVELS, MODES,
+    ANIME_CLUES, CHRONO_MISS_PENALTY, HARDCORE_TURN_TIME, LEVELS, MODES,
     WORD_GUESS_PENALTY,
 )
 from .words import fold
@@ -33,6 +33,7 @@ class Round:
         self.word = entry["word"]
         self.definition = entry.get("definition", "")
         self.theme = entry.get("theme", "")
+        self.anime = entry.get("anime", "")   # mode Animé : titre de l'œuvre
         self.level = level
         self.max_lives = lives
         self.lives = lives
@@ -260,6 +261,8 @@ class Session:
         level = LEVELS[self.level_for(self.index)]
         if self.mode.key == "daily":
             entry = self.bank.daily(self.today)
+        elif self.mode.key == "anime":
+            entry = self.bank.pick_anime(self.recent, self.rng)
         else:
             entry = self.bank.pick(level.key, self.recent, self.rng)
         self.recent.append(entry["word"])
@@ -269,6 +272,13 @@ class Session:
         rnd = Round(entry, level, lives, unlimited_lives=bool(self.mode.global_time))
         self.rounds.append(rnd)
         return rnd
+
+    def clues(self, rnd) -> list:
+        """Mode Animé : indices gratuits selon la difficulté (libellé, texte)."""
+        if self.mode.key != "anime":
+            return []
+        texts = {"anime": ("Animé", rnd.anime), "role": ("Rôle", rnd.theme), "description": ("", rnd.definition)}
+        return [texts[k] for k in ANIME_CLUES[rnd.level.key]]
 
     def extra_score(self, rnd) -> list:
         extra = []

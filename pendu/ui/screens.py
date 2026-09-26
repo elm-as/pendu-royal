@@ -9,8 +9,16 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.modalview import ModalView
 from kivy.uix.screenmanager import Screen
 
+import json
+import time
+
+from kivy.animation import Animation
+from kivy.properties import NumericProperty
+from kivy.uix.image import Image
+
+from .. import trolls
 from ..achievements import ACHIEVEMENTS
-from ..config import LEVEL_ORDER, LEVELS, MODES, img
+from ..config import ASSETS, LEVEL_ORDER, LEVELS, MODES, img
 from .widgets import rgba
 
 
@@ -66,9 +74,82 @@ class ConfirmModal(ModalView):
 
 
 # --- Accueil -----------------------------------------------------------------
+class HeroImage(Image):
+    """Illustration de l'accueil ; `bump` la fait sursauter quand on touche la couronne."""
+    bump = NumericProperty(0)
+
+
+class SecretModal(ModalView):
+    title = StringProperty("")
+    message = StringProperty("")
+    on_go = ObjectProperty(None)
+
+    def go(self):
+        self.dismiss()
+        if self.on_go:
+            self.on_go()
+
+
+CROWN_TAPS = 5
+
+
 class HomeScreen(BaseScreen):
     points_text = StringProperty("")
     daily_text = StringProperty("")
+    _crown_box = None
+
+    def __init__(self, **kw):
+        super().__init__(**kw)
+        self._taps = []
+        if HomeScreen._crown_box is None:
+            layout = json.loads((ASSETS / "images" / "pendu_layout.json").read_text(encoding="utf-8"))
+            HomeScreen._crown_box = layout.get("hero_crown", [0, 0, 0, 0])
+
+    def on_enter(self, *args):
+        if not self.app.greeted:  # le roi salue Manassé une fois par lancement
+            self.app.greeted = True
+            self.later(lambda: self.ids.toast.show(trolls.pick(trolls.GREETINGS), "gold", 2.6), 0.7)
+
+    def _on_crown(self, x, y) -> bool:
+        hero = self.ids.hero
+        w, h = hero.norm_image_size
+        x0, y0 = hero.center_x - w / 2, hero.center_y - h / 2
+        bx, by, bw, bh = self._crown_box
+        return x0 + bx * w <= x <= x0 + (bx + bw) * w and y0 + by * h <= y <= y0 + (by + bh) * h
+
+    def on_touch_down(self, touch):
+        x, y = touch.x - self.x, touch.y - self.y  # repère local de l'écran
+        if self.ids.hero.collide_point(x, y) and self._on_crown(x, y):
+            self.crown_tap()
+            return True
+        return super().on_touch_down(touch)
+
+    def crown_tap(self):
+        now = time.time()
+        self._taps = [t for t in self._taps if now - t < 2.5] + [now]
+        hero = self.ids.hero
+        Animation.cancel_all(hero, "bump")
+        (Animation(bump=6 + 3 * len(self._taps), d=0.07) + Animation(bump=0, d=0.25, t="out_bounce")).start(hero)
+        self.app.audio.play("coin")
+        if len(self._taps) >= CROWN_TAPS:
+            self._taps = []
+            self.reveal_secret()
+
+    def reveal_secret(self):
+        profile = self.app.profile
+        if profile["secrets"]["anime"]:
+            self.ids.toast.show(f"Le mode Animé est déjà à toi, {trolls.NAME}.", "gold", 2.2)
+            return
+        profile["secrets"]["anime"] = True
+        profile.save()
+        self.app.audio.play("unlock")
+        self.app.audio.vibrate(250)
+        SecretModal(
+            title=f"Bienvenue, {trolls.NAME}",
+            message="Tu as trouvé le secret de la couronne.\n\nLe mode Animé est débloqué : "
+                    "devine les personnages de tes animés préférés, de Naruto à Solo Leveling.",
+            on_go=lambda: self.app.go("modes", "left"),
+        ).open()
 
     def on_pre_enter(self, *args):
         profile = self.app.profile
@@ -130,11 +211,14 @@ class ModesScreen(BaseScreen):
             ("chrono", "bonus", f"Record : {modes['chrono']['best_words']} mot(s) · {modes['chrono']['best_score']} pts"),
             ("hardcore", "danger", f"Victoires : {modes['hardcore']['wins']}"),
         ]
+        if profile["secrets"]["anime"]:
+            a = modes["anime"]
+            cards.insert(1, ("anime", "penalty", f"Victoires : {a['wins']} · série {a['streak']} (record {a['best_streak']})"))
         for key, accent, record in cards:
             mode = MODES[key]
             box.add_widget(ModeCard(
                 mode_key=key, title=mode.label, tagline=mode.tagline, record=record,
-                accent=rgba(accent), show_levels=(key == "classic"), level=last_level,
+                accent=rgba(accent), show_levels=key in ("classic", "anime"), level=last_level,
             ))
 
 
@@ -159,6 +243,7 @@ class ResultScreen(BaseScreen):
     points_text = StringProperty("")
     primary_text = StringProperty("REJOUER")
     header_image = StringProperty("")
+    quote = StringProperty("")
     achievements = ListProperty([])
 
     def show(self, result: dict):
@@ -179,6 +264,10 @@ class ResultScreen(BaseScreen):
             if rnd.perfect:
                 self.subtitle += " · PARFAIT"
         self.definition = rnd.definition
+        if mode.key == "anime":
+            self.subtitle = f"Animé · {rnd.level.label}"
+            self.definition = f"{rnd.anime} — {rnd.theme}\n\n{rnd.definition}"
+        self.quote = "" if result.get("abandon") else trolls.result_quote(rnd.won, rnd.perfect)
         total = session.total_score if mode.chained else result["points"]
         self.total_text = f"{total} pts"
         self.points_text = f"Bourse : {self.app.profile.points} pts"
@@ -260,6 +349,9 @@ class StatsScreen(BaseScreen):
                 ("Défi : meilleure série", m["daily"]["best_streak"]), ("Défis réussis", f"{m['daily']['wins']} / {m['daily']['played']}"),
                 ("Mots différents trouvés", len(p["found_words"])), ("Points gagnés", t["points_earned"]),
             ]
+            if p["secrets"]["anime"]:
+                a = m["anime"]
+                self.items += [("Animé : victoires", f"{a['wins']} / {a['games']}"), ("Animé : meilleure série", a["best_streak"])]
         grid = self.ids.grid
         grid.clear_widgets()
         for label, value in self.items:

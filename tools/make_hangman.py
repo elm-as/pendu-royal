@@ -338,10 +338,16 @@ def main():
         "faces": {k: boxes[f"pendu_face_{k}"] for k in ("calm", "worry", "dead")},
         "face_after": "pendu_head",
     }
-    LAYOUT.write_text(json.dumps(layout, indent=1), encoding="utf-8")
-
     hero = composite("worry").resize((FINAL, FINAL), Image.LANCZOS)
-    hero.crop(hero.getchannel("A").getbbox()).save(OUT / "pendu_hero.png", optimize=True)
+    hb = hero.getchannel("A").getbbox()
+    hero.crop(hb).save(OUT / "pendu_hero.png", optimize=True)
+    # zone de la couronne dans pendu_hero.png (normalisée, origine en bas à gauche) : le secret de l'accueil
+    k = FINAL / CANVAS
+    top = HEAD_CY - HEAD_R + 14
+    x0, y0, x1, y1 = [v * k for v in (HEAD_CX - 90, top - 100, HEAD_CX + 90, top + 24)]
+    w, h = hb[2] - hb[0], hb[3] - hb[1]
+    layout["hero_crown"] = [(x0 - hb[0]) / w, 1 - (y1 - hb[1]) / h, (x1 - x0) / w, (y1 - y0) / h]
+    LAYOUT.write_text(json.dumps(layout, indent=1), encoding="utf-8")
     dead = composite("dead").resize((FINAL, FINAL), Image.LANCZOS)
     dead.crop(dead.getchannel("A").getbbox()).save(OUT / "pendu_dead.png", optimize=True)
 

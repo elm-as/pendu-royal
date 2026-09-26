@@ -1,0 +1,632 @@
+[
+ {
+  "word": "sasuke",
+  "anime": "Naruto",
+  "theme": "Rival",
+  "definition": "Dernier survivant de son clan, il quitte le village pour se venger de son frère."
+ },
+ {
+  "word": "kakashi",
+  "anime": "Naruto",
+  "theme": "Mentor",
+  "definition": "Ninja copieur au masque et au bandeau sur l'œil, toujours en retard, fan de romans douteux."
+ },
+ {
+  "word": "itachi",
+  "anime": "Naruto",
+  "theme": "Anti-héros",
+  "definition": "Génie qui a massacré son propre clan… pour des raisons bien plus nobles qu'il n'y paraît."
+ },
+ {
+  "word": "madara",
+  "anime": "Naruto",
+  "theme": "Méchant",
+  "definition": "Légendaire fondateur du village caché, revenu d'entre les morts pour plonger le monde dans un rêve éternel."
+ },
+ {
+  "word": "jiraiya",
+  "anime": "Naruto",
+  "theme": "Mentor",
+  "definition": "Ermite des crapauds, écrivain pervers et parrain du héros."
+ },
+ {
+  "word": "sakura",
+  "anime": "Naruto",
+  "theme": "Allié",
+  "definition": "Coéquipière aux cheveux roses, médecin ninja à la force monstrueuse."
+ },
+ {
+  "word": "gaara",
+  "anime": "Naruto",
+  "theme": "Allié",
+  "definition": "Hôte du démon à une queue qui contrôle le sable, devenu chef de son village."
+ },
+ {
+  "word": "orochimaru",
+  "anime": "Naruto",
+  "theme": "Méchant",
+  "definition": "Ninja serpent obsédé par l'immortalité et les techniques interdites."
+ },
+ {
+  "word": "hinata",
+  "anime": "Naruto",
+  "theme": "Allié",
+  "definition": "Héritière timide aux yeux blancs, secrètement amoureuse du héros."
+ },
+ {
+  "word": "luffy",
+  "anime": "One Piece",
+  "theme": "Protagoniste",
+  "definition": "Capitaine au chapeau de paille et au corps en caoutchouc, qui veut devenir roi des pirates."
+ },
+ {
+  "word": "zoro",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Épéiste à trois sabres, incapable de trouver son chemin."
+ },
+ {
+  "word": "sanji",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Cuisinier qui ne se bat qu'avec les jambes et tombe amoureux de chaque femme."
+ },
+ {
+  "word": "nami",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Navigatrice de l'équipage, passionnée par l'argent et les mandarines."
+ },
+ {
+  "word": "usopp",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Tireur d'élite au long nez, champion du mensonge et de la peur."
+ },
+ {
+  "word": "chopper",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Renne médecin qui a mangé un fruit du démon, adore qu'on le complimente."
+ },
+ {
+  "word": "robin",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Archéologue capable de faire pousser des bras partout, seule à lire les Ponéglyphes."
+ },
+ {
+  "word": "shanks",
+  "anime": "One Piece",
+  "theme": "Mentor",
+  "definition": "Empereur aux cheveux roux qui a offert son chapeau de paille au héros."
+ },
+ {
+  "word": "crocodile",
+  "anime": "One Piece",
+  "theme": "Méchant",
+  "definition": "Seigneur du désert au crochet d'or, qui transforme tout en sable."
+ },
+ {
+  "word": "doflamingo",
+  "anime": "One Piece",
+  "theme": "Méchant",
+  "definition": "Roi d'un pays de jouets, manipulateur à lunettes et manteau de plumes roses."
+ },
+ {
+  "word": "kaido",
+  "anime": "One Piece",
+  "theme": "Méchant",
+  "definition": "Empereur dragon réputé indestructible, maître du pays des Wa."
+ },
+ {
+  "word": "brook",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Squelette musicien au rire caractéristique, qui demande à voir les culottes."
+ },
+ {
+  "word": "franky",
+  "anime": "One Piece",
+  "theme": "Allié",
+  "definition": "Charpentier cyborg qui fonctionne au cola et prend des poses « super »."
+ },
+ {
+  "word": "goku",
+  "anime": "Dragon Ball",
+  "theme": "Protagoniste",
+  "definition": "Saiyan au cœur pur, affamé de combats et de nourriture."
+ },
+ {
+  "word": "vegeta",
+  "anime": "Dragon Ball",
+  "theme": "Rival",
+  "definition": "Prince des Saiyans, orgueilleux, obsédé par l'idée de dépasser son éternel rival."
+ },
+ {
+  "word": "gohan",
+  "anime": "Dragon Ball",
+  "theme": "Allié",
+  "definition": "Fils du héros, génie des études, au potentiel caché immense."
+ },
+ {
+  "word": "piccolo",
+  "anime": "Dragon Ball",
+  "theme": "Mentor",
+  "definition": "Namek vert à la cape blanche, ancien ennemi devenu professeur du fils du héros."
+ },
+ {
+  "word": "freezer",
+  "anime": "Dragon Ball",
+  "theme": "Méchant",
+  "definition": "Tyran de l'espace qui a détruit la planète des Saiyans."
+ },
+ {
+  "word": "trunks",
+  "anime": "Dragon Ball",
+  "theme": "Allié",
+  "definition": "Venu du futur avec son épée pour prévenir d'une terrible menace."
+ },
+ {
+  "word": "krilin",
+  "anime": "Dragon Ball",
+  "theme": "Allié",
+  "definition": "Meilleur ami du héros, moine chauve qui meurt bien trop souvent."
+ },
+ {
+  "word": "cell",
+  "anime": "Dragon Ball",
+  "theme": "Méchant",
+  "definition": "Androïde bio-organique qui absorbe les autres pour atteindre sa forme parfaite."
+ },
+ {
+  "word": "tanjiro",
+  "anime": "Demon Slayer",
+  "theme": "Protagoniste",
+  "definition": "Vendeur de charbon devenu pourfendeur de démons pour sauver sa sœur."
+ },
+ {
+  "word": "nezuko",
+  "anime": "Demon Slayer",
+  "theme": "Allié",
+  "definition": "Petite sœur changée en démon, un bâillon de bambou dans la bouche."
+ },
+ {
+  "word": "zenitsu",
+  "anime": "Demon Slayer",
+  "theme": "Allié",
+  "definition": "Froussard aux cheveux jaunes qui devient redoutable… quand il s'endort."
+ },
+ {
+  "word": "inosuke",
+  "anime": "Demon Slayer",
+  "theme": "Allié",
+  "definition": "Sauvage élevé par des sangliers, qui porte une tête de sanglier."
+ },
+ {
+  "word": "muzan",
+  "anime": "Demon Slayer",
+  "theme": "Méchant",
+  "definition": "Tout premier démon, maître de tous les autres, vieux de mille ans."
+ },
+ {
+  "word": "rengoku",
+  "anime": "Demon Slayer",
+  "theme": "Mentor",
+  "definition": "Pilier de la Flamme au sourire éclatant et à l'appétit féroce."
+ },
+ {
+  "word": "akaza",
+  "anime": "Demon Slayer",
+  "theme": "Méchant",
+  "definition": "Démon supérieur tatoué qui ne vit que pour les combats à mains nues."
+ },
+ {
+  "word": "shinobu",
+  "anime": "Demon Slayer",
+  "theme": "Allié",
+  "definition": "Pilier de l'Insecte qui tue les démons avec du poison de glycine."
+ },
+ {
+  "word": "yuji",
+  "anime": "Jujutsu Kaisen",
+  "theme": "Protagoniste",
+  "definition": "Lycéen à la force surhumaine qui a avalé le doigt d'un roi des fléaux."
+ },
+ {
+  "word": "gojo",
+  "anime": "Jujutsu Kaisen",
+  "theme": "Mentor",
+  "definition": "Exorciste le plus puissant, aux yeux bandés, professeur arrogant et invincible."
+ },
+ {
+  "word": "sukuna",
+  "anime": "Jujutsu Kaisen",
+  "theme": "Méchant",
+  "definition": "Roi des fléaux aux quatre bras, enfermé dans le corps du héros."
+ },
+ {
+  "word": "megumi",
+  "anime": "Jujutsu Kaisen",
+  "theme": "Allié",
+  "definition": "Exorciste calme qui invoque des bêtes grâce aux ombres."
+ },
+ {
+  "word": "nobara",
+  "anime": "Jujutsu Kaisen",
+  "theme": "Allié",
+  "definition": "Exorciste venue de la campagne, armée d'un marteau et de clous."
+ },
+ {
+  "word": "geto",
+  "anime": "Jujutsu Kaisen",
+  "theme": "Méchant",
+  "definition": "Ancien meilleur ami du professeur le plus fort, qui veut éliminer les non-exorcistes."
+ },
+ {
+  "word": "mahito",
+  "anime": "Jujutsu Kaisen",
+  "theme": "Méchant",
+  "definition": "Fléau cruel qui remodèle les âmes et les corps à sa guise."
+ },
+ {
+  "word": "eren",
+  "anime": "L'Attaque des Titans",
+  "theme": "Protagoniste",
+  "definition": "Jeune homme rageur qui jure d'exterminer tous les titans, puis bien plus."
+ },
+ {
+  "word": "mikasa",
+  "anime": "L'Attaque des Titans",
+  "theme": "Allié",
+  "definition": "Soldate d'élite à l'écharpe rouge, prête à tout pour protéger son frère adoptif."
+ },
+ {
+  "word": "armin",
+  "anime": "L'Attaque des Titans",
+  "theme": "Allié",
+  "definition": "Stratège blond, fragile physiquement mais brillant."
+ },
+ {
+  "word": "livai",
+  "anime": "L'Attaque des Titans",
+  "theme": "Mentor",
+  "definition": "Caporal le plus fort de l'humanité, maniaque du ménage."
+ },
+ {
+  "word": "erwin",
+  "anime": "L'Attaque des Titans",
+  "theme": "Mentor",
+  "definition": "Commandant du bataillon d'exploration, prêt à sacrifier ses soldats pour la vérité."
+ },
+ {
+  "word": "reiner",
+  "anime": "L'Attaque des Titans",
+  "theme": "Anti-héros",
+  "definition": "Soldat modèle qui cache un terrible secret : il est le titan cuirassé."
+ },
+ {
+  "word": "zeke",
+  "anime": "L'Attaque des Titans",
+  "theme": "Méchant",
+  "definition": "Titan bestial au lancer de pierres dévastateur, demi-frère du héros."
+ },
+ {
+  "word": "annie",
+  "anime": "L'Attaque des Titans",
+  "theme": "Anti-héros",
+  "definition": "Soldate froide et solitaire, redoutable au combat à mains nues."
+ },
+ {
+  "word": "light",
+  "anime": "Death Note",
+  "theme": "Anti-héros",
+  "definition": "Lycéen surdoué qui trouve un cahier capable de tuer et se prend pour un dieu."
+ },
+ {
+  "word": "ryuk",
+  "anime": "Death Note",
+  "theme": "Allié",
+  "definition": "Dieu de la mort qui s'ennuie et qui adore les pommes."
+ },
+ {
+  "word": "misa",
+  "anime": "Death Note",
+  "theme": "Allié",
+  "definition": "Idole gothique, seconde propriétaire d'un cahier de la mort, folle amoureuse."
+ },
+ {
+  "word": "killua",
+  "anime": "Hunter x Hunter",
+  "theme": "Allié",
+  "definition": "Héritier d'une famille d'assassins, meilleur ami du héros, manipule l'électricité."
+ },
+ {
+  "word": "kurapika",
+  "anime": "Hunter x Hunter",
+  "theme": "Allié",
+  "definition": "Dernier de son clan aux yeux écarlates, il traque la Brigade fantôme."
+ },
+ {
+  "word": "hisoka",
+  "anime": "Hunter x Hunter",
+  "theme": "Anti-héros",
+  "definition": "Magicien pervers qui ne cherche que des adversaires dignes de lui."
+ },
+ {
+  "word": "meruem",
+  "anime": "Hunter x Hunter",
+  "theme": "Méchant",
+  "definition": "Roi des fourmis-chimères, né pour dominer l'humanité, qui découvre le jeu de gungi."
+ },
+ {
+  "word": "netero",
+  "anime": "Hunter x Hunter",
+  "theme": "Mentor",
+  "definition": "Centenaire président de l'association des Hunters, adepte de la prière."
+ },
+ {
+  "word": "chrollo",
+  "anime": "Hunter x Hunter",
+  "theme": "Méchant",
+  "definition": "Chef de la Brigade fantôme, qui vole les pouvoirs des autres."
+ },
+ {
+  "word": "ichigo",
+  "anime": "Bleach",
+  "theme": "Protagoniste",
+  "definition": "Lycéen aux cheveux orange qui voit les esprits et devient shinigami."
+ },
+ {
+  "word": "rukia",
+  "anime": "Bleach",
+  "theme": "Allié",
+  "definition": "Shinigami qui a transmis ses pouvoirs au héros, fan de lapins."
+ },
+ {
+  "word": "aizen",
+  "anime": "Bleach",
+  "theme": "Méchant",
+  "definition": "Capitaine en apparence bienveillant, en réalité manipulateur ultime."
+ },
+ {
+  "word": "byakuya",
+  "anime": "Bleach",
+  "theme": "Rival",
+  "definition": "Capitaine noble et glacial dont le sabre se disperse en pétales de cerisier."
+ },
+ {
+  "word": "kenpachi",
+  "anime": "Bleach",
+  "theme": "Anti-héros",
+  "definition": "Capitaine qui vit pour le combat et porte des clochettes dans les cheveux."
+ },
+ {
+  "word": "urahara",
+  "anime": "Bleach",
+  "theme": "Mentor",
+  "definition": "Marchand au bob rayé et à l'éventail, ancien capitaine génial et mystérieux."
+ },
+ {
+  "word": "izuku",
+  "anime": "My Hero Academia",
+  "theme": "Protagoniste",
+  "definition": "Garçon né sans pouvoir qui hérite de celui du plus grand héros."
+ },
+ {
+  "word": "bakugo",
+  "anime": "My Hero Academia",
+  "theme": "Rival",
+  "definition": "Ami d'enfance explosif, colérique et obsédé par la première place."
+ },
+ {
+  "word": "shoto",
+  "anime": "My Hero Academia",
+  "theme": "Allié",
+  "definition": "Élève moitié glace, moitié feu, aux cheveux bicolores."
+ },
+ {
+  "word": "shigaraki",
+  "anime": "My Hero Academia",
+  "theme": "Méchant",
+  "definition": "Chef de l'Alliance des vilains qui désintègre tout ce qu'il touche."
+ },
+ {
+  "word": "ochaco",
+  "anime": "My Hero Academia",
+  "theme": "Allié",
+  "definition": "Élève joyeuse qui annule la gravité en touchant les objets."
+ },
+ {
+  "word": "denji",
+  "anime": "Chainsaw Man",
+  "theme": "Protagoniste",
+  "definition": "Jeune homme criblé de dettes qui fusionne avec son chien-tronçonneuse."
+ },
+ {
+  "word": "makima",
+  "anime": "Chainsaw Man",
+  "theme": "Méchant",
+  "definition": "Supérieure hiérarchique aux yeux étranges, charmante et terrifiante."
+ },
+ {
+  "word": "power",
+  "anime": "Chainsaw Man",
+  "theme": "Allié",
+  "definition": "Démon du sang égocentrique, menteuse et bruyante."
+ },
+ {
+  "word": "pochita",
+  "anime": "Chainsaw Man",
+  "theme": "Allié",
+  "definition": "Petit chien-démon avec une tronçonneuse sur la tête."
+ },
+ {
+  "word": "jinwoo",
+  "anime": "Solo Leveling",
+  "theme": "Protagoniste",
+  "definition": "Le chasseur le plus faible qui monte de niveau seul et commande une armée d'ombres."
+ },
+ {
+  "word": "saitama",
+  "anime": "One Punch Man",
+  "theme": "Protagoniste",
+  "definition": "Héros chauve qui bat n'importe qui en un seul coup de poing… et s'ennuie."
+ },
+ {
+  "word": "genos",
+  "anime": "One Punch Man",
+  "theme": "Allié",
+  "definition": "Cyborg blond, disciple dévoué du héros chauve."
+ },
+ {
+  "word": "edward",
+  "anime": "Fullmetal Alchemist",
+  "theme": "Protagoniste",
+  "definition": "Alchimiste au bras mécanique, petit et susceptible sur sa taille."
+ },
+ {
+  "word": "alphonse",
+  "anime": "Fullmetal Alchemist",
+  "theme": "Allié",
+  "definition": "Âme attachée à une grande armure, frère cadet du héros."
+ },
+ {
+  "word": "mustang",
+  "anime": "Fullmetal Alchemist",
+  "theme": "Allié",
+  "definition": "Colonel alchimiste de la flamme, inutile sous la pluie."
+ },
+ {
+  "word": "envy",
+  "anime": "Fullmetal Alchemist",
+  "theme": "Méchant",
+  "definition": "Homonculus qui change d'apparence et jalouse les humains."
+ },
+ {
+  "word": "anya",
+  "anime": "Spy x Family",
+  "theme": "Allié",
+  "definition": "Petite fille télépathe adoptée, fan de cacahuètes et d'espions."
+ },
+ {
+  "word": "loid",
+  "anime": "Spy x Family",
+  "theme": "Protagoniste",
+  "definition": "Espion d'élite qui se crée une fausse famille pour sa mission."
+ },
+ {
+  "word": "asta",
+  "anime": "Black Clover",
+  "theme": "Protagoniste",
+  "definition": "Orphelin sans magie qui hurle qu'il deviendra Empereur-Mage."
+ },
+ {
+  "word": "yuno",
+  "anime": "Black Clover",
+  "theme": "Rival",
+  "definition": "Ami d'enfance doué pour la magie du vent, rival du héros."
+ },
+ {
+  "word": "isagi",
+  "anime": "Blue Lock",
+  "theme": "Protagoniste",
+  "definition": "Attaquant qui voit tout le terrain et veut devenir le meilleur buteur du monde."
+ },
+ {
+  "word": "bachira",
+  "anime": "Blue Lock",
+  "theme": "Allié",
+  "definition": "Dribbleur imprévisible qui parle au monstre dans sa tête."
+ },
+ {
+  "word": "lelouch",
+  "anime": "Code Geass",
+  "theme": "Anti-héros",
+  "definition": "Prince exilé qui mène une rébellion masquée grâce au pouvoir d'obéissance absolue."
+ },
+ {
+  "word": "guts",
+  "anime": "Berserk",
+  "theme": "Protagoniste",
+  "definition": "Guerrier à l'épée gigantesque et au bras de fer, en quête de vengeance."
+ },
+ {
+  "word": "griffith",
+  "anime": "Berserk",
+  "theme": "Méchant",
+  "definition": "Chef charismatique de la troupe du Faucon, prêt à tout sacrifier pour son rêve."
+ },
+ {
+  "word": "fern",
+  "anime": "Frieren",
+  "theme": "Allié",
+  "definition": "Magicienne calme et sérieuse, élève d'une elfe millénaire."
+ },
+ {
+  "word": "himmel",
+  "anime": "Frieren",
+  "theme": "Allié",
+  "definition": "Héros défunt et narcissique dont les souvenirs guident l'elfe."
+ },
+ {
+  "word": "spike",
+  "anime": "Cowboy Bebop",
+  "theme": "Protagoniste",
+  "definition": "Chasseur de primes nonchalant, maître des arts martiaux."
+ },
+ {
+  "word": "kaneki",
+  "anime": "Tokyo Ghoul",
+  "theme": "Protagoniste",
+  "definition": "Étudiant devenu mi-humain mi-goule après une greffe, aux cheveux devenus blancs."
+ },
+ {
+  "word": "senku",
+  "anime": "Dr Stone",
+  "theme": "Protagoniste",
+  "definition": "Génie scientifique qui veut rebâtir la civilisation après la pétrification du monde."
+ },
+ {
+  "word": "kageyama",
+  "anime": "Haikyu",
+  "theme": "Rival",
+  "definition": "Passeur surdoué surnommé « le roi du terrain », coéquipier du petit héros."
+ },
+ {
+  "word": "pikachu",
+  "anime": "Pokémon",
+  "theme": "Allié",
+  "definition": "Souris électrique jaune, compagnon le plus célèbre du monde."
+ },
+ {
+  "word": "sacha",
+  "anime": "Pokémon",
+  "theme": "Protagoniste",
+  "definition": "Dresseur à la casquette qui rêve de devenir maître Pokémon."
+ },
+ {
+  "word": "mewtwo",
+  "anime": "Pokémon",
+  "theme": "Méchant",
+  "definition": "Clone surpuissant créé en laboratoire, en colère contre les humains."
+ },
+ {
+  "word": "kafka",
+  "anime": "Kaiju No. 8",
+  "theme": "Protagoniste",
+  "definition": "Nettoyeur de monstres trentenaire qui se transforme lui-même en monstre."
+ },
+ {
+  "word": "thorfinn",
+  "anime": "Vinland Saga",
+  "theme": "Protagoniste",
+  "definition": "Jeune guerrier viking obsédé par la vengeance, puis en quête de paix."
+ },
+ {
+  "word": "reigen",
+  "anime": "Mob Psycho 100",
+  "theme": "Mentor",
+  "definition": "Faux médium escroc mais mentor étonnamment sage du héros."
+ }
+]

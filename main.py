@@ -57,6 +57,8 @@ class PenduRoyalApp(App):
         self.bank = WordBank()
         self.audio = Audio(self.profile.settings)
         self.bg_texture = widgets.vertical_gradient(COLORS["bg_top"], COLORS["bg_bottom"])
+        self.greeted = False           # le roi salue Manassé une fois par lancement
+        self.fake_crash_done = False   # un seul faux plantage par lancement
         Builder.load_file(str(ROOT / "pendu" / "ui" / "pendu.kv"))
 
         sm = ScreenManager(transition=SlideTransition(duration=0.25))

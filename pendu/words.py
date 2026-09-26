@@ -35,6 +35,8 @@ class WordBank:
         for level, name in WORD_FILES.items():
             with open(directory / name, encoding="utf-8") as fh:
                 self.words[level] = json.load(fh)
+        anime = directory / "anime.json"
+        self.anime = json.loads(anime.read_text(encoding="utf-8")) if anime.exists() else []
 
     def pick(self, level: str, recent=(), rng=random) -> dict:
         """Tire un mot du niveau en évitant les mots joués récemment."""
@@ -42,6 +44,11 @@ class WordBank:
         recent = set(recent)
         fresh = [e for e in entries if e["word"] not in recent]
         return rng.choice(fresh or entries)
+
+    def pick_anime(self, recent=(), rng=random) -> dict:
+        recent = set(recent)
+        fresh = [e for e in self.anime if e["word"] not in recent]
+        return rng.choice(fresh or self.anime)
 
     def daily(self, day: date = None) -> dict:
         """Mot du jour : identique sur tous les appareils pour une même date."""

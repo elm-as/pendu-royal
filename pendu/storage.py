@@ -34,7 +34,9 @@ DEFAULT_PROFILE = {
         "chrono": {"games": 0, "best_words": 0, "best_score": 0},
         "hardcore": {"games": 0, "wins": 0, "best_score": 0},
         "daily": {"last_date": "", "streak": 0, "best_streak": 0, "played": 0, "wins": 0, "history": {}},
+        "anime": {"games": 0, "wins": 0, "streak": 0, "best_streak": 0, "best_score": 0},
     },
+    "secrets": {"anime": False},
     "totals": {
         "wins": 0, "perfect": 0, "perfect_streak": 0, "best_perfect_streak": 0,
         "points_earned": 0, "points_spent": 0,
@@ -210,6 +212,9 @@ class Profile:
             return
         mode["games"] += 1
         mode["best_score"] = max(mode["best_score"], session.total_score)
+        if "streak" in mode:
+            mode["streak"] = mode["streak"] + 1 if session.words_found else 0
+            mode["best_streak"] = max(mode["best_streak"], mode["streak"])
         if "best_words" in mode:
             mode["best_words"] = max(mode["best_words"], session.words_found)
         if "wins" in mode:
@@ -220,6 +225,6 @@ class Profile:
         return self.data["modes"]["daily"]["last_date"] == today
 
     def reset_stats(self) -> None:
-        keep = {"settings": self.data["settings"], "tutorial_done": True}
+        keep = {"settings": self.data["settings"], "tutorial_done": True, "secrets": self.data["secrets"]}
         self.data = copy.deepcopy(DEFAULT_PROFILE)
         self.data.update(keep)

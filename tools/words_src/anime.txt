@@ -1,0 +1,110 @@
+# Mode secret Animé : un personnage à deviner.
+# Format : nom|Animé|Rôle|Description
+# Rôles : Protagoniste, Méchant, Allié, Rival, Mentor, Anti-héros
+# Facile : animé + rôle + description · Corsé : animé + rôle · Infernal : animé seul.
+# Le nom ne doit pas apparaître dans le titre de l'animé (sinon l'indice donne la réponse).
+sasuke|Naruto|Rival|Dernier survivant de son clan, il quitte le village pour se venger de son frère.
+kakashi|Naruto|Mentor|Ninja copieur au masque et au bandeau sur l'œil, toujours en retard, fan de romans douteux.
+itachi|Naruto|Anti-héros|Génie qui a massacré son propre clan… pour des raisons bien plus nobles qu'il n'y paraît.
+madara|Naruto|Méchant|Légendaire fondateur du village caché, revenu d'entre les morts pour plonger le monde dans un rêve éternel.
+jiraiya|Naruto|Mentor|Ermite des crapauds, écrivain pervers et parrain du héros.
+sakura|Naruto|Allié|Coéquipière aux cheveux roses, médecin ninja à la force monstrueuse.
+gaara|Naruto|Allié|Hôte du démon à une queue qui contrôle le sable, devenu chef de son village.
+orochimaru|Naruto|Méchant|Ninja serpent obsédé par l'immortalité et les techniques interdites.
+hinata|Naruto|Allié|Héritière timide aux yeux blancs, secrètement amoureuse du héros.
+luffy|One Piece|Protagoniste|Capitaine au chapeau de paille et au corps en caoutchouc, qui veut devenir roi des pirates.
+zoro|One Piece|Allié|Épéiste à trois sabres, incapable de trouver son chemin.
+sanji|One Piece|Allié|Cuisinier qui ne se bat qu'avec les jambes et tombe amoureux de chaque femme.
+nami|One Piece|Allié|Navigatrice de l'équipage, passionnée par l'argent et les mandarines.
+usopp|One Piece|Allié|Tireur d'élite au long nez, champion du mensonge et de la peur.
+chopper|One Piece|Allié|Renne médecin qui a mangé un fruit du démon, adore qu'on le complimente.
+robin|One Piece|Allié|Archéologue capable de faire pousser des bras partout, seule à lire les Ponéglyphes.
+shanks|One Piece|Mentor|Empereur aux cheveux roux qui a offert son chapeau de paille au héros.
+crocodile|One Piece|Méchant|Seigneur du désert au crochet d'or, qui transforme tout en sable.
+doflamingo|One Piece|Méchant|Roi d'un pays de jouets, manipulateur à lunettes et manteau de plumes roses.
+kaido|One Piece|Méchant|Empereur dragon réputé indestructible, maître du pays des Wa.
+brook|One Piece|Allié|Squelette musicien au rire caractéristique, qui demande à voir les culottes.
+franky|One Piece|Allié|Charpentier cyborg qui fonctionne au cola et prend des poses « super ».
+goku|Dragon Ball|Protagoniste|Saiyan au cœur pur, affamé de combats et de nourriture.
+vegeta|Dragon Ball|Rival|Prince des Saiyans, orgueilleux, obsédé par l'idée de dépasser son éternel rival.
+gohan|Dragon Ball|Allié|Fils du héros, génie des études, au potentiel caché immense.
+piccolo|Dragon Ball|Mentor|Namek vert à la cape blanche, ancien ennemi devenu professeur du fils du héros.
+freezer|Dragon Ball|Méchant|Tyran de l'espace qui a détruit la planète des Saiyans.
+trunks|Dragon Ball|Allié|Venu du futur avec son épée pour prévenir d'une terrible menace.
+krilin|Dragon Ball|Allié|Meilleur ami du héros, moine chauve qui meurt bien trop souvent.
+cell|Dragon Ball|Méchant|Androïde bio-organique qui absorbe les autres pour atteindre sa forme parfaite.
+tanjiro|Demon Slayer|Protagoniste|Vendeur de charbon devenu pourfendeur de démons pour sauver sa sœur.
+nezuko|Demon Slayer|Allié|Petite sœur changée en démon, un bâillon de bambou dans la bouche.
+zenitsu|Demon Slayer|Allié|Froussard aux cheveux jaunes qui devient redoutable… quand il s'endort.
+inosuke|Demon Slayer|Allié|Sauvage élevé par des sangliers, qui porte une tête de sanglier.
+muzan|Demon Slayer|Méchant|Tout premier démon, maître de tous les autres, vieux de mille ans.
+rengoku|Demon Slayer|Mentor|Pilier de la Flamme au sourire éclatant et à l'appétit féroce.
+akaza|Demon Slayer|Méchant|Démon supérieur tatoué qui ne vit que pour les combats à mains nues.
+shinobu|Demon Slayer|Allié|Pilier de l'Insecte qui tue les démons avec du poison de glycine.
+yuji|Jujutsu Kaisen|Protagoniste|Lycéen à la force surhumaine qui a avalé le doigt d'un roi des fléaux.
+gojo|Jujutsu Kaisen|Mentor|Exorciste le plus puissant, aux yeux bandés, professeur arrogant et invincible.
+sukuna|Jujutsu Kaisen|Méchant|Roi des fléaux aux quatre bras, enfermé dans le corps du héros.
+megumi|Jujutsu Kaisen|Allié|Exorciste calme qui invoque des bêtes grâce aux ombres.
+nobara|Jujutsu Kaisen|Allié|Exorciste venue de la campagne, armée d'un marteau et de clous.
+geto|Jujutsu Kaisen|Méchant|Ancien meilleur ami du professeur le plus fort, qui veut éliminer les non-exorcistes.
+mahito|Jujutsu Kaisen|Méchant|Fléau cruel qui remodèle les âmes et les corps à sa guise.
+eren|L'Attaque des Titans|Protagoniste|Jeune homme rageur qui jure d'exterminer tous les titans, puis bien plus.
+mikasa|L'Attaque des Titans|Allié|Soldate d'élite à l'écharpe rouge, prête à tout pour protéger son frère adoptif.
+armin|L'Attaque des Titans|Allié|Stratège blond, fragile physiquement mais brillant.
+livai|L'Attaque des Titans|Mentor|Caporal le plus fort de l'humanité, maniaque du ménage.
+erwin|L'Attaque des Titans|Mentor|Commandant du bataillon d'exploration, prêt à sacrifier ses soldats pour la vérité.
+reiner|L'Attaque des Titans|Anti-héros|Soldat modèle qui cache un terrible secret : il est le titan cuirassé.
+zeke|L'Attaque des Titans|Méchant|Titan bestial au lancer de pierres dévastateur, demi-frère du héros.
+annie|L'Attaque des Titans|Anti-héros|Soldate froide et solitaire, redoutable au combat à mains nues.
+light|Death Note|Anti-héros|Lycéen surdoué qui trouve un cahier capable de tuer et se prend pour un dieu.
+ryuk|Death Note|Allié|Dieu de la mort qui s'ennuie et qui adore les pommes.
+misa|Death Note|Allié|Idole gothique, seconde propriétaire d'un cahier de la mort, folle amoureuse.
+killua|Hunter x Hunter|Allié|Héritier d'une famille d'assassins, meilleur ami du héros, manipule l'électricité.
+kurapika|Hunter x Hunter|Allié|Dernier de son clan aux yeux écarlates, il traque la Brigade fantôme.
+hisoka|Hunter x Hunter|Anti-héros|Magicien pervers qui ne cherche que des adversaires dignes de lui.
+meruem|Hunter x Hunter|Méchant|Roi des fourmis-chimères, né pour dominer l'humanité, qui découvre le jeu de gungi.
+netero|Hunter x Hunter|Mentor|Centenaire président de l'association des Hunters, adepte de la prière.
+chrollo|Hunter x Hunter|Méchant|Chef de la Brigade fantôme, qui vole les pouvoirs des autres.
+ichigo|Bleach|Protagoniste|Lycéen aux cheveux orange qui voit les esprits et devient shinigami.
+rukia|Bleach|Allié|Shinigami qui a transmis ses pouvoirs au héros, fan de lapins.
+aizen|Bleach|Méchant|Capitaine en apparence bienveillant, en réalité manipulateur ultime.
+byakuya|Bleach|Rival|Capitaine noble et glacial dont le sabre se disperse en pétales de cerisier.
+kenpachi|Bleach|Anti-héros|Capitaine qui vit pour le combat et porte des clochettes dans les cheveux.
+urahara|Bleach|Mentor|Marchand au bob rayé et à l'éventail, ancien capitaine génial et mystérieux.
+izuku|My Hero Academia|Protagoniste|Garçon né sans pouvoir qui hérite de celui du plus grand héros.
+bakugo|My Hero Academia|Rival|Ami d'enfance explosif, colérique et obsédé par la première place.
+shoto|My Hero Academia|Allié|Élève moitié glace, moitié feu, aux cheveux bicolores.
+shigaraki|My Hero Academia|Méchant|Chef de l'Alliance des vilains qui désintègre tout ce qu'il touche.
+ochaco|My Hero Academia|Allié|Élève joyeuse qui annule la gravité en touchant les objets.
+denji|Chainsaw Man|Protagoniste|Jeune homme criblé de dettes qui fusionne avec son chien-tronçonneuse.
+makima|Chainsaw Man|Méchant|Supérieure hiérarchique aux yeux étranges, charmante et terrifiante.
+power|Chainsaw Man|Allié|Démon du sang égocentrique, menteuse et bruyante.
+pochita|Chainsaw Man|Allié|Petit chien-démon avec une tronçonneuse sur la tête.
+jinwoo|Solo Leveling|Protagoniste|Le chasseur le plus faible qui monte de niveau seul et commande une armée d'ombres.
+saitama|One Punch Man|Protagoniste|Héros chauve qui bat n'importe qui en un seul coup de poing… et s'ennuie.
+genos|One Punch Man|Allié|Cyborg blond, disciple dévoué du héros chauve.
+edward|Fullmetal Alchemist|Protagoniste|Alchimiste au bras mécanique, petit et susceptible sur sa taille.
+alphonse|Fullmetal Alchemist|Allié|Âme attachée à une grande armure, frère cadet du héros.
+mustang|Fullmetal Alchemist|Allié|Colonel alchimiste de la flamme, inutile sous la pluie.
+envy|Fullmetal Alchemist|Méchant|Homonculus qui change d'apparence et jalouse les humains.
+anya|Spy x Family|Allié|Petite fille télépathe adoptée, fan de cacahuètes et d'espions.
+loid|Spy x Family|Protagoniste|Espion d'élite qui se crée une fausse famille pour sa mission.
+asta|Black Clover|Protagoniste|Orphelin sans magie qui hurle qu'il deviendra Empereur-Mage.
+yuno|Black Clover|Rival|Ami d'enfance doué pour la magie du vent, rival du héros.
+isagi|Blue Lock|Protagoniste|Attaquant qui voit tout le terrain et veut devenir le meilleur buteur du monde.
+bachira|Blue Lock|Allié|Dribbleur imprévisible qui parle au monstre dans sa tête.
+lelouch|Code Geass|Anti-héros|Prince exilé qui mène une rébellion masquée grâce au pouvoir d'obéissance absolue.
+guts|Berserk|Protagoniste|Guerrier à l'épée gigantesque et au bras de fer, en quête de vengeance.
+griffith|Berserk|Méchant|Chef charismatique de la troupe du Faucon, prêt à tout sacrifier pour son rêve.
+fern|Frieren|Allié|Magicienne calme et sérieuse, élève d'une elfe millénaire.
+himmel|Frieren|Allié|Héros défunt et narcissique dont les souvenirs guident l'elfe.
+spike|Cowboy Bebop|Protagoniste|Chasseur de primes nonchalant, maître des arts martiaux.
+kaneki|Tokyo Ghoul|Protagoniste|Étudiant devenu mi-humain mi-goule après une greffe, aux cheveux devenus blancs.
+senku|Dr Stone|Protagoniste|Génie scientifique qui veut rebâtir la civilisation après la pétrification du monde.
+kageyama|Haikyu|Rival|Passeur surdoué surnommé « le roi du terrain », coéquipier du petit héros.
+pikachu|Pokémon|Allié|Souris électrique jaune, compagnon le plus célèbre du monde.
+sacha|Pokémon|Protagoniste|Dresseur à la casquette qui rêve de devenir maître Pokémon.
+mewtwo|Pokémon|Méchant|Clone surpuissant créé en laboratoire, en colère contre les humains.
+kafka|Kaiju No. 8|Protagoniste|Nettoyeur de monstres trentenaire qui se transforme lui-même en monstre.
+thorfinn|Vinland Saga|Protagoniste|Jeune guerrier viking obsédé par la vengeance, puis en quête de paix.
+reigen|Mob Psycho 100|Mentor|Faux médium escroc mais mentor étonnamment sage du héros.

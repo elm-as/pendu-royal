@@ -68,6 +68,36 @@ def load_lexique():
     return known, lemmas
 
 
+ROLES = {"Protagoniste", "Méchant", "Allié", "Rival", "Mentor", "Anti-héros"}
+
+
+def build_anime(errors: list) -> list:
+    """Mode secret Animé : tools/words_src/anime.txt, une ligne nom|Animé|Rôle|Description."""
+    result, seen = [], set()
+    for n, line in enumerate((SRC / "anime.txt").read_text(encoding="utf-8").splitlines(), 1):
+        if not line.strip() or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split("|")]
+        where = f"anime.txt:{n}"
+        if len(parts) != 4:
+            errors.append(f"{where} format attendu nom|animé|rôle|description")
+            continue
+        name, anime, role, desc = parts
+        if not LETTERS.match(name) or not 4 <= len(name) <= 12 or len(set(fold(name))) < 3:
+            errors.append(f"{where} « {name} » : 4 à 12 lettres, sans espace ni tiret")
+        if name in seen:
+            errors.append(f"{where} « {name} » : en double")
+        seen.add(name)
+        if role not in ROLES:
+            errors.append(f"{where} « {name} » : rôle inconnu « {role} »")
+        if fold(name) in fold(anime.lower()).replace(" ", ""):
+            errors.append(f"{where} « {name} » : le titre de l'animé donne la réponse")
+        if fold(name) in fold(desc.lower()):
+            errors.append(f"{where} « {name} » : la description contient le nom")
+        result.append({"word": name, "anime": anime, "theme": role, "definition": desc})
+    return result
+
+
 def main(check_only: bool) -> int:
     errors, warnings = [], []
     lexique = load_lexique()
@@ -108,18 +138,20 @@ def main(check_only: bool) -> int:
                     warnings.append(f"{where} « {w} » : pas un lemme (forme conjuguée ou plurielle ?)")
             result[level].append({"word": w, "definition": e["definition"], "theme": e["theme"]})
 
+    anime = build_anime(errors)
     for msg in warnings:
         print("  attention :", msg)
     for msg in errors:
         print("  ERREUR :", msg)
     counts = ", ".join(f"{lvl} {len(v)}" for lvl, v in result.items())
-    print(f"{sum(len(v) for v in result.values())} mots ({counts}) · {len(errors)} erreur(s) · {len(warnings)} avertissement(s)")
+    print(f"{sum(len(v) for v in result.values())} mots ({counts}) + {len(anime)} persos d'animé · {len(errors)} erreur(s) · {len(warnings)} avertissement(s)")
     if errors:
         return 1
     if not check_only:
         for level, out_name in LEVELS.items():
             data = sorted(result[level], key=lambda e: fold(e["word"]))
             (OUT / out_name).write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        (OUT / "anime.json").write_text(json.dumps(anime, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         print("Dictionnaire écrit dans", OUT)
     return 0
 

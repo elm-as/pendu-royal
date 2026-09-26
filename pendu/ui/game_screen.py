@@ -16,8 +16,9 @@ from kivy.properties import (
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.modalview import ModalView
 
+from .. import trolls
 from ..achievements import unlock_new
-from ..config import HINTS, img
+from ..config import ANIME_CLUES, HINTS, img
 from ..events import EventDirector, roll_event
 from ..game import ALREADY, HIT, MISS, SHIELDED, Session
 from ..words import mask_definition
@@ -95,7 +96,9 @@ class GameScreen(BaseScreen):
         self.started_at = time.time()
         self.phase = "intro"
         self.hints_locked = False
-        self.hint_text = ""
+        self.miss_streak = 0
+        self.hint_lines = [f"{label} : {text}" if label else text for label, text in session.clues(rnd)]
+        self.hint_text = "\n".join(self.hint_lines)
         self.combo_text = ""
         self.event_visible = False
         self.banner_x = 1.0
@@ -103,6 +106,8 @@ class GameScreen(BaseScreen):
 
         mode = session.mode
         self.title = f"{mode.label} · {rnd.level.label}" if not mode.chained else mode.label
+        if mode.key == "anime":
+            self.title = f"Animé · {rnd.level.label}"
         self.level_color = rgba(rnd.level.color)
         if mode.chained:
             self.subtitle = f"Mot {session.index} · {rnd.level.label}" + (" · BOSS" if boss else "")
@@ -221,6 +226,7 @@ class GameScreen(BaseScreen):
             self.ids.toast.show("Lettre déjà jouée.", "muted")
             return
         if res.kind == HIT:
+            self.miss_streak = 0
             self._reveal(res.positions)
             self.app.audio.play("hit")
             if rnd.combo >= 3:
@@ -260,7 +266,27 @@ class GameScreen(BaseScreen):
             message = "Raté ! -5 secondes"
         if rnd.tax_per_miss:
             message += f"  L'impôt du roi : -{rnd.tax_per_miss} pts"
+        self.miss_streak += 1
+        if self.miss_streak == 3:  # le roi s'impatiente
+            message = trolls.pick(trolls.MISS_STREAK)
         self.ids.toast.show(message, "danger")
+        self._maybe_fake_crash(res)
+
+    def _maybe_fake_crash(self, res):
+        """Troll : de temps en temps, un faux plantage (une fois par lancement au maximum)."""
+        app = self.app
+        if (app.fake_crash_done or res.lost or self.phase != "play"
+                or len(app.profile["recent_words"]) < trolls.FAKE_CRASH_MIN_GAMES
+                or self.rng.random() >= trolls.FAKE_CRASH_CHANCE):
+            return
+        app.fake_crash_done = True
+        self.paused_by_modal = True
+
+        def show():
+            modal = FakeCrashModal()
+            modal.bind(on_dismiss=lambda *_: setattr(self, "paused_by_modal", False))
+            modal.open()
+        self.later(show, 0.5)
 
     def open_hints(self):
         if self.phase != "play":
@@ -295,10 +321,12 @@ class GameScreen(BaseScreen):
             self.ids.toast.show("Absentes : " + ", ".join(g.upper() for g in gone), "gold")
         elif kind == "theme":
             rnd.note_hint("theme")
-            self.hint_text = f"Thème : {rnd.theme}"
+            label = "Rôle" if self.session.mode.key == "anime" else "Thème"
+            self.hint_lines.append(f"{label} : {rnd.theme}")
         elif kind == "definition":
             rnd.note_hint("definition")
-            self.hint_text = mask_definition(rnd.definition, rnd.word)
+            self.hint_lines.append(mask_definition(rnd.definition, rnd.word))
+        self.hint_text = "\n".join(self.hint_lines)
         self._update_texts()
 
     def open_word_guess(self):
@@ -479,8 +507,16 @@ class HintModal(ModalView):
             "theme": "Affiche le thème du mot.",
             "definition": "Affiche la définition (le mot y est masqué).",
         }
+        labels = {}
+        given = set()
+        if screen.session.mode.key == "anime":  # les indices gratuits ne se rachètent pas
+            labels = {"theme": "Rôle", "definition": "Description"}
+            descriptions.update(theme="Méchant, allié, rival, mentor…", definition="Décrit le personnage.")
+            clues = ANIME_CLUES[rnd.level.key]
+            given = {k for k, c in (("theme", "role"), ("definition", "description")) if c in clues}
         for kind, (label, cost) in HINTS.items():
-            available = True
+            label = labels.get(kind, label)
+            available = kind not in given
             if kind == "theme" and (not rnd.theme or "theme" in rnd.hints_used):
                 available = False
             if kind == "definition" and (not rnd.definition or "definition" in rnd.hints_used):
@@ -505,6 +541,26 @@ class HintOption(BoxLayout):
     description = StringProperty("")
     enabled = BooleanProperty(True)
     modal = ObjectProperty(None)
+
+
+class FakeCrashModal(ModalView):
+    """Faux écran de plantage… « Je rigole ! »"""
+    progress = NumericProperty(0)
+    joke = BooleanProperty(False)
+
+    def on_open(self):
+        from kivy.app import App
+        app = App.get_running_app()
+        app.audio.play("lose")
+        app.audio.vibrate(400)
+        Animation(progress=100, d=3.2, t="in_out_quad").start(self)
+        Clock.schedule_once(self._reveal, 3.6)
+
+    def _reveal(self, *_):
+        from kivy.app import App
+        self.joke = True
+        App.get_running_app().audio.play("coin")
+        Clock.schedule_once(lambda *_: self.dismiss(), 2.2)
 
 
 class WordGuessModal(ModalView):

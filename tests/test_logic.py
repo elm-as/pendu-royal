@@ -136,6 +136,28 @@ class SessionTests(unittest.TestCase):
         self.assertEqual(s.time_left, 170)
 
 
+class AnimeTests(unittest.TestCase):
+    def test_clues_depend_on_difficulty(self):
+        bank = WordBank()
+        self.assertGreaterEqual(len(bank.anime), 80)
+        counts = {}
+        for level in ("noob", "medium", "hard"):
+            s = Session("anime", level, bank)
+            rnd = s.next_round()
+            self.assertTrue(rnd.anime and rnd.theme and rnd.definition)
+            counts[level] = len(s.clues(rnd))
+        self.assertEqual(counts, {"noob": 3, "medium": 2, "hard": 1})
+
+    def test_anime_names_are_playable(self):
+        for e in WordBank().anime:
+            self.assertTrue(set(fold(e["word"])) <= KEYBOARD_LETTERS, e["word"])
+            self.assertNotIn(fold(e["word"]), fold(e["anime"].lower()).replace(" ", ""))
+
+    def test_other_modes_have_no_clues(self):
+        s = Session("classic", "noob", FakeBank())
+        self.assertEqual(s.clues(s.next_round()), [])
+
+
 class FakeCtx:
     def __init__(self, rnd):
         self.round = rnd
