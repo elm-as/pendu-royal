@@ -1,813 +1,2077 @@
 [
-    {
-        "word": "abandons",
-        "definition": "Action de laisser quelque chose ou quelqu’un derrière soi, volontairement ou par obligation. Peut évoquer un manque de soin ou une décision difficile."
-    },
-    {
-        "word": "absolument",
-        "definition": "De manière certaine, sans aucun doute."
-    },
-    {
-        "word": "académiquement",
-        "definition": "Selon les règles ou usages d'une académie, souvent lié à l'enseignement ou aux études."
-    },
-    {
-        "word": "accessibilité",
-        "definition": "Caractère de ce qui est facilement accessible ou utilisable, notamment pour les personnes handicapées."
-    },
-    {
-        "word": "accident",
-        "definition": "Un événement imprévu et généralement négatif (ex : accident de voiture)."
-    },
-    {
-        "word": "acclimatation",
-        "definition": "Adaptation progressive d’un être vivant ou d’une personne à un nouvel environnement."
-    },
-    {
-        "word": "accompagnement",
-        "definition": "Action d’accompagner quelqu’un ou quelque chose, ou bien musique jouée en soutien d’un chant."
-    },
-    {
-        "word": "accréditation",
-        "definition": "Autorisation officielle donnée à une personne ou une organisation pour exercer une activité."
-    },
-    {
-        "word": "activiste",
-        "definition": "Individu militant, engagé activement pour défendre une cause ou un idéal."
-    },
-    {
-        "word": "administratif",
-        "definition": "Relatif à l’administration, aux services de gestion ou aux formalités officielles."
-    },
-    {
-        "word": "administration",
-        "definition": "Organisation chargée de gérer une structure publique ou privée ; action de gérer."
-    },
-    {
-        "word": "affirmation",
-        "definition": "Action de déclarer quelque chose comme vrai ou de soutenir une idée."
-    },
-    {
-        "word": "ajoutées",
-        "definition": "Choses qui ont été rajoutées en plus du contenu d'origine."
-    },
-    {
-        "word": "alerteur",
-        "definition": "Celui qui avertit ou alerte d’un danger."
-    },
-    {
-        "word": "alimentation",
-        "definition": "Action de fournir de la nourriture ou des ressources nécessaires au fonctionnement."
-    },
-    {
-        "word": "analyser",
-        "definition": "Examiner en détail pour comprendre."
-    },
-    {
-        "word": "ancrages",
-        "definition": "Points de fixation solides qui maintiennent un objet ou une idée en place ; peut être utilisé au sens figuré pour parler de repères dans la vie."
-    },
-    {
-        "word": "animales",
-        "definition": "Ce qui se rapporte directement aux animaux, par exemple la vie animale ou les comportements animaux."
-    },
-    {
-        "word": "animatif",
-        "definition": "Caractère qui anime ou stimule, souvent utilisé pour parler de supports d’animation ou d’activités."
-    },
-    {
-        "word": "animaux",
-        "definition": "Êtres vivants appartenant au règne animal, capables de ressentir et de se mouvoir."
-    },
-    {
-        "word": "apprenti",
-        "definition": "Personne en formation qui apprend un métier ou une activité auprès d’un professionnel."
-    },
-    {
-        "word": "apprentissage",
-        "definition": "Processus par lequel on acquiert des connaissances ou un savoir-faire."
-    },
-    {
-        "word": "approvisionnement",
-        "definition": "Action de fournir et de distribuer des ressources ou des marchandises."
-    },
-    {
-        "word": "appréciation",
-        "definition": "Action de porter un jugement positif ou négatif sur quelqu’un ou quelque chose."
-    },
-    {
-        "word": "appuyer",
-        "definition": "Poser quelque chose contre un support ou donner son soutien à une personne, une idée ou une action."
-    },
-    {
-        "word": "aristocratie",
-        "definition": "Classe sociale privilégiée, historiquement composée de nobles."
-    },
-    {
-        "word": "arrogant",
-        "definition": "Personne ou attitude qui montre un excès d’orgueil, de fierté ou de mépris envers les autres."
-    },
-    {
-        "word": "artistiquement",
-        "definition": "D’une manière qui se rapporte à l’art ou à la créativité."
-    },
-    {
-        "word": "aspirant",
-        "definition": "Personne qui souhaite atteindre une fonction, un poste ou un objectif ; aussi, quelqu’un qui aspire l’air."
-    },
-    {
-        "word": "aspirateur",
-        "definition": "Appareil électroménager servant à nettoyer en aspirant la poussière."
-    },
-    {
-        "word": "assaut",
-        "definition": "Attaque soudaine et violente contre une personne, un lieu ou un obstacle."
-    },
-    {
-        "word": "assiette",
-        "definition": "Objet plat utilisé pour manger ; peut aussi désigner la position stable d’un objet ou d’un avion."
-    },
-    {
-        "word": "assurément",
-        "definition": "D’une manière certaine, sans aucun doute."
-    },
-    {
-        "word": "augmenta",
-        "definition": "Forme passée du verbe augmenter, signifiant qu’une chose est devenue plus grande ou plus importante."
-    },
-    {
-        "word": "authenticité",
-        "definition": "Caractère de ce qui est vrai, sincère, conforme à la réalité."
-    },
-    {
-        "word": "autodidacte",
-        "definition": "Personne qui a appris seule, sans suivre d’enseignement formel."
-    },
-    {
-        "word": "automatiquement",
-        "definition": "Qui se fait sans intervention humaine directe, ou de manière spontanée."
-    },
-    {
-        "word": "bibliographe",
-        "definition": "Spécialiste qui décrit, classe et étudie les livres."
-    },
-    {
-        "word": "bibliothèque",
-        "definition": "Lieu où sont conservés et prêtés des livres, ou meuble pour ranger des livres."
-    },
-    {
-        "word": "bioluminescent",
-        "definition": "Qui émet de la lumière naturellement par réaction chimique (par ex. lucioles, certains poissons)."
-    },
-    {
-        "word": "camionnette",
-        "definition": "Petit camion servant à transporter des marchandises ou du matériel."
-    },
-    {
-        "word": "caractéristique",
-        "definition": "Trait distinctif qui permet d’identifier une chose ou une personne."
-    },
-    {
-        "word": "carnavalesque",
-        "definition": "Qui a le caractère d’un carnaval : festif, coloré, parfois exagéré."
-    },
-    {
-        "word": "centralisation",
-        "definition": "Action de regrouper le pouvoir ou les services en un seul centre."
-    },
-    {
-        "word": "circonstanciel",
-        "definition": "Qui dépend des circonstances ou du contexte."
-    },
-    {
-        "word": "clémentines",
-        "definition": "Petits agrumes sucrés et sans pépins, proches des mandarines."
-    },
-    {
-        "word": "collaboration",
-        "definition": "Travail réalisé en commun avec d’autres personnes."
-    },
-    {
-        "word": "communication",
-        "definition": "Action de transmettre des informations ou d’entrer en relation avec autrui."
-    },
-    {
-        "word": "compatibilité",
-        "definition": "Caractère de ce qui peut fonctionner ou coexister sans contradiction."
-    },
-    {
-        "word": "compensation",
-        "definition": "Action de compenser une perte, un désavantage ou une dette."
-    },
-    {
-        "word": "complexité",
-        "definition": "Caractère de ce qui est compliqué, qui comporte plusieurs éléments difficiles à analyser."
-    },
-    {
-        "word": "comportemental",
-        "definition": "Qui concerne le comportement, la manière d’agir."
-    },
-    {
-        "word": "concentration",
-        "definition": "Action de rassembler son attention ou ses efforts sur quelque chose."
-    },
-    {
-        "word": "conformément",
-        "definition": "D’une manière qui respecte une règle, une loi ou une consigne."
-    },
-    {
-        "word": "conspiration",
-        "definition": "Entente secrète entre plusieurs personnes pour nuire ou comploter."
-    },
-    {
-        "word": "constructif",
-        "definition": "Qui aide à progresser, à bâtir quelque chose de positif."
-    },
-    {
-        "word": "contemplation",
-        "definition": "Action de regarder attentivement quelque chose avec admiration ou réflexion."
-    },
-    {
-        "word": "conversation",
-        "definition": "Échange de paroles entre plusieurs personnes."
-    },
-    {
-        "word": "coopération",
-        "definition": "Action de travailler ensemble pour un objectif commun."
-    },
-    {
-        "word": "coopérative",
-        "definition": "Organisation où des personnes s’associent pour gérer ensemble une activité."
-    },
-    {
-        "word": "célébration",
-        "definition": "Action de fêter un événement ou de rendre hommage."
-    },
-    {
-        "word": "dictionnaire",
-        "definition": "Ouvrage qui rassemble et définit les mots d’une langue."
-    },
-    {
-        "word": "diffusion",
-        "definition": "Action de propager ou de répandre quelque chose."
-    },
-    {
-        "word": "disparition",
-        "definition": "Fait de ne plus être visible, de cesser d’exister."
-    },
-    {
-        "word": "distillation",
-        "definition": "Procédé de séparation de liquides par évaporation et condensation."
-    },
-    {
-        "word": "diversification",
-        "definition": "Action de varier, d’élargir la gamme d’activités ou de produits."
-    },
-    {
-        "word": "documentation",
-        "definition": "Ensemble de documents servant de référence ou d’information."
-    },
-    {
-        "word": "dramatiquement",
-        "definition": "De manière dramatique, soit au sens théâtral, soit dans un sens grave."
-    },
-    {
-        "word": "décentralisé",
-        "definition": "Qui n’est pas concentré dans un seul centre, mais réparti."
-    },
-    {
-        "word": "démocratique",
-        "definition": "Qui concerne ou respecte les principes de la démocratie."
-    },
-    {
-        "word": "déroutante",
-        "definition": "Qui trouble ou surprend, qui rend confus."
-    },
-    {
-        "word": "désinformation",
-        "definition": "Diffusion volontaire de fausses informations."
-    },
-    {
-        "word": "désobéissance",
-        "definition": "Fait de ne pas obéir à un ordre ou une règle."
-    },
-    {
-        "word": "détermination",
-        "definition": "Volonté ferme de parvenir à un but."
-    },
-    {
-        "word": "développement",
-        "definition": "Action de croître, de progresser ou de rendre plus avancé."
-    },
-    {
-        "word": "enrichissement",
-        "definition": "Action de devenir plus riche, matériellement ou intellectuellement."
-    },
-    {
-        "word": "exagérément",
-        "definition": "D’une manière excessive, au-delà de la mesure."
-    },
-    {
-        "word": "explicativement",
-        "definition": "D’une manière qui sert à expliquer."
-    },
-    {
-        "word": "expérimentation",
-        "definition": "Action de tester ou de faire une expérience pour vérifier une hypothèse."
-    },
-    {
-        "word": "extermination",
-        "definition": "Action de détruire totalement un groupe ou une espèce."
-    },
-    {
-        "word": "extraordinaire",
-        "definition": "Qui est exceptionnel, remarquable, hors du commun."
-    },
-    {
-        "word": "fonctionnaire",
-        "definition": "Personne qui travaille dans la fonction publique."
-    },
-    {
-        "word": "fonctionnelle",
-        "definition": "Qui est conçu pour être pratique et efficace."
-    },
-    {
-        "word": "fondamental",
-        "definition": "Qui est à la base de quelque chose, essentiel."
-    },
-    {
-        "word": "fortement",
-        "definition": "D’une manière forte, avec intensité."    },
-    {
-        "word": "fortification",
-        "definition": "Construction de défenses militaires (murs, remparts)."
-    },
-    {
-        "word": "fréquemment",
-        "definition": "Qui arrive souvent, de manière répétée."
-    },
-    {
-        "word": "gentillesse",
-        "definition": "Qualité de quelqu’un qui est aimable et bienveillant."
-    },
-    {
-        "word": "gouvernemental",
-        "definition": "Qui concerne le gouvernement."
-    },
-    {
-        "word": "généralisable",
-        "definition": "Qui peut être étendu à d’autres cas similaires."
-    },
-    {
-        "word": "généralisateur",
-        "definition": "Qui tend à appliquer une règle ou une idée de façon générale."
-    },
-    {
-        "word": "génératrice",
-        "definition": "Qui produit, qui engendre quelque chose."
-    },
-    {
-        "word": "générosité",
-        "definition": "Disposition à donner aux autres sans attendre en retour."
-    },
-    {
-        "word": "géolocalisation",
-        "definition": "Procédé permettant de déterminer la position géographique d’un objet ou d’une personne."
-    },
-    {
-        "word": "harmonisation",
-        "definition": "Action de rendre quelque chose cohérent et équilibré."
-    },
-    {
-        "word": "hospitalière",
-        "definition": "Qui concerne les hôpitaux ou qui accueille volontiers les autres."
-    },
-    {
-        "word": "hélicoptère",
-        "definition": "Aéronef dont le vol est assuré par des rotors tournant sur lui-même."
-    },
-    {
-        "word": "illustratrice",
-        "definition": "Personne qui réalise des dessins pour accompagner un texte."
-    },
-    {
-        "word": "imagination",
-        "definition": "Capacité de créer des images mentales ou des idées nouvelles."
-    },
-    {
-        "word": "imprévisible",
-        "definition": "Qui ne peut pas être prévu à l’avance."
-    },
-    {
-        "word": "inattendu",
-        "definition": "Qui survient de manière imprévue."
-    },
-    {
-        "word": "incompatibilité",
-        "definition": "Caractère de choses ou de personnes qui ne peuvent pas aller ensemble."
-    },
-    {
-        "word": "incompréhensible",
-        "definition": "Qui ne peut pas être compris."
-    },
-    {
-        "word": "inconditionnel",
-        "definition": "Qui n’est soumis à aucune condition, total."
-    },
-    {
-        "word": "incontestable",
-        "definition": "Qui ne peut pas être mis en doute."
-    },
-    {
-        "word": "incroyablement",
-        "definition": "D’une manière difficile à croire, étonnante."
-    },
-    {
-        "word": "indispensable",
-        "definition": "Qui est absolument nécessaire."
-    },
-    {
-        "word": "individuelle",
-        "definition": "Qui concerne une seule personne."
-    },
-    {
-        "word": "industrialiser",
-        "definition": "Introduire l’industrie dans un domaine ou développer fortement la production industrielle."
-    },
-    {
-        "word": "indépendamment",
-        "definition": "Sans lien direct, séparément."
-    },
-    {
-        "word": "insaisissable",
-        "definition": "Qui est difficile à attraper ou à comprendre."
-    },
-    {
-        "word": "inscription",
-        "definition": "Action de s’enregistrer ou d’écrire son nom pour participer à quelque chose."
-    },
-    {
-        "word": "institution",
-        "definition": "Organisation publique ou privée qui a une fonction sociale importante."
-    },
-    {
-        "word": "institutionnel",
-        "definition": "Qui est relatif aux institutions."
-    },
-    {
-        "word": "instrumentiste",
-        "definition": "Musicien ou musicienne qui joue d’un instrument."
-    },
-    {
-        "word": "intellectuels",
-        "definition": "Personnes qui se consacrent à des activités de réflexion et de culture."
-    },
-    {
-        "word": "interconnexion",
-        "definition": "Lien ou mise en relation de plusieurs éléments."
-    },
-    {
-        "word": "interlocuteur",
-        "definition": "Personne avec qui l’on parle."
-    },
-    {
-        "word": "international",
-        "definition": "Qui concerne plusieurs pays."
-    },
-    {
-        "word": "interprétation",
-        "definition": "Action d’expliquer ou de donner un sens à quelque chose."
-    },
-    {
-        "word": "intervention",
-        "definition": "Action d’intervenir, d’agir dans une situation."
-    },
-    {
-        "word": "investigation",
-        "definition": "Recherche approfondie pour découvrir des faits."
-    },
-    {
-        "word": "juridiquement",
-        "definition": "Du point de vue du droit."
-    },
-    {
-        "word": "jurisprudence",
-        "definition": "Ensemble des décisions de justice qui servent de référence."
-    },
-    {
-        "word": "justification",
-        "definition": "Action d’expliquer ou de prouver la validité de quelque chose."
-    },
-    {
-        "word": "lexicographe",
-        "definition": "Personne qui rédige ou étudie les dictionnaires."
-    },
-    {
-        "word": "manifestation",
-        "definition": "Action de montrer un sentiment ou rassemblement public pour exprimer une opinion."
-    },
-    {
-        "word": "modernisation",
-        "definition": "Action de rendre moderne, d’adapter aux nouvelles techniques."
-    },
-    {
-        "word": "modérément",
-        "definition": "Avec mesure, sans excès."
-    },
-    {
-        "word": "monstrueusement",
-        "definition": "D’une manière monstrueuse, soit énorme, soit effrayante."
-    },
-    {
-        "word": "multinational",
-        "definition": "Qui concerne plusieurs nations, généralement une entreprise présente dans plusieurs pays."
-    },
-    {
-        "word": "mystérieusement",
-        "definition": "D’une manière étrange ou difficile à comprendre."
-    },
-    {
-        "word": "mécanisation",
-        "definition": "Introduction de machines pour remplacer le travail manuel."
-    },
-    {
-        "word": "médiatisation",
-        "definition": "Action de rendre quelque chose public par les médias."
-    },
-    {
-        "word": "naturellement",
-        "definition": "D’une façon naturelle, spontanée ou évidente."
-    },
-    {
-        "word": "neutralisation",
-        "definition": "Action de rendre inoffensif ou de supprimer l’effet d’une chose."
-    },
-    {
-        "word": "obligatoirement",
-        "definition": "De manière obligatoire, sans possibilité de choix."
-    },
-    {
-        "word": "observation",
-        "definition": "Action d’examiner attentivement quelque chose."
-    },
-    {
-        "word": "organisation",
-        "definition": "Action d’agencer les éléments de manière ordonnée."
-    },
-    {
-        "word": "orthographe",
-        "definition": "Manière correcte d’écrire les mots."
-    },
-    {
-        "word": "pharmacologie",
-        "definition": "Science qui étudie les médicaments et leurs effets."
-    },
-    {
-        "word": "philosophie",
-        "definition": "Discipline qui réfléchit sur l’existence, la connaissance et la pensée."
-    },
-    {
-        "word": "photographie",
-        "definition": "Art ou technique de prendre des images avec un appareil photo."
-    },
-    {
-        "word": "potentialiser",
-        "definition": "Donner plus de puissance ou d’efficacité à quelque chose."
-    },
-    {
-        "word": "probabilités",
-        "definition": "Mesure de la chance qu’un événement se produise."
-    },
-    {
-        "word": "programmateur",
-        "definition": "Personne qui écrit ou organise des programmes informatiques."
-    },
-    {
-        "word": "programmation",
-        "definition": "Action d’écrire du code informatique ou d’organiser un plan."
-    },
-    {
-        "word": "proportionnel",
-        "definition": "Qui est en rapport équilibré avec quelque chose."
-    },
-    {
-        "word": "prédestination",
-        "definition": "Croyance selon laquelle le destin d’une personne est fixé à l’avance."
-    },
-    {
-        "word": "prédominance",
-        "definition": "Supériorité ou influence plus forte d’une chose sur une autre."
-    },
-    {
-        "word": "préoccupation",
-        "definition": "Souci ou inquiétude persistante."
-    },
-    {
-        "word": "psychologique",
-        "definition": "Qui se rapporte à la psychologie, à l’esprit."
-    },
-    {
-        "word": "publicitaire",
-        "definition": "Qui concerne la publicité."
-    },
-    {
-        "word": "pédagogique",
-        "definition": "Qui se rapporte à l’enseignement ou à la méthode éducative."
-    },
-    {
-        "word": "pénétration",
-        "definition": "Action de pénétrer dans quelque chose."
-    },
-    {
-        "word": "quantification",
-        "definition": "Action de mesurer en quantité."
-    },
-    {
-        "word": "quantitativement",
-        "definition": "D’un point de vue de la quantité."
-    },
-    {
-        "word": "rationalisme",
-        "definition": "Doctrine qui privilégie la raison pour expliquer et comprendre."
-    },
-    {
-        "word": "recommandation",
-        "definition": "Conseil donné pour guider une action."
-    },
-    {
-        "word": "reconnaissance",
-        "definition": "Fait d’identifier quelqu’un ou de témoigner de la gratitude."
-    },
-    {
-        "word": "relationnel",
-        "definition": "Qui concerne les relations entre personnes."
-    },
-    {
-        "word": "relocalisation",
-        "definition": "Action de déplacer une activité vers un autre lieu."
-    },
-    {
-        "word": "représentatif",
-        "definition": "Qui représente bien un ensemble."
-    },
-    {
-        "word": "respectueusement",
-        "definition": "Avec respect, politesse."
-    },
-    {
-        "word": "responsabilité",
-        "definition": "Obligation de répondre de ses actes ou de ceux des autres."
-    },
-    {
-        "word": "restitution",
-        "definition": "Action de rendre quelque chose à son propriétaire."
-    },
-    {
-        "word": "restructuration",
-        "definition": "Action de réorganiser profondément quelque chose."
-    },
-    {
-        "word": "réalisation",
-        "definition": "Action d’accomplir un projet ou une œuvre."
-    },
-    {
-        "word": "récapitulation",
-        "definition": "Action de résumer les points principaux."
-    },
-    {
-        "word": "récompensateur",
-        "definition": "Qui procure une récompense en échange d’un effort."
-    },
-    {
-        "word": "réflexologie",
-        "definition": "Méthode de massage basée sur la stimulation de points précis du pied ou de la main."
-    },
-    {
-        "word": "réfrigérateur",
-        "definition": "Appareil électroménager servant à conserver les aliments au frais."
-    },
-    {
-        "word": "réglementation",
-        "definition": "Ensemble des règles établies dans un domaine."
-    },
-    {
-        "word": "réhabilitation",
-        "definition": "Action de restaurer les droits ou la réputation de quelqu’un, ou de remettre un lieu en état."
-    },
-    {
-        "word": "réinterprétation",
-        "definition": "Action d’expliquer à nouveau ou différemment quelque chose."
-    },
-    {
-        "word": "réutilisation",
-        "definition": "Action de réemployer quelque chose au lieu de le jeter."
-    },
-    {
-        "word": "révolution",
-        "definition": "Changement radical, bouleversement dans un domaine."
-    },
-    {
-        "word": "révolutionnaire",
-        "definition": "Qui apporte un changement profond, novateur."
-    },
-    {
-        "word": "révolutionner",
-        "definition": "Transformer complètement quelque chose."
-    },
-    {
-        "word": "sensibilisation",
-        "definition": "Action de rendre quelqu’un conscient d’un problème ou d’une cause."
-    },
-    {
-        "word": "singulièrement",
-        "definition": "De manière particulière, inhabituelle."
-    },
-    {
-        "word": "sociologiquement",
-        "definition": "Du point de vue de la sociologie."
-    },
-    {
-        "word": "statistiquement",
-        "definition": "Selon les données ou méthodes statistiques."
-    },
-    {
-        "word": "subdivision",
-        "definition": "Partie issue d’une division plus grande."
-    },
-    {
-        "word": "substantielle",
-        "definition": "Qui est important, considérable en quantité ou en valeur."
-    },
-    {
-        "word": "substitution",
-        "definition": "Action de remplacer une chose par une autre."
-    },
-    {
-        "word": "symboliquement",
-        "definition": "De façon symbolique, représentant une idée ou une valeur."
-    },
-    {
-        "word": "systématique",
-        "definition": "Qui suit une méthode organisée et régulière."
-    },
-    {
-        "word": "technologie",
-        "definition": "Ensemble des techniques et outils développés par l’homme."
-    },
-    {
-        "word": "transmission",
-        "definition": "Action de transmettre, de faire passer quelque chose."
-    },
-    {
-        "word": "transparence",
-        "definition": "Qualité de ce qui est clair, lisible ou honnête."
-    },
-    {
-        "word": "triangulaire",
-        "definition": "Qui a la forme d’un triangle."
-    },
-    {
-        "word": "téléphérique",
-        "definition": "Moyen de transport suspendu par câbles, souvent en montagne."
-    },
-    {
-        "word": "universelle",
-        "definition": "Qui concerne tout le monde, sans exception."
-    },
-    {
-        "word": "utilisation",
-        "definition": "Action d’employer quelque chose pour un but."
-    },
-    {
-        "word": "vérificateur",
-        "definition": "Personne ou dispositif qui contrôle la validité de quelque chose."
-    },
-    {
-        "word": "électricité",
-        "definition": "Forme d’énergie produite par le mouvement des charges électriques."
-    },
-    {
-        "word": "émancipation",
-        "definition": "Action de se libérer d’une dépendance ou d’une autorité."
-    },
-    {
-        "word": "émotionnelle",
-        "definition": "Qui concerne les émotions."
-    },
-    {
-        "word": "époustouflante",
-        "definition": "Qui étonne au plus haut point, qui impressionne fortement."
-    },
-    {
-        "word": "épuration",
-        "definition": "Action de rendre plus pur, souvent en éliminant ce qui est indésirable."
-    },
-    {
-        "word": "évaporation",
-        "definition": "Transformation d’un liquide en vapeur."
-    },
-    {
-        "word": "événementiel",
-        "definition": "Qui est lié à l’organisation d’événements."
-    }
+ {
+  "word": "absence",
+  "definition": "Fait de ne pas être là où l'on est attendu.",
+  "theme": "Idées"
+ },
+ {
+  "word": "absolument",
+  "definition": "De manière certaine, sans aucun doute.",
+  "theme": "Langue"
+ },
+ {
+  "word": "accident",
+  "definition": "Un événement imprévu et généralement négatif (ex : accident de voiture).",
+  "theme": "Société"
+ },
+ {
+  "word": "activité",
+  "definition": "Ce que l'on fait pour s'occuper, travailler ou se divertir.",
+  "theme": "Travail"
+ },
+ {
+  "word": "adresse",
+  "definition": "Indication de la rue et de la ville où l'on habite ; aussi, habileté des gestes.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "affirmation",
+  "definition": "Action de déclarer quelque chose comme vrai ou de soutenir une idée.",
+  "theme": "Langue"
+ },
+ {
+  "word": "agréable",
+  "definition": "Qui fait plaisir, que l'on apprécie.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "aimable",
+  "definition": "Qui se montre gentil et poli avec les autres.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "alimentation",
+  "definition": "Action de fournir de la nourriture ou des ressources nécessaires au fonctionnement.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "allemand",
+  "definition": "Qui vient d'Allemagne ; langue parlée à Berlin ou à Vienne.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "américain",
+  "definition": "Qui vient des États-Unis ou du continent américain.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "amoureux",
+  "definition": "Qui éprouve de l'amour pour quelqu'un.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "anglais",
+  "definition": "Qui vient d'Angleterre ; langue parlée à Londres et dans le monde entier.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "angoisse",
+  "definition": "Peur diffuse et oppressante, sans objet précis.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "anniversaire",
+  "definition": "Jour où l'on fête le retour d'une date importante, comme celle de sa naissance.",
+  "theme": "Temps"
+ },
+ {
+  "word": "appareil",
+  "definition": "Objet technique composé de pièces qui remplit une fonction : photo, téléphone…",
+  "theme": "Objets"
+ },
+ {
+  "word": "apparence",
+  "definition": "Aspect extérieur de quelqu'un ou de quelque chose.",
+  "theme": "Idées"
+ },
+ {
+  "word": "appartement",
+  "definition": "Logement de plusieurs pièces situé dans un immeuble.",
+  "theme": "Maison"
+ },
+ {
+  "word": "appréciation",
+  "definition": "Action de porter un jugement positif ou négatif sur quelqu’un ou quelque chose.",
+  "theme": "Idées"
+ },
+ {
+  "word": "apprenti",
+  "definition": "Personne en formation qui apprend un métier ou une activité auprès d’un professionnel.",
+  "theme": "Travail"
+ },
+ {
+  "word": "aristocratie",
+  "definition": "Classe sociale privilégiée, historiquement composée de nobles.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "armoire",
+  "definition": "Grand meuble à portes où l'on range le linge et les vêtements.",
+  "theme": "Maison"
+ },
+ {
+  "word": "arrivée",
+  "definition": "Moment où l'on atteint le lieu où l'on se rendait.",
+  "theme": "Temps"
+ },
+ {
+  "word": "article",
+  "definition": "Texte publié dans un journal ; aussi, petit mot placé devant le nom (le, la, un).",
+  "theme": "Langue"
+ },
+ {
+  "word": "artiste",
+  "definition": "Personne qui crée des œuvres : peintre, musicien, comédien…",
+  "theme": "Arts"
+ },
+ {
+  "word": "ascenseur",
+  "definition": "Cabine qui monte et descend les étages d'un immeuble.",
+  "theme": "Maison"
+ },
+ {
+  "word": "aspirateur",
+  "definition": "Appareil électroménager servant à nettoyer en aspirant la poussière.",
+  "theme": "Maison"
+ },
+ {
+  "word": "assiette",
+  "definition": "Objet plat utilisé pour manger ; peut aussi désigner la position stable d’un objet ou d’un avion.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "assurance",
+  "definition": "Contrat qui protège contre les risques ; aussi, confiance en soi.",
+  "theme": "Société"
+ },
+ {
+  "word": "atelier",
+  "definition": "Lieu où travaillent des artisans ou des artistes.",
+  "theme": "Travail"
+ },
+ {
+  "word": "atmosphère",
+  "definition": "Couche d'air qui entoure la Terre ; aussi, ambiance d'un lieu.",
+  "theme": "Nature"
+ },
+ {
+  "word": "attaque",
+  "definition": "Action de s'en prendre violemment à quelqu'un ou à quelque chose.",
+  "theme": "Actions"
+ },
+ {
+  "word": "attente",
+  "definition": "Temps passé à espérer que quelque chose arrive.",
+  "theme": "Temps"
+ },
+ {
+  "word": "attention",
+  "definition": "Concentration de l'esprit sur quelque chose ; aussi, marque de gentillesse.",
+  "theme": "Idées"
+ },
+ {
+  "word": "attitude",
+  "definition": "Manière de se tenir ou de se comporter.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "automne",
+  "definition": "Saison entre l'été et l'hiver, où les feuilles tombent.",
+  "theme": "Temps"
+ },
+ {
+  "word": "autorité",
+  "definition": "Pouvoir de commander et de se faire obéir.",
+  "theme": "Société"
+ },
+ {
+  "word": "avantage",
+  "definition": "Ce qui donne une supériorité ou un profit.",
+  "theme": "Idées"
+ },
+ {
+  "word": "aventure",
+  "definition": "Suite d'événements inattendus et souvent risqués.",
+  "theme": "Idées"
+ },
+ {
+  "word": "aveugle",
+  "definition": "Qui ne voit pas.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "bataille",
+  "definition": "Combat entre deux armées.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "bâtiment",
+  "definition": "Construction importante : maison, immeuble, usine…",
+  "theme": "Lieux"
+ },
+ {
+  "word": "bibliothèque",
+  "definition": "Lieu où sont conservés et prêtés des livres, ou meuble pour ranger des livres.",
+  "theme": "Maison"
+ },
+ {
+  "word": "blessure",
+  "definition": "Plaie ou lésion causée par un choc ou une arme.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "bonheur",
+  "definition": "État de pleine satisfaction, de joie durable.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "bouteille",
+  "definition": "Récipient à goulot étroit pour conserver les liquides.",
+  "theme": "Objets"
+ },
+ {
+  "word": "boutique",
+  "definition": "Petit magasin où l'on vend des marchandises.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "branche",
+  "definition": "Partie d'un arbre qui part du tronc et porte les feuilles.",
+  "theme": "Nature"
+ },
+ {
+  "word": "brillant",
+  "definition": "Qui brille fortement ; peut aussi désigner une personne très douée ou un succès remarquable.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "cabinet",
+  "definition": "Local où un médecin ou un avocat reçoit ; aussi, petit meuble à tiroirs.",
+  "theme": "Travail"
+ },
+ {
+  "word": "camarade",
+  "definition": "Compagnon avec qui l'on partage une activité ou une classe.",
+  "theme": "Société"
+ },
+ {
+  "word": "camionnette",
+  "definition": "Petit camion servant à transporter des marchandises ou du matériel.",
+  "theme": "Objets"
+ },
+ {
+  "word": "campagne",
+  "definition": "Territoire hors des villes, fait de champs et de villages.",
+  "theme": "Nature"
+ },
+ {
+  "word": "capitaine",
+  "definition": "Officier qui commande une compagnie ou un navire.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "caractère",
+  "definition": "Ensemble des traits qui définissent la manière d'être d'une personne.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "carrière",
+  "definition": "Parcours professionnel d'une personne ; aussi, lieu d'où l'on extrait la pierre.",
+  "theme": "Travail"
+ },
+ {
+  "word": "cauchemar",
+  "definition": "Rêve effrayant.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "ceinture",
+  "definition": "Bande qui se porte autour de la taille pour tenir un vêtement.",
+  "theme": "Objets"
+ },
+ {
+  "word": "célébration",
+  "definition": "Action de fêter un événement ou de rendre hommage.",
+  "theme": "Société"
+ },
+ {
+  "word": "célèbre",
+  "definition": "Connu de tous.",
+  "theme": "Société"
+ },
+ {
+  "word": "cellule",
+  "definition": "Plus petite unité vivante ; aussi, petite pièce d'une prison.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "cérémonie",
+  "definition": "Fête solennelle qui suit des règles précises.",
+  "theme": "Société"
+ },
+ {
+  "word": "cerveau",
+  "definition": "Organe logé dans le crâne, siège de la pensée.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "chagrin",
+  "definition": "Peine, tristesse profonde.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "chaleur",
+  "definition": "Température élevée ; sensation de ce qui est chaud.",
+  "theme": "Nature"
+ },
+ {
+  "word": "chambre",
+  "definition": "Pièce où l'on dort.",
+  "theme": "Maison"
+ },
+ {
+  "word": "champagne",
+  "definition": "Vin blanc pétillant d'une région de l'est de la France.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "champion",
+  "definition": "Vainqueur d'une compétition.",
+  "theme": "Société"
+ },
+ {
+  "word": "changement",
+  "definition": "Fait de devenir différent.",
+  "theme": "Idées"
+ },
+ {
+  "word": "chanson",
+  "definition": "Texte mis en musique, destiné à être chanté.",
+  "theme": "Arts"
+ },
+ {
+  "word": "chapeau",
+  "definition": "Coiffure que l'on porte sur la tête.",
+  "theme": "Objets"
+ },
+ {
+  "word": "chapitre",
+  "definition": "Chacune des grandes parties d'un livre.",
+  "theme": "Langue"
+ },
+ {
+  "word": "charmant",
+  "definition": "Qui plaît beaucoup, qui séduit.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "chasseur",
+  "definition": "Personne qui traque et tue le gibier.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "château",
+  "definition": "Grande demeure royale ou seigneuriale, souvent fortifiée.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "chauffeur",
+  "definition": "Personne dont le métier est de conduire un véhicule.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "chaussure",
+  "definition": "Ce que l'on porte aux pieds pour marcher.",
+  "theme": "Objets"
+ },
+ {
+  "word": "cheminée",
+  "definition": "Foyer où l'on fait du feu, avec son conduit vers le toit.",
+  "theme": "Maison"
+ },
+ {
+  "word": "chemise",
+  "definition": "Vêtement à col et à boutons qui couvre le buste.",
+  "theme": "Objets"
+ },
+ {
+  "word": "chevalier",
+  "definition": "Noble guerrier du Moyen Âge, combattant à cheval.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "chocolat",
+  "definition": "Aliment fait de cacao et de sucre.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "cigarette",
+  "definition": "Petit rouleau de tabac enveloppé de papier fin.",
+  "theme": "Objets"
+ },
+ {
+  "word": "cimetière",
+  "definition": "Lieu où l'on enterre les morts.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "circonstance",
+  "definition": "Détail ou condition qui accompagne un événement.",
+  "theme": "Temps"
+ },
+ {
+  "word": "collègue",
+  "definition": "Personne qui travaille au même endroit que soi.",
+  "theme": "Travail"
+ },
+ {
+  "word": "colline",
+  "definition": "Petite montagne aux pentes douces.",
+  "theme": "Nature"
+ },
+ {
+  "word": "colonel",
+  "definition": "Officier supérieur qui commande un régiment.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "colonne",
+  "definition": "Pilier cylindrique qui soutient un édifice.",
+  "theme": "Maison"
+ },
+ {
+  "word": "comédie",
+  "definition": "Pièce de théâtre ou film qui fait rire.",
+  "theme": "Arts"
+ },
+ {
+  "word": "commandant",
+  "definition": "Officier qui dirige une unité ou un navire.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "commissaire",
+  "definition": "Chef d'un service de police.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "compagnie",
+  "definition": "Présence de quelqu'un auprès de soi ; aussi, entreprise.",
+  "theme": "Société"
+ },
+ {
+  "word": "compagnon",
+  "definition": "Personne qui partage la vie ou les activités de quelqu'un.",
+  "theme": "Société"
+ },
+ {
+  "word": "compensation",
+  "definition": "Action de compenser une perte, un désavantage ou une dette.",
+  "theme": "Idées"
+ },
+ {
+  "word": "complexité",
+  "definition": "Caractère de ce qui est compliqué, qui comporte plusieurs éléments difficiles à analyser.",
+  "theme": "Idées"
+ },
+ {
+  "word": "comptoir",
+  "definition": "Long meuble où l'on sert les clients dans un café ou un magasin.",
+  "theme": "Maison"
+ },
+ {
+  "word": "concert",
+  "definition": "Spectacle où l'on joue de la musique devant un public.",
+  "theme": "Arts"
+ },
+ {
+  "word": "concours",
+  "definition": "Épreuve où les candidats sont classés pour obtenir une place ou un prix.",
+  "theme": "Société"
+ },
+ {
+  "word": "condition",
+  "definition": "Ce qui est nécessaire pour qu'une chose se réalise.",
+  "theme": "Idées"
+ },
+ {
+  "word": "confiance",
+  "definition": "Sentiment de sécurité envers quelqu'un sur qui l'on peut compter.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "connaissance",
+  "definition": "Fait de savoir quelque chose ; aussi, personne que l'on connaît.",
+  "theme": "Idées"
+ },
+ {
+  "word": "conscience",
+  "definition": "Faculté de se percevoir soi-même et de juger le bien et le mal.",
+  "theme": "Idées"
+ },
+ {
+  "word": "conseil",
+  "definition": "Avis donné pour aider quelqu'un à agir.",
+  "theme": "Société"
+ },
+ {
+  "word": "conséquence",
+  "definition": "Ce qui découle d'un acte ou d'un événement.",
+  "theme": "Idées"
+ },
+ {
+  "word": "conspiration",
+  "definition": "Entente secrète entre plusieurs personnes pour nuire ou comploter.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "contrat",
+  "definition": "Accord écrit qui engage plusieurs personnes.",
+  "theme": "Société"
+ },
+ {
+  "word": "conversation",
+  "definition": "Échange de paroles entre plusieurs personnes.",
+  "theme": "Langue"
+ },
+ {
+  "word": "costume",
+  "definition": "Ensemble veste et pantalon ; aussi, déguisement.",
+  "theme": "Objets"
+ },
+ {
+  "word": "couleur",
+  "definition": "Impression que produit la lumière sur l'œil : rouge, bleu, vert…",
+  "theme": "Arts"
+ },
+ {
+  "word": "couloir",
+  "definition": "Passage étroit qui dessert les pièces d'un logement.",
+  "theme": "Maison"
+ },
+ {
+  "word": "coupable",
+  "definition": "Qui a commis une faute ou un crime.",
+  "theme": "Société"
+ },
+ {
+  "word": "courage",
+  "definition": "Force de caractère qui permet d'affronter le danger.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "couteau",
+  "definition": "Instrument tranchant formé d'une lame et d'un manche.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "couverture",
+  "definition": "Pièce de tissu épais qui tient chaud au lit.",
+  "theme": "Maison"
+ },
+ {
+  "word": "crainte",
+  "definition": "Sentiment de peur face à un danger possible.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "cravate",
+  "definition": "Bande de tissu nouée autour du col de la chemise.",
+  "theme": "Objets"
+ },
+ {
+  "word": "créature",
+  "definition": "Être vivant, souvent étrange ou imaginaire.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "cuisine",
+  "definition": "Pièce où l'on prépare les repas ; art de les préparer.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "culture",
+  "definition": "Ensemble des connaissances et des œuvres d'une société.",
+  "theme": "Arts"
+ },
+ {
+  "word": "curieux",
+  "definition": "Qui a envie d'apprendre et de découvrir.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "curiosité",
+  "definition": "Désir de savoir, de découvrir des choses nouvelles.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "dangereux",
+  "definition": "Qui peut causer du tort ou un accident.",
+  "theme": "Idées"
+ },
+ {
+  "word": "décision",
+  "definition": "Choix que l'on fait après réflexion.",
+  "theme": "Idées"
+ },
+ {
+  "word": "défense",
+  "definition": "Action de protéger ; aussi, longue dent de l'éléphant.",
+  "theme": "Actions"
+ },
+ {
+  "word": "déjeuner",
+  "definition": "Repas du milieu de la journée.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "délicat",
+  "definition": "Fin, fragile, qui demande des précautions.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "délicieux",
+  "definition": "Qui a un goût excellent.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "désespoir",
+  "definition": "Perte de tout espoir.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "désordre",
+  "definition": "Absence de rangement.",
+  "theme": "Maison"
+ },
+ {
+  "word": "dictionnaire",
+  "definition": "Ouvrage qui rassemble et définit les mots d’une langue.",
+  "theme": "Langue"
+ },
+ {
+  "word": "différence",
+  "definition": "Ce qui distingue une chose d'une autre.",
+  "theme": "Idées"
+ },
+ {
+  "word": "difficile",
+  "definition": "Qui demande beaucoup d'efforts.",
+  "theme": "Idées"
+ },
+ {
+  "word": "difficulté",
+  "definition": "Ce qui rend une chose dure à faire.",
+  "theme": "Idées"
+ },
+ {
+  "word": "dimanche",
+  "definition": "Dernier jour de la semaine, souvent consacré au repos.",
+  "theme": "Temps"
+ },
+ {
+  "word": "directeur",
+  "definition": "Personne qui dirige une entreprise ou un service.",
+  "theme": "Travail"
+ },
+ {
+  "word": "direction",
+  "definition": "Côté vers lequel on va ; aussi, fait de diriger.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "discours",
+  "definition": "Paroles prononcées devant un public.",
+  "theme": "Langue"
+ },
+ {
+  "word": "discussion",
+  "definition": "Échange de points de vue entre plusieurs personnes.",
+  "theme": "Langue"
+ },
+ {
+  "word": "disparition",
+  "definition": "Fait de ne plus être visible, de cesser d’exister.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "distance",
+  "definition": "Longueur qui sépare deux points.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "docteur",
+  "definition": "Médecin ; personne qui a obtenu le plus haut diplôme universitaire.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "domaine",
+  "definition": "Propriété à la campagne ; aussi, champ d'activité.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "douceur",
+  "definition": "Qualité de ce qui est doux, agréable au toucher ou au cœur.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "douleur",
+  "definition": "Sensation pénible ressentie par le corps ou le cœur.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "drapeau",
+  "definition": "Pièce d'étoffe aux couleurs d'un pays.",
+  "theme": "Société"
+ },
+ {
+  "word": "échange",
+  "definition": "Fait de donner une chose contre une autre.",
+  "theme": "Société"
+ },
+ {
+  "word": "écriture",
+  "definition": "Façon de tracer les lettres ; art d'écrire.",
+  "theme": "Langue"
+ },
+ {
+  "word": "écrivain",
+  "definition": "Personne qui écrit des livres.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "électricité",
+  "definition": "Forme d’énergie produite par le mouvement des charges électriques.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "élément",
+  "definition": "Partie d'un ensemble.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "émotion",
+  "definition": "Trouble vif de l'esprit : joie, peur, colère…",
+  "theme": "Émotions"
+ },
+ {
+  "word": "empereur",
+  "definition": "Souverain qui règne sur un empire.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "employé",
+  "definition": "Personne qui travaille pour un patron contre un salaire.",
+  "theme": "Travail"
+ },
+ {
+  "word": "empreinte",
+  "definition": "Marque laissée par un pied, un doigt ou un objet.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "endroit",
+  "definition": "Lieu, place précise.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "énergie",
+  "definition": "Force physique ou morale ; ce qui produit un travail.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "enfance",
+  "definition": "Période de la vie qui va de la naissance à l'adolescence.",
+  "theme": "Temps"
+ },
+ {
+  "word": "enquête",
+  "definition": "Recherches menées pour découvrir la vérité.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "entreprise",
+  "definition": "Société qui produit des biens ou des services.",
+  "theme": "Travail"
+ },
+ {
+  "word": "épreuve",
+  "definition": "Situation difficile ; examen.",
+  "theme": "Actions"
+ },
+ {
+  "word": "équilibre",
+  "definition": "État d'un corps qui ne tombe pas.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "escalier",
+  "definition": "Suite de marches pour monter ou descendre.",
+  "theme": "Maison"
+ },
+ {
+  "word": "esclave",
+  "definition": "Personne privée de liberté, possédée par un maître.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "essence",
+  "definition": "Carburant tiré du pétrole ; aussi, nature profonde d'une chose.",
+  "theme": "Objets"
+ },
+ {
+  "word": "estomac",
+  "definition": "Organe en forme de poche où les aliments sont digérés.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "étranger",
+  "definition": "Qui vient d'un autre pays.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "étudiant",
+  "definition": "Personne qui fait des études supérieures.",
+  "theme": "Travail"
+ },
+ {
+  "word": "événement",
+  "definition": "Ce qui arrive et qui a de l'importance.",
+  "theme": "Temps"
+ },
+ {
+  "word": "excellent",
+  "definition": "Très bon.",
+  "theme": "Idées"
+ },
+ {
+  "word": "exemple",
+  "definition": "Cas précis qui sert à illustrer une idée.",
+  "theme": "Langue"
+ },
+ {
+  "word": "exercice",
+  "definition": "Travail d'entraînement ; activité physique.",
+  "theme": "Travail"
+ },
+ {
+  "word": "expérience",
+  "definition": "Essai pour vérifier une idée ; aussi, savoir tiré de la pratique.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "explication",
+  "definition": "Ce qui permet de comprendre.",
+  "theme": "Langue"
+ },
+ {
+  "word": "explosion",
+  "definition": "Éclatement violent accompagné de bruit et de flammes.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "expression",
+  "definition": "Manière de dire ; tournure de langage.",
+  "theme": "Langue"
+ },
+ {
+  "word": "extrême",
+  "definition": "Qui est au plus haut degré, au bout de quelque chose.",
+  "theme": "Idées"
+ },
+ {
+  "word": "famille",
+  "definition": "Ensemble des parents et des enfants.",
+  "theme": "Société"
+ },
+ {
+  "word": "fantôme",
+  "definition": "Apparition d'un mort, esprit qui hante un lieu.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "fatigue",
+  "definition": "Sensation de faiblesse après un effort.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "fauteuil",
+  "definition": "Siège confortable à dossier et à accoudoirs.",
+  "theme": "Maison"
+ },
+ {
+  "word": "fenêtre",
+  "definition": "Ouverture vitrée dans un mur, qui laisse entrer la lumière.",
+  "theme": "Maison"
+ },
+ {
+  "word": "feuille",
+  "definition": "Partie verte et plate des plantes ; aussi, morceau de papier.",
+  "theme": "Nature"
+ },
+ {
+  "word": "fonction",
+  "definition": "Rôle, emploi ; ce à quoi sert une chose.",
+  "theme": "Travail"
+ },
+ {
+  "word": "fondamental",
+  "definition": "Qui est à la base de quelque chose, essentiel.",
+  "theme": "Idées"
+ },
+ {
+  "word": "formidable",
+  "definition": "Extraordinaire, épatant.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "fortune",
+  "definition": "Grande richesse ; aussi, hasard, sort.",
+  "theme": "Société"
+ },
+ {
+  "word": "fragile",
+  "definition": "Qui se casse facilement.",
+  "theme": "Idées"
+ },
+ {
+  "word": "français",
+  "definition": "Langue parlée en France, en Afrique francophone, au Québec…",
+  "theme": "Langue"
+ },
+ {
+  "word": "fromage",
+  "definition": "Aliment fait de lait caillé.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "frontière",
+  "definition": "Limite qui sépare deux pays.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "furieux",
+  "definition": "Très en colère.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "gardien",
+  "definition": "Personne chargée de surveiller et de protéger.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "gendarme",
+  "definition": "Militaire chargé du maintien de l'ordre.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "génération",
+  "definition": "Ensemble des personnes nées à la même époque.",
+  "theme": "Temps"
+ },
+ {
+  "word": "générosité",
+  "definition": "Disposition à donner aux autres sans attendre en retour.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "gentillesse",
+  "definition": "Qualité de quelqu’un qui est aimable et bienveillant.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "gouvernement",
+  "definition": "Ensemble des ministres qui dirigent un pays.",
+  "theme": "Société"
+ },
+ {
+  "word": "habitude",
+  "definition": "Façon d'agir que l'on répète souvent.",
+  "theme": "Temps"
+ },
+ {
+  "word": "hauteur",
+  "definition": "Dimension verticale ; lieu élevé.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "hélicoptère",
+  "definition": "Aéronef dont le vol est assuré par des rotors tournant sur lui-même.",
+  "theme": "Objets"
+ },
+ {
+  "word": "heureux",
+  "definition": "Qui éprouve une grande joie, une pleine satisfaction.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "histoire",
+  "definition": "Récit ; étude du passé des sociétés humaines.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "honnête",
+  "definition": "Qui ne ment pas et ne vole pas.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "honneur",
+  "definition": "Sentiment de dignité ; respect que l'on mérite.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "hôpital",
+  "definition": "Établissement où l'on soigne les malades.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "horizon",
+  "definition": "Ligne où le ciel semble toucher la terre ou la mer.",
+  "theme": "Nature"
+ },
+ {
+  "word": "horreur",
+  "definition": "Frayeur violente, dégoût extrême.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "horrible",
+  "definition": "Qui fait peur ou qui dégoûte.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "identité",
+  "definition": "Ce qui fait qu'une personne est elle-même et pas une autre.",
+  "theme": "Société"
+ },
+ {
+  "word": "illusion",
+  "definition": "Fausse apparence qui trompe les sens ou l'esprit.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "imagination",
+  "definition": "Capacité de créer des images mentales ou des idées nouvelles.",
+  "theme": "Arts"
+ },
+ {
+  "word": "immense",
+  "definition": "Très grand.",
+  "theme": "Idées"
+ },
+ {
+  "word": "immeuble",
+  "definition": "Grand bâtiment de plusieurs étages.",
+  "theme": "Maison"
+ },
+ {
+  "word": "immobile",
+  "definition": "Qui ne bouge pas.",
+  "theme": "Idées"
+ },
+ {
+  "word": "importance",
+  "definition": "Caractère de ce qui compte beaucoup.",
+  "theme": "Idées"
+ },
+ {
+  "word": "impossible",
+  "definition": "Qui ne peut pas se faire.",
+  "theme": "Idées"
+ },
+ {
+  "word": "impression",
+  "definition": "Sentiment vague ; aussi, action d'imprimer.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "imprévisible",
+  "definition": "Qui ne peut pas être prévu à l’avance.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "inattendu",
+  "definition": "Qui survient de manière imprévue.",
+  "theme": "Idées"
+ },
+ {
+  "word": "incendie",
+  "definition": "Grand feu qui détruit.",
+  "theme": "Nature"
+ },
+ {
+  "word": "incroyable",
+  "definition": "Difficile à croire.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "infirmier",
+  "definition": "Personne qui soigne les malades à l'hôpital.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "information",
+  "definition": "Renseignement ; nouvelle que l'on transmet.",
+  "theme": "Société"
+ },
+ {
+  "word": "innocent",
+  "definition": "Qui n'a rien fait de mal.",
+  "theme": "Société"
+ },
+ {
+  "word": "inquiétude",
+  "definition": "Trouble de celui qui craint qu'il arrive quelque chose.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "inscription",
+  "definition": "Action de s’enregistrer ou d’écrire son nom pour participer à quelque chose.",
+  "theme": "Langue"
+ },
+ {
+  "word": "inspecteur",
+  "definition": "Policier chargé des enquêtes.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "instinct",
+  "definition": "Élan naturel qui pousse à agir sans réfléchir.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "institution",
+  "definition": "Organisation publique ou privée qui a une fonction sociale importante.",
+  "theme": "Société"
+ },
+ {
+  "word": "instrument",
+  "definition": "Objet qui sert à jouer de la musique ou à faire un travail.",
+  "theme": "Arts"
+ },
+ {
+  "word": "intelligence",
+  "definition": "Faculté de comprendre et de raisonner.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "intention",
+  "definition": "Ce que l'on a l'idée de faire.",
+  "theme": "Idées"
+ },
+ {
+  "word": "intéressant",
+  "definition": "Qui retient l'attention.",
+  "theme": "Idées"
+ },
+ {
+  "word": "intérieur",
+  "definition": "Le dedans d'une chose ; logement.",
+  "theme": "Maison"
+ },
+ {
+  "word": "intervention",
+  "definition": "Action d’intervenir, d’agir dans une situation.",
+  "theme": "Actions"
+ },
+ {
+  "word": "invisible",
+  "definition": "Que l'on ne peut pas voir.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "jeunesse",
+  "definition": "Période de la vie entre l'enfance et l'âge adulte.",
+  "theme": "Temps"
+ },
+ {
+  "word": "journaliste",
+  "definition": "Personne qui écrit ou présente l'actualité.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "journée",
+  "definition": "Espace de temps entre le lever et le coucher du soleil.",
+  "theme": "Temps"
+ },
+ {
+  "word": "jugement",
+  "definition": "Décision d'un tribunal ; faculté de bien juger.",
+  "theme": "Société"
+ },
+ {
+  "word": "justice",
+  "definition": "Respect du droit ; institution qui juge.",
+  "theme": "Société"
+ },
+ {
+  "word": "kilomètre",
+  "definition": "Unité de longueur égale à mille mètres.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "langage",
+  "definition": "Moyen de communiquer par des mots ou des signes.",
+  "theme": "Langue"
+ },
+ {
+  "word": "lecture",
+  "definition": "Action de lire.",
+  "theme": "Langue"
+ },
+ {
+  "word": "lendemain",
+  "definition": "Le jour qui suit.",
+  "theme": "Temps"
+ },
+ {
+  "word": "liberté",
+  "definition": "Possibilité d'agir sans contrainte.",
+  "theme": "Société"
+ },
+ {
+  "word": "lieutenant",
+  "definition": "Officier qui seconde un capitaine.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "lointain",
+  "definition": "Qui se trouve très loin.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "lumière",
+  "definition": "Ce qui éclaire et permet de voir.",
+  "theme": "Nature"
+ },
+ {
+  "word": "machine",
+  "definition": "Appareil qui transforme l'énergie pour faire un travail.",
+  "theme": "Objets"
+ },
+ {
+  "word": "magasin",
+  "definition": "Local où l'on vend des marchandises.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "magique",
+  "definition": "Qui semble tenir de la magie, surnaturel.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "magnifique",
+  "definition": "Très beau.",
+  "theme": "Arts"
+ },
+ {
+  "word": "majesté",
+  "definition": "Grandeur royale ; titre donné aux rois et reines.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "maladie",
+  "definition": "Altération de la santé.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "malheur",
+  "definition": "Événement pénible ; grande infortune.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "manière",
+  "definition": "Façon de faire.",
+  "theme": "Idées"
+ },
+ {
+  "word": "manteau",
+  "definition": "Vêtement chaud à manches, porté par-dessus les autres.",
+  "theme": "Objets"
+ },
+ {
+  "word": "marchand",
+  "definition": "Personne qui vend des biens ou services, souvent sur un marché.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "mariage",
+  "definition": "Union officielle de deux personnes.",
+  "theme": "Société"
+ },
+ {
+  "word": "matière",
+  "definition": "Substance dont les choses sont faites ; discipline scolaire.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "médecin",
+  "definition": "Personne qui soigne les malades.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "médicament",
+  "definition": "Substance qui sert à soigner.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "mémoire",
+  "definition": "Faculté de se souvenir.",
+  "theme": "Idées"
+ },
+ {
+  "word": "mensonge",
+  "definition": "Parole contraire à la vérité, dite pour tromper.",
+  "theme": "Langue"
+ },
+ {
+  "word": "merveille",
+  "definition": "Chose admirable, extraordinaire.",
+  "theme": "Arts"
+ },
+ {
+  "word": "message",
+  "definition": "Information transmise à quelqu'un.",
+  "theme": "Langue"
+ },
+ {
+  "word": "meurtre",
+  "definition": "Action de tuer volontairement quelqu'un.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "militaire",
+  "definition": "Qui appartient à l'armée ; soldat.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "ministre",
+  "definition": "Membre du gouvernement chargé d’un domaine particulier, comme la santé ou l’éducation.",
+  "theme": "Société"
+ },
+ {
+  "word": "minuscule",
+  "definition": "Très petit.",
+  "theme": "Idées"
+ },
+ {
+  "word": "miracle",
+  "definition": "Fait extraordinaire que l'on attribue à une puissance divine.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "mission",
+  "definition": "Tâche confiée à quelqu'un.",
+  "theme": "Travail"
+ },
+ {
+  "word": "moderne",
+  "definition": "Qui appartient à l'époque actuelle.",
+  "theme": "Temps"
+ },
+ {
+  "word": "monnaie",
+  "definition": "Argent sous forme de pièces ; devise d'un pays.",
+  "theme": "Société"
+ },
+ {
+  "word": "monstre",
+  "definition": "Créature effrayante et imaginaire.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "montagne",
+  "definition": "Relief très élevé.",
+  "theme": "Nature"
+ },
+ {
+  "word": "morceau",
+  "definition": "Partie d'une chose.",
+  "theme": "Objets"
+ },
+ {
+  "word": "moustache",
+  "definition": "Poils qui poussent au-dessus de la lèvre supérieure.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "mouvement",
+  "definition": "Déplacement, changement de position.",
+  "theme": "Actions"
+ },
+ {
+  "word": "musique",
+  "definition": "Art de combiner les sons.",
+  "theme": "Arts"
+ },
+ {
+  "word": "mystère",
+  "definition": "Chose cachée, incompréhensible.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "mystérieux",
+  "definition": "Qui cache un secret.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "naissance",
+  "definition": "Moment où l'on vient au monde.",
+  "theme": "Temps"
+ },
+ {
+  "word": "naturel",
+  "definition": "Qui vient de la nature ; spontané.",
+  "theme": "Nature"
+ },
+ {
+  "word": "nécessaire",
+  "definition": "Dont on ne peut pas se passer.",
+  "theme": "Idées"
+ },
+ {
+  "word": "nerveux",
+  "definition": "Agité, qui a du mal à rester calme.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "nombreux",
+  "definition": "En grand nombre.",
+  "theme": "Idées"
+ },
+ {
+  "word": "nourriture",
+  "definition": "Ce que l'on mange.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "nouvelle",
+  "definition": "Information récente ; court récit.",
+  "theme": "Langue"
+ },
+ {
+  "word": "obscurité",
+  "definition": "Absence de lumière.",
+  "theme": "Nature"
+ },
+ {
+  "word": "observation",
+  "definition": "Action d’examiner attentivement quelque chose.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "occasion",
+  "definition": "Moment favorable ; objet d'occasion déjà utilisé.",
+  "theme": "Temps"
+ },
+ {
+  "word": "officier",
+  "definition": "Militaire qui commande.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "opération",
+  "definition": "Intervention chirurgicale ; calcul.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "opinion",
+  "definition": "Avis, manière de penser.",
+  "theme": "Idées"
+ },
+ {
+  "word": "oreille",
+  "definition": "Organe de l'ouïe.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "organisation",
+  "definition": "Action d’agencer les éléments de manière ordonnée.",
+  "theme": "Société"
+ },
+ {
+  "word": "origine",
+  "definition": "Commencement, point de départ.",
+  "theme": "Temps"
+ },
+ {
+  "word": "orthographe",
+  "definition": "Manière correcte d’écrire les mots.",
+  "theme": "Langue"
+ },
+ {
+  "word": "ouvrier",
+  "definition": "Personne qui fait un travail manuel contre un salaire.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "pantalon",
+  "definition": "Vêtement qui couvre chaque jambe séparément.",
+  "theme": "Objets"
+ },
+ {
+  "word": "paradis",
+  "definition": "Lieu de bonheur éternel.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "parfait",
+  "definition": "Sans défaut.",
+  "theme": "Idées"
+ },
+ {
+  "word": "passage",
+  "definition": "Endroit par où l'on passe.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "passion",
+  "definition": "Amour ou intérêt très intense.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "patience",
+  "definition": "Capacité d'attendre calmement.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "paysage",
+  "definition": "Étendue de pays que l'on voit d'un seul regard.",
+  "theme": "Nature"
+ },
+ {
+  "word": "peintre",
+  "definition": "Artiste qui peint des tableaux.",
+  "theme": "Arts"
+ },
+ {
+  "word": "peinture",
+  "definition": "Art de peindre ; matière colorée que l'on étale.",
+  "theme": "Arts"
+ },
+ {
+  "word": "permission",
+  "definition": "Autorisation.",
+  "theme": "Société"
+ },
+ {
+  "word": "personnage",
+  "definition": "Rôle d'une histoire, d'un film ou d'une pièce.",
+  "theme": "Arts"
+ },
+ {
+  "word": "philosophie",
+  "definition": "Discipline qui réfléchit sur l’existence, la connaissance et la pensée.",
+  "theme": "Idées"
+ },
+ {
+  "word": "photographie",
+  "definition": "Art ou technique de prendre des images avec un appareil photo.",
+  "theme": "Arts"
+ },
+ {
+  "word": "physique",
+  "definition": "Science de la matière et de l'énergie ; apparence du corps.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "pistolet",
+  "definition": "Petite arme à feu que l'on tient d'une main.",
+  "theme": "Objets"
+ },
+ {
+  "word": "placard",
+  "definition": "Armoire aménagée dans un mur.",
+  "theme": "Maison"
+ },
+ {
+  "word": "plafond",
+  "definition": "Surface qui forme le haut d'une pièce.",
+  "theme": "Maison"
+ },
+ {
+  "word": "plaisir",
+  "definition": "Sentiment agréable.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "planche",
+  "definition": "Morceau de bois plat et long.",
+  "theme": "Objets"
+ },
+ {
+  "word": "planète",
+  "definition": "Astre qui tourne autour d'une étoile.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "plateau",
+  "definition": "Support plat pour transporter ; aussi, plaine en hauteur.",
+  "theme": "Objets"
+ },
+ {
+  "word": "poignet",
+  "definition": "Articulation entre la main et l'avant-bras.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "poisson",
+  "definition": "Animal qui vit dans l'eau et respire par des branchies.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "poitrine",
+  "definition": "Partie du corps entre le cou et le ventre.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "policier",
+  "definition": "Membre de la police.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "politique",
+  "definition": "Art de gouverner un pays.",
+  "theme": "Société"
+ },
+ {
+  "word": "populaire",
+  "definition": "Aimé du plus grand nombre.",
+  "theme": "Société"
+ },
+ {
+  "word": "portrait",
+  "definition": "Représentation du visage d'une personne.",
+  "theme": "Arts"
+ },
+ {
+  "word": "poussière",
+  "definition": "Poudre fine qui se dépose sur les meubles.",
+  "theme": "Maison"
+ },
+ {
+  "word": "précieux",
+  "definition": "Qui a une grande valeur matérielle ou affective.",
+  "theme": "Idées"
+ },
+ {
+  "word": "président",
+  "definition": "Personne qui dirige un pays ou une assemblée.",
+  "theme": "Société"
+ },
+ {
+  "word": "pression",
+  "definition": "Force exercée sur une surface ; aussi, stress.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "printemps",
+  "definition": "Saison qui suit l'hiver.",
+  "theme": "Temps"
+ },
+ {
+  "word": "prisonnier",
+  "definition": "Personne enfermée en prison.",
+  "theme": "Société"
+ },
+ {
+  "word": "problème",
+  "definition": "Question ou difficulté à résoudre.",
+  "theme": "Idées"
+ },
+ {
+  "word": "professeur",
+  "definition": "Personne qui enseigne.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "programme",
+  "definition": "Ce que l'on prévoit de faire ; logiciel.",
+  "theme": "Idées"
+ },
+ {
+  "word": "promenade",
+  "definition": "Action de marcher pour le plaisir.",
+  "theme": "Actions"
+ },
+ {
+  "word": "promesse",
+  "definition": "Engagement de faire quelque chose ou de tenir une parole.",
+  "theme": "Langue"
+ },
+ {
+  "word": "propriétaire",
+  "definition": "Personne qui possède un bien.",
+  "theme": "Société"
+ },
+ {
+  "word": "puissance",
+  "definition": "Force, pouvoir.",
+  "theme": "Société"
+ },
+ {
+  "word": "qualité",
+  "definition": "Ce qui fait la valeur d'une chose ; point fort.",
+  "theme": "Idées"
+ },
+ {
+  "word": "quartier",
+  "definition": "Partie d'une ville.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "question",
+  "definition": "Phrase qui demande une réponse.",
+  "theme": "Langue"
+ },
+ {
+  "word": "réalité",
+  "definition": "Ce qui existe vraiment.",
+  "theme": "Idées"
+ },
+ {
+  "word": "recherche",
+  "definition": "Action de chercher ; travail des scientifiques.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "relation",
+  "definition": "Lien entre des personnes ou des choses.",
+  "theme": "Société"
+ },
+ {
+  "word": "religion",
+  "definition": "Ensemble de croyances envers le sacré.",
+  "theme": "Société"
+ },
+ {
+  "word": "rencontre",
+  "definition": "Fait de se trouver face à quelqu'un.",
+  "theme": "Société"
+ },
+ {
+  "word": "réponse",
+  "definition": "Ce que l'on dit en retour d'une question.",
+  "theme": "Langue"
+ },
+ {
+  "word": "résistance",
+  "definition": "Action de s'opposer ; mouvement de lutte contre l'occupant.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "restaurant",
+  "definition": "Établissement où l'on sert des repas.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "résultat",
+  "definition": "Conséquence ou effet d’une action, d’un travail ou d’un événement.",
+  "theme": "Idées"
+ },
+ {
+  "word": "retraite",
+  "definition": "Période qui suit la fin de la vie professionnelle.",
+  "theme": "Travail"
+ },
+ {
+  "word": "revanche",
+  "definition": "Nouvelle partie pour prendre sa revanche après une défaite.",
+  "theme": "Actions"
+ },
+ {
+  "word": "révolution",
+  "definition": "Changement radical, bouleversement dans un domaine.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "ridicule",
+  "definition": "Qui fait rire par son absurdité.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "rivière",
+  "definition": "Cours d'eau qui se jette dans un autre.",
+  "theme": "Nature"
+ },
+ {
+  "word": "sauvage",
+  "definition": "Qui vit en liberté dans la nature.",
+  "theme": "Nature"
+ },
+ {
+  "word": "science",
+  "definition": "Ensemble des connaissances vérifiées par l'expérience.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "secours",
+  "definition": "Aide apportée à quelqu'un en danger.",
+  "theme": "Actions"
+ },
+ {
+  "word": "secrétaire",
+  "definition": "Personne qui gère le courrier et les rendez-vous.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "sécurité",
+  "definition": "Situation où l'on n'a rien à craindre.",
+  "theme": "Société"
+ },
+ {
+  "word": "semaine",
+  "definition": "Période de sept jours.",
+  "theme": "Temps"
+ },
+ {
+  "word": "sensation",
+  "definition": "Impression reçue par les sens.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "sentiment",
+  "definition": "État affectif : amour, peur, joie…",
+  "theme": "Émotions"
+ },
+ {
+  "word": "serpent",
+  "definition": "Reptile sans pattes au corps allongé.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "serviette",
+  "definition": "Linge pour s'essuyer.",
+  "theme": "Maison"
+ },
+ {
+  "word": "silence",
+  "definition": "Absence de bruit.",
+  "theme": "Nature"
+ },
+ {
+  "word": "silhouette",
+  "definition": "Contour d'une personne vue de loin.",
+  "theme": "Arts"
+ },
+ {
+  "word": "situation",
+  "definition": "État des choses à un moment donné.",
+  "theme": "Idées"
+ },
+ {
+  "word": "société",
+  "definition": "Ensemble des personnes qui vivent ensemble ; entreprise.",
+  "theme": "Société"
+ },
+ {
+  "word": "solitude",
+  "definition": "État d’une personne qui est seule, volontairement ou non.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "sommeil",
+  "definition": "État de repos où l'on dort.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "sorcier",
+  "definition": "Personne qui pratique la magie.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "souffrance",
+  "definition": "Douleur physique ou morale.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "spectacle",
+  "definition": "Représentation offerte à un public.",
+  "theme": "Arts"
+ },
+ {
+  "word": "station",
+  "definition": "Arrêt de métro ou de bus ; lieu de vacances.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "stupide",
+  "definition": "Qui manque d'intelligence.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "superbe",
+  "definition": "Très beau.",
+  "theme": "Arts"
+ },
+ {
+  "word": "surface",
+  "definition": "Partie extérieure d'un corps ; aire.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "surprise",
+  "definition": "Ce qui étonne.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "système",
+  "definition": "Ensemble organisé d'éléments.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "tableau",
+  "definition": "Peinture sur toile ; surface où l'on écrit en classe.",
+  "theme": "Arts"
+ },
+ {
+  "word": "technologie",
+  "definition": "Ensemble des techniques et outils développés par l’homme.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "téléphone",
+  "definition": "Appareil qui permet de parler à distance.",
+  "theme": "Objets"
+ },
+ {
+  "word": "télévision",
+  "definition": "Appareil qui reçoit des images et des sons à distance.",
+  "theme": "Objets"
+ },
+ {
+  "word": "tempête",
+  "definition": "Vent très violent accompagné de pluie.",
+  "theme": "Nature"
+ },
+ {
+  "word": "tendresse",
+  "definition": "Affection douce.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "terrasse",
+  "definition": "Plateforme en plein air devant une maison ou un café.",
+  "theme": "Maison"
+ },
+ {
+  "word": "territoire",
+  "definition": "Étendue de terre appartenant à un pays ou un animal.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "théâtre",
+  "definition": "Lieu ou art de la représentation de pièces.",
+  "theme": "Arts"
+ },
+ {
+  "word": "tradition",
+  "definition": "Coutume transmise de génération en génération.",
+  "theme": "Société"
+ },
+ {
+  "word": "tranquille",
+  "definition": "Calme, paisible.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "tribunal",
+  "definition": "Lieu où l'on rend la justice.",
+  "theme": "Société"
+ },
+ {
+  "word": "tristesse",
+  "definition": "État de celui qui a du chagrin.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "trottoir",
+  "definition": "Partie de la rue réservée aux piétons.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "uniforme",
+  "definition": "Tenue identique pour les membres d'un groupe.",
+  "theme": "Objets"
+ },
+ {
+  "word": "univers",
+  "definition": "Tout ce qui existe : les galaxies, les étoiles, les planètes.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "université",
+  "definition": "Établissement d'enseignement supérieur.",
+  "theme": "Travail"
+ },
+ {
+  "word": "urgence",
+  "definition": "Situation qui demande d'agir tout de suite.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "vacances",
+  "definition": "Période de repos, sans école ni travail.",
+  "theme": "Temps"
+ },
+ {
+  "word": "vaisseau",
+  "definition": "Grand navire ; engin spatial.",
+  "theme": "Objets"
+ },
+ {
+  "word": "vendredi",
+  "definition": "Cinquième jour de la semaine.",
+  "theme": "Temps"
+ },
+ {
+  "word": "vêtement",
+  "definition": "Ce que l'on porte pour couvrir le corps.",
+  "theme": "Objets"
+ },
+ {
+  "word": "victime",
+  "definition": "Personne qui subit un tort ou un accident.",
+  "theme": "Société"
+ },
+ {
+  "word": "victoire",
+  "definition": "Succès remporté dans une lutte ou une compétition.",
+  "theme": "Actions"
+ },
+ {
+  "word": "vieillard",
+  "definition": "Personne très âgée.",
+  "theme": "Société"
+ },
+ {
+  "word": "village",
+  "definition": "Petite agglomération à la campagne.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "violence",
+  "definition": "Force brutale.",
+  "theme": "Actions"
+ },
+ {
+  "word": "vitesse",
+  "definition": "Rapidité d'un mouvement.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "voiture",
+  "definition": "Véhicule à quatre roues et à moteur.",
+  "theme": "Objets"
+ },
+ {
+  "word": "volonté",
+  "definition": "Force qui pousse à agir.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "voyageur",
+  "definition": "Personne qui voyage.",
+  "theme": "Lieux"
+ }
 ]

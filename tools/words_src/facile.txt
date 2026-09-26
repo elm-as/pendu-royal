@@ -1,0 +1,417 @@
+# Niveau Facile : mots courants, 7 à 12 lettres.
+# Format : mot|thème|définition   
+absence|Idées|Fait de ne pas être là où l'on est attendu.
+absolument|Langue|De manière certaine, sans aucun doute.
+accident|Société|Un événement imprévu et généralement négatif (ex : accident de voiture).
+activité|Travail|Ce que l'on fait pour s'occuper, travailler ou se divertir.
+adresse|Lieux|Indication de la rue et de la ville où l'on habite ; aussi, habileté des gestes.
+affirmation|Langue|Action de déclarer quelque chose comme vrai ou de soutenir une idée.
+agréable|Émotions|Qui fait plaisir, que l'on apprécie.
+aimable|Caractère|Qui se montre gentil et poli avec les autres.
+alimentation|Cuisine|Action de fournir de la nourriture ou des ressources nécessaires au fonctionnement.
+allemand|Lieux|Qui vient d'Allemagne ; langue parlée à Berlin ou à Vienne.
+amoureux|Émotions|Qui éprouve de l'amour pour quelqu'un.
+américain|Lieux|Qui vient des États-Unis ou du continent américain.
+anglais|Lieux|Qui vient d'Angleterre ; langue parlée à Londres et dans le monde entier.
+angoisse|Émotions|Peur diffuse et oppressante, sans objet précis.
+anniversaire|Temps|Jour où l'on fête le retour d'une date importante, comme celle de sa naissance.
+appareil|Objets|Objet technique composé de pièces qui remplit une fonction : photo, téléphone…
+apparence|Idées|Aspect extérieur de quelqu'un ou de quelque chose.
+appartement|Maison|Logement de plusieurs pièces situé dans un immeuble.
+apprenti|Travail|Personne en formation qui apprend un métier ou une activité auprès d’un professionnel.
+appréciation|Idées|Action de porter un jugement positif ou négatif sur quelqu’un ou quelque chose.
+aristocratie|Histoire|Classe sociale privilégiée, historiquement composée de nobles.
+armoire|Maison|Grand meuble à portes où l'on range le linge et les vêtements.
+arrivée|Temps|Moment où l'on atteint le lieu où l'on se rendait.
+article|Langue|Texte publié dans un journal ; aussi, petit mot placé devant le nom (le, la, un).
+artiste|Arts|Personne qui crée des œuvres : peintre, musicien, comédien…
+ascenseur|Maison|Cabine qui monte et descend les étages d'un immeuble.
+aspirateur|Maison|Appareil électroménager servant à nettoyer en aspirant la poussière.
+assiette|Cuisine|Objet plat utilisé pour manger ; peut aussi désigner la position stable d’un objet ou d’un avion.
+assurance|Société|Contrat qui protège contre les risques ; aussi, confiance en soi.
+atelier|Travail|Lieu où travaillent des artisans ou des artistes.
+atmosphère|Nature|Couche d'air qui entoure la Terre ; aussi, ambiance d'un lieu.
+attaque|Actions|Action de s'en prendre violemment à quelqu'un ou à quelque chose.
+attente|Temps|Temps passé à espérer que quelque chose arrive.
+attention|Idées|Concentration de l'esprit sur quelque chose ; aussi, marque de gentillesse.
+attitude|Caractère|Manière de se tenir ou de se comporter.
+automne|Temps|Saison entre l'été et l'hiver, où les feuilles tombent.
+autorité|Société|Pouvoir de commander et de se faire obéir.
+avantage|Idées|Ce qui donne une supériorité ou un profit.
+aventure|Idées|Suite d'événements inattendus et souvent risqués.
+aveugle|Corps & santé|Qui ne voit pas.
+bataille|Histoire|Combat entre deux armées.
+bibliothèque|Maison|Lieu où sont conservés et prêtés des livres, ou meuble pour ranger des livres.
+blessure|Corps & santé|Plaie ou lésion causée par un choc ou une arme.
+bonheur|Émotions|État de pleine satisfaction, de joie durable.
+bouteille|Objets|Récipient à goulot étroit pour conserver les liquides.
+boutique|Lieux|Petit magasin où l'on vend des marchandises.
+branche|Nature|Partie d'un arbre qui part du tronc et porte les feuilles.
+brillant|Caractère|Qui brille fortement ; peut aussi désigner une personne très douée ou un succès remarquable.
+bâtiment|Lieux|Construction importante : maison, immeuble, usine…
+cabinet|Travail|Local où un médecin ou un avocat reçoit ; aussi, petit meuble à tiroirs.
+camarade|Société|Compagnon avec qui l'on partage une activité ou une classe.
+camionnette|Objets|Petit camion servant à transporter des marchandises ou du matériel.
+campagne|Nature|Territoire hors des villes, fait de champs et de villages.
+capitaine|Métiers|Officier qui commande une compagnie ou un navire.
+caractère|Caractère|Ensemble des traits qui définissent la manière d'être d'une personne.
+carrière|Travail|Parcours professionnel d'une personne ; aussi, lieu d'où l'on extrait la pierre.
+cauchemar|Émotions|Rêve effrayant.
+ceinture|Objets|Bande qui se porte autour de la taille pour tenir un vêtement.
+cellule|Sciences|Plus petite unité vivante ; aussi, petite pièce d'une prison.
+cerveau|Corps & santé|Organe logé dans le crâne, siège de la pensée.
+chagrin|Émotions|Peine, tristesse profonde.
+chaleur|Nature|Température élevée ; sensation de ce qui est chaud.
+chambre|Maison|Pièce où l'on dort.
+champagne|Cuisine|Vin blanc pétillant d'une région de l'est de la France.
+champion|Société|Vainqueur d'une compétition.
+changement|Idées|Fait de devenir différent.
+chanson|Arts|Texte mis en musique, destiné à être chanté.
+chapeau|Objets|Coiffure que l'on porte sur la tête.
+chapitre|Langue|Chacune des grandes parties d'un livre.
+charmant|Caractère|Qui plaît beaucoup, qui séduit.
+chasseur|Métiers|Personne qui traque et tue le gibier.
+chauffeur|Métiers|Personne dont le métier est de conduire un véhicule.
+chaussure|Objets|Ce que l'on porte aux pieds pour marcher.
+cheminée|Maison|Foyer où l'on fait du feu, avec son conduit vers le toit.
+chemise|Objets|Vêtement à col et à boutons qui couvre le buste.
+chevalier|Histoire|Noble guerrier du Moyen Âge, combattant à cheval.
+chocolat|Cuisine|Aliment fait de cacao et de sucre.
+château|Histoire|Grande demeure royale ou seigneuriale, souvent fortifiée.
+cigarette|Objets|Petit rouleau de tabac enveloppé de papier fin.
+cimetière|Lieux|Lieu où l'on enterre les morts.
+circonstance|Temps|Détail ou condition qui accompagne un événement.
+colline|Nature|Petite montagne aux pentes douces.
+collègue|Travail|Personne qui travaille au même endroit que soi.
+colonel|Métiers|Officier supérieur qui commande un régiment.
+colonne|Maison|Pilier cylindrique qui soutient un édifice.
+commandant|Métiers|Officier qui dirige une unité ou un navire.
+commissaire|Métiers|Chef d'un service de police.
+compagnie|Société|Présence de quelqu'un auprès de soi ; aussi, entreprise.
+compagnon|Société|Personne qui partage la vie ou les activités de quelqu'un.
+compensation|Idées|Action de compenser une perte, un désavantage ou une dette.
+complexité|Idées|Caractère de ce qui est compliqué, qui comporte plusieurs éléments difficiles à analyser.
+comptoir|Maison|Long meuble où l'on sert les clients dans un café ou un magasin.
+comédie|Arts|Pièce de théâtre ou film qui fait rire.
+concert|Arts|Spectacle où l'on joue de la musique devant un public.
+concours|Société|Épreuve où les candidats sont classés pour obtenir une place ou un prix.
+condition|Idées|Ce qui est nécessaire pour qu'une chose se réalise.
+confiance|Émotions|Sentiment de sécurité envers quelqu'un sur qui l'on peut compter.
+connaissance|Idées|Fait de savoir quelque chose ; aussi, personne que l'on connaît.
+conscience|Idées|Faculté de se percevoir soi-même et de juger le bien et le mal.
+conseil|Société|Avis donné pour aider quelqu'un à agir.
+conséquence|Idées|Ce qui découle d'un acte ou d'un événement.
+conspiration|Histoire|Entente secrète entre plusieurs personnes pour nuire ou comploter.
+contrat|Société|Accord écrit qui engage plusieurs personnes.
+conversation|Langue|Échange de paroles entre plusieurs personnes.
+costume|Objets|Ensemble veste et pantalon ; aussi, déguisement.
+couleur|Arts|Impression que produit la lumière sur l'œil : rouge, bleu, vert…
+couloir|Maison|Passage étroit qui dessert les pièces d'un logement.
+coupable|Société|Qui a commis une faute ou un crime.
+courage|Caractère|Force de caractère qui permet d'affronter le danger.
+couteau|Cuisine|Instrument tranchant formé d'une lame et d'un manche.
+couverture|Maison|Pièce de tissu épais qui tient chaud au lit.
+crainte|Émotions|Sentiment de peur face à un danger possible.
+cravate|Objets|Bande de tissu nouée autour du col de la chemise.
+créature|Mystère|Être vivant, souvent étrange ou imaginaire.
+cuisine|Cuisine|Pièce où l'on prépare les repas ; art de les préparer.
+culture|Arts|Ensemble des connaissances et des œuvres d'une société.
+curieux|Caractère|Qui a envie d'apprendre et de découvrir.
+curiosité|Caractère|Désir de savoir, de découvrir des choses nouvelles.
+célèbre|Société|Connu de tous.
+célébration|Société|Action de fêter un événement ou de rendre hommage.
+cérémonie|Société|Fête solennelle qui suit des règles précises.
+dangereux|Idées|Qui peut causer du tort ou un accident.
+dictionnaire|Langue|Ouvrage qui rassemble et définit les mots d’une langue.
+difficile|Idées|Qui demande beaucoup d'efforts.
+difficulté|Idées|Ce qui rend une chose dure à faire.
+différence|Idées|Ce qui distingue une chose d'une autre.
+dimanche|Temps|Dernier jour de la semaine, souvent consacré au repos.
+directeur|Travail|Personne qui dirige une entreprise ou un service.
+direction|Lieux|Côté vers lequel on va ; aussi, fait de diriger.
+discours|Langue|Paroles prononcées devant un public.
+discussion|Langue|Échange de points de vue entre plusieurs personnes.
+disparition|Mystère|Fait de ne plus être visible, de cesser d’exister.
+distance|Lieux|Longueur qui sépare deux points.
+docteur|Métiers|Médecin ; personne qui a obtenu le plus haut diplôme universitaire.
+domaine|Lieux|Propriété à la campagne ; aussi, champ d'activité.
+douceur|Émotions|Qualité de ce qui est doux, agréable au toucher ou au cœur.
+douleur|Corps & santé|Sensation pénible ressentie par le corps ou le cœur.
+drapeau|Société|Pièce d'étoffe aux couleurs d'un pays.
+décision|Idées|Choix que l'on fait après réflexion.
+défense|Actions|Action de protéger ; aussi, longue dent de l'éléphant.
+déjeuner|Cuisine|Repas du milieu de la journée.
+délicat|Caractère|Fin, fragile, qui demande des précautions.
+délicieux|Cuisine|Qui a un goût excellent.
+désespoir|Émotions|Perte de tout espoir.
+désordre|Maison|Absence de rangement.
+empereur|Histoire|Souverain qui règne sur un empire.
+employé|Travail|Personne qui travaille pour un patron contre un salaire.
+empreinte|Mystère|Marque laissée par un pied, un doigt ou un objet.
+endroit|Lieux|Lieu, place précise.
+enfance|Temps|Période de la vie qui va de la naissance à l'adolescence.
+enquête|Mystère|Recherches menées pour découvrir la vérité.
+entreprise|Travail|Société qui produit des biens ou des services.
+escalier|Maison|Suite de marches pour monter ou descendre.
+esclave|Histoire|Personne privée de liberté, possédée par un maître.
+essence|Objets|Carburant tiré du pétrole ; aussi, nature profonde d'une chose.
+estomac|Corps & santé|Organe en forme de poche où les aliments sont digérés.
+excellent|Idées|Très bon.
+exemple|Langue|Cas précis qui sert à illustrer une idée.
+exercice|Travail|Travail d'entraînement ; activité physique.
+explication|Langue|Ce qui permet de comprendre.
+explosion|Sciences|Éclatement violent accompagné de bruit et de flammes.
+expression|Langue|Manière de dire ; tournure de langage.
+expérience|Sciences|Essai pour vérifier une idée ; aussi, savoir tiré de la pratique.
+extrême|Idées|Qui est au plus haut degré, au bout de quelque chose.
+famille|Société|Ensemble des parents et des enfants.
+fantôme|Mystère|Apparition d'un mort, esprit qui hante un lieu.
+fatigue|Corps & santé|Sensation de faiblesse après un effort.
+fauteuil|Maison|Siège confortable à dossier et à accoudoirs.
+fenêtre|Maison|Ouverture vitrée dans un mur, qui laisse entrer la lumière.
+feuille|Nature|Partie verte et plate des plantes ; aussi, morceau de papier.
+fondamental|Idées|Qui est à la base de quelque chose, essentiel.
+fonction|Travail|Rôle, emploi ; ce à quoi sert une chose.
+formidable|Émotions|Extraordinaire, épatant.
+fortune|Société|Grande richesse ; aussi, hasard, sort.
+fragile|Idées|Qui se casse facilement.
+français|Langue|Langue parlée en France, en Afrique francophone, au Québec…
+fromage|Cuisine|Aliment fait de lait caillé.
+frontière|Lieux|Limite qui sépare deux pays.
+furieux|Émotions|Très en colère.
+gardien|Métiers|Personne chargée de surveiller et de protéger.
+gendarme|Métiers|Militaire chargé du maintien de l'ordre.
+générosité|Caractère|Disposition à donner aux autres sans attendre en retour.
+gentillesse|Caractère|Qualité de quelqu’un qui est aimable et bienveillant.
+gouvernement|Société|Ensemble des ministres qui dirigent un pays.
+génération|Temps|Ensemble des personnes nées à la même époque.
+habitude|Temps|Façon d'agir que l'on répète souvent.
+hauteur|Lieux|Dimension verticale ; lieu élevé.
+heureux|Émotions|Qui éprouve une grande joie, une pleine satisfaction.
+histoire|Histoire|Récit ; étude du passé des sociétés humaines.
+hélicoptère|Objets|Aéronef dont le vol est assuré par des rotors tournant sur lui-même.
+honneur|Caractère|Sentiment de dignité ; respect que l'on mérite.
+honnête|Caractère|Qui ne ment pas et ne vole pas.
+horizon|Nature|Ligne où le ciel semble toucher la terre ou la mer.
+horreur|Émotions|Frayeur violente, dégoût extrême.
+horrible|Émotions|Qui fait peur ou qui dégoûte.
+hôpital|Corps & santé|Établissement où l'on soigne les malades.
+identité|Société|Ce qui fait qu'une personne est elle-même et pas une autre.
+illusion|Mystère|Fausse apparence qui trompe les sens ou l'esprit.
+imagination|Arts|Capacité de créer des images mentales ou des idées nouvelles.
+immense|Idées|Très grand.
+immeuble|Maison|Grand bâtiment de plusieurs étages.
+immobile|Idées|Qui ne bouge pas.
+importance|Idées|Caractère de ce qui compte beaucoup.
+impossible|Idées|Qui ne peut pas se faire.
+impression|Émotions|Sentiment vague ; aussi, action d'imprimer.
+imprévisible|Caractère|Qui ne peut pas être prévu à l’avance.
+inattendu|Idées|Qui survient de manière imprévue.
+incendie|Nature|Grand feu qui détruit.
+incroyable|Émotions|Difficile à croire.
+infirmier|Métiers|Personne qui soigne les malades à l'hôpital.
+information|Société|Renseignement ; nouvelle que l'on transmet.
+innocent|Société|Qui n'a rien fait de mal.
+inquiétude|Émotions|Trouble de celui qui craint qu'il arrive quelque chose.
+inscription|Langue|Action de s’enregistrer ou d’écrire son nom pour participer à quelque chose.
+inspecteur|Métiers|Policier chargé des enquêtes.
+instinct|Caractère|Élan naturel qui pousse à agir sans réfléchir.
+institution|Société|Organisation publique ou privée qui a une fonction sociale importante.
+instrument|Arts|Objet qui sert à jouer de la musique ou à faire un travail.
+intelligence|Caractère|Faculté de comprendre et de raisonner.
+intention|Idées|Ce que l'on a l'idée de faire.
+intervention|Actions|Action d’intervenir, d’agir dans une situation.
+intéressant|Idées|Qui retient l'attention.
+intérieur|Maison|Le dedans d'une chose ; logement.
+invisible|Mystère|Que l'on ne peut pas voir.
+jeunesse|Temps|Période de la vie entre l'enfance et l'âge adulte.
+journaliste|Métiers|Personne qui écrit ou présente l'actualité.
+journée|Temps|Espace de temps entre le lever et le coucher du soleil.
+jugement|Société|Décision d'un tribunal ; faculté de bien juger.
+justice|Société|Respect du droit ; institution qui juge.
+kilomètre|Sciences|Unité de longueur égale à mille mètres.
+langage|Langue|Moyen de communiquer par des mots ou des signes.
+lecture|Langue|Action de lire.
+lendemain|Temps|Le jour qui suit.
+liberté|Société|Possibilité d'agir sans contrainte.
+lieutenant|Métiers|Officier qui seconde un capitaine.
+lointain|Lieux|Qui se trouve très loin.
+lumière|Nature|Ce qui éclaire et permet de voir.
+machine|Objets|Appareil qui transforme l'énergie pour faire un travail.
+magasin|Lieux|Local où l'on vend des marchandises.
+magique|Mystère|Qui semble tenir de la magie, surnaturel.
+magnifique|Arts|Très beau.
+majesté|Histoire|Grandeur royale ; titre donné aux rois et reines.
+maladie|Corps & santé|Altération de la santé.
+malheur|Émotions|Événement pénible ; grande infortune.
+manière|Idées|Façon de faire.
+manteau|Objets|Vêtement chaud à manches, porté par-dessus les autres.
+marchand|Métiers|Personne qui vend des biens ou services, souvent sur un marché.
+mariage|Société|Union officielle de deux personnes.
+matière|Sciences|Substance dont les choses sont faites ; discipline scolaire.
+mensonge|Langue|Parole contraire à la vérité, dite pour tromper.
+merveille|Arts|Chose admirable, extraordinaire.
+message|Langue|Information transmise à quelqu'un.
+meurtre|Mystère|Action de tuer volontairement quelqu'un.
+militaire|Métiers|Qui appartient à l'armée ; soldat.
+ministre|Société|Membre du gouvernement chargé d’un domaine particulier, comme la santé ou l’éducation.
+minuscule|Idées|Très petit.
+miracle|Mystère|Fait extraordinaire que l'on attribue à une puissance divine.
+mission|Travail|Tâche confiée à quelqu'un.
+moderne|Temps|Qui appartient à l'époque actuelle.
+monnaie|Société|Argent sous forme de pièces ; devise d'un pays.
+monstre|Mystère|Créature effrayante et imaginaire.
+montagne|Nature|Relief très élevé.
+morceau|Objets|Partie d'une chose.
+moustache|Corps & santé|Poils qui poussent au-dessus de la lèvre supérieure.
+mouvement|Actions|Déplacement, changement de position.
+musique|Arts|Art de combiner les sons.
+mystère|Mystère|Chose cachée, incompréhensible.
+mystérieux|Mystère|Qui cache un secret.
+médecin|Métiers|Personne qui soigne les malades.
+médicament|Corps & santé|Substance qui sert à soigner.
+mémoire|Idées|Faculté de se souvenir.
+naissance|Temps|Moment où l'on vient au monde.
+naturel|Nature|Qui vient de la nature ; spontané.
+nerveux|Caractère|Agité, qui a du mal à rester calme.
+nombreux|Idées|En grand nombre.
+nourriture|Cuisine|Ce que l'on mange.
+nouvelle|Langue|Information récente ; court récit.
+nécessaire|Idées|Dont on ne peut pas se passer.
+obscurité|Nature|Absence de lumière.
+observation|Sciences|Action d’examiner attentivement quelque chose.
+occasion|Temps|Moment favorable ; objet d'occasion déjà utilisé.
+officier|Métiers|Militaire qui commande.
+opinion|Idées|Avis, manière de penser.
+opération|Corps & santé|Intervention chirurgicale ; calcul.
+oreille|Corps & santé|Organe de l'ouïe.
+organisation|Société|Action d’agencer les éléments de manière ordonnée.
+origine|Temps|Commencement, point de départ.
+orthographe|Langue|Manière correcte d’écrire les mots.
+ouvrier|Métiers|Personne qui fait un travail manuel contre un salaire.
+pantalon|Objets|Vêtement qui couvre chaque jambe séparément.
+paradis|Mystère|Lieu de bonheur éternel.
+parfait|Idées|Sans défaut.
+passage|Lieux|Endroit par où l'on passe.
+passion|Émotions|Amour ou intérêt très intense.
+patience|Caractère|Capacité d'attendre calmement.
+paysage|Nature|Étendue de pays que l'on voit d'un seul regard.
+peintre|Arts|Artiste qui peint des tableaux.
+peinture|Arts|Art de peindre ; matière colorée que l'on étale.
+permission|Société|Autorisation.
+personnage|Arts|Rôle d'une histoire, d'un film ou d'une pièce.
+philosophie|Idées|Discipline qui réfléchit sur l’existence, la connaissance et la pensée.
+photographie|Arts|Art ou technique de prendre des images avec un appareil photo.
+physique|Sciences|Science de la matière et de l'énergie ; apparence du corps.
+pistolet|Objets|Petite arme à feu que l'on tient d'une main.
+placard|Maison|Armoire aménagée dans un mur.
+plafond|Maison|Surface qui forme le haut d'une pièce.
+plaisir|Émotions|Sentiment agréable.
+planche|Objets|Morceau de bois plat et long.
+planète|Sciences|Astre qui tourne autour d'une étoile.
+plateau|Objets|Support plat pour transporter ; aussi, plaine en hauteur.
+poignet|Corps & santé|Articulation entre la main et l'avant-bras.
+poisson|Animaux|Animal qui vit dans l'eau et respire par des branchies.
+poitrine|Corps & santé|Partie du corps entre le cou et le ventre.
+policier|Métiers|Membre de la police.
+politique|Société|Art de gouverner un pays.
+populaire|Société|Aimé du plus grand nombre.
+portrait|Arts|Représentation du visage d'une personne.
+poussière|Maison|Poudre fine qui se dépose sur les meubles.
+pression|Sciences|Force exercée sur une surface ; aussi, stress.
+printemps|Temps|Saison qui suit l'hiver.
+prisonnier|Société|Personne enfermée en prison.
+problème|Idées|Question ou difficulté à résoudre.
+professeur|Métiers|Personne qui enseigne.
+programme|Idées|Ce que l'on prévoit de faire ; logiciel.
+promenade|Actions|Action de marcher pour le plaisir.
+promesse|Langue|Engagement de faire quelque chose ou de tenir une parole.
+propriétaire|Société|Personne qui possède un bien.
+précieux|Idées|Qui a une grande valeur matérielle ou affective.
+président|Société|Personne qui dirige un pays ou une assemblée.
+puissance|Société|Force, pouvoir.
+qualité|Idées|Ce qui fait la valeur d'une chose ; point fort.
+quartier|Lieux|Partie d'une ville.
+question|Langue|Phrase qui demande une réponse.
+recherche|Sciences|Action de chercher ; travail des scientifiques.
+relation|Société|Lien entre des personnes ou des choses.
+religion|Société|Ensemble de croyances envers le sacré.
+rencontre|Société|Fait de se trouver face à quelqu'un.
+restaurant|Cuisine|Établissement où l'on sert des repas.
+retraite|Travail|Période qui suit la fin de la vie professionnelle.
+revanche|Actions|Nouvelle partie pour prendre sa revanche après une défaite.
+ridicule|Émotions|Qui fait rire par son absurdité.
+rivière|Nature|Cours d'eau qui se jette dans un autre.
+réalité|Idées|Ce qui existe vraiment.
+réponse|Langue|Ce que l'on dit en retour d'une question.
+résistance|Histoire|Action de s'opposer ; mouvement de lutte contre l'occupant.
+résultat|Idées|Conséquence ou effet d’une action, d’un travail ou d’un événement.
+révolution|Histoire|Changement radical, bouleversement dans un domaine.
+sauvage|Nature|Qui vit en liberté dans la nature.
+science|Sciences|Ensemble des connaissances vérifiées par l'expérience.
+secours|Actions|Aide apportée à quelqu'un en danger.
+secrétaire|Métiers|Personne qui gère le courrier et les rendez-vous.
+semaine|Temps|Période de sept jours.
+sensation|Émotions|Impression reçue par les sens.
+sentiment|Émotions|État affectif : amour, peur, joie…
+serpent|Animaux|Reptile sans pattes au corps allongé.
+serviette|Maison|Linge pour s'essuyer.
+silence|Nature|Absence de bruit.
+silhouette|Arts|Contour d'une personne vue de loin.
+situation|Idées|État des choses à un moment donné.
+société|Société|Ensemble des personnes qui vivent ensemble ; entreprise.
+solitude|Émotions|État d’une personne qui est seule, volontairement ou non.
+sommeil|Corps & santé|État de repos où l'on dort.
+sorcier|Mystère|Personne qui pratique la magie.
+souffrance|Émotions|Douleur physique ou morale.
+spectacle|Arts|Représentation offerte à un public.
+station|Lieux|Arrêt de métro ou de bus ; lieu de vacances.
+stupide|Caractère|Qui manque d'intelligence.
+superbe|Arts|Très beau.
+surface|Sciences|Partie extérieure d'un corps ; aire.
+surprise|Émotions|Ce qui étonne.
+système|Sciences|Ensemble organisé d'éléments.
+sécurité|Société|Situation où l'on n'a rien à craindre.
+tableau|Arts|Peinture sur toile ; surface où l'on écrit en classe.
+technologie|Sciences|Ensemble des techniques et outils développés par l’homme.
+tempête|Nature|Vent très violent accompagné de pluie.
+tendresse|Émotions|Affection douce.
+terrasse|Maison|Plateforme en plein air devant une maison ou un café.
+territoire|Lieux|Étendue de terre appartenant à un pays ou un animal.
+théâtre|Arts|Lieu ou art de la représentation de pièces.
+tradition|Société|Coutume transmise de génération en génération.
+tranquille|Émotions|Calme, paisible.
+tribunal|Société|Lieu où l'on rend la justice.
+tristesse|Émotions|État de celui qui a du chagrin.
+trottoir|Lieux|Partie de la rue réservée aux piétons.
+téléphone|Objets|Appareil qui permet de parler à distance.
+télévision|Objets|Appareil qui reçoit des images et des sons à distance.
+uniforme|Objets|Tenue identique pour les membres d'un groupe.
+univers|Sciences|Tout ce qui existe : les galaxies, les étoiles, les planètes.
+université|Travail|Établissement d'enseignement supérieur.
+urgence|Corps & santé|Situation qui demande d'agir tout de suite.
+vacances|Temps|Période de repos, sans école ni travail.
+vaisseau|Objets|Grand navire ; engin spatial.
+vendredi|Temps|Cinquième jour de la semaine.
+victime|Société|Personne qui subit un tort ou un accident.
+victoire|Actions|Succès remporté dans une lutte ou une compétition.
+vieillard|Société|Personne très âgée.
+village|Lieux|Petite agglomération à la campagne.
+violence|Actions|Force brutale.
+vitesse|Sciences|Rapidité d'un mouvement.
+voiture|Objets|Véhicule à quatre roues et à moteur.
+volonté|Caractère|Force qui pousse à agir.
+voyageur|Lieux|Personne qui voyage.
+vêtement|Objets|Ce que l'on porte pour couvrir le corps.
+échange|Société|Fait de donner une chose contre une autre.
+écriture|Langue|Façon de tracer les lettres ; art d'écrire.
+écrivain|Métiers|Personne qui écrit des livres.
+électricité|Sciences|Forme d’énergie produite par le mouvement des charges électriques.
+élément|Sciences|Partie d'un ensemble.
+émotion|Émotions|Trouble vif de l'esprit : joie, peur, colère…
+énergie|Sciences|Force physique ou morale ; ce qui produit un travail.
+épreuve|Actions|Situation difficile ; examen.
+équilibre|Sciences|État d'un corps qui ne tombe pas.
+étranger|Lieux|Qui vient d'un autre pays.
+étudiant|Travail|Personne qui fait des études supérieures.
+événement|Temps|Ce qui arrive et qui a de l'importance.

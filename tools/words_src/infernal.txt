@@ -1,0 +1,414 @@
+# Niveau Infernal : mots rares ou pièges (lettres peu fréquentes), 5 à 12 lettres.
+# Format : mot|thème|définition   
+abjurer|Idées|Renoncer solennellement, par un acte public ou officiel, à une religion, une opinion ou une conviction ; implique une dimension d’engagement et de rupture explicite.
+abscons|Langue|Synonyme proche d’‘abstrus’ : tellement obscur ou compliqué qu’il en devient difficilement compréhensible.
+abstinence|Corps & santé|Action volontaire de s’abstenir, de se priver, en particulier de nourriture, de boisson (notamment d’alcool) ou de rapports sexuels, souvent dans un cadre religieux ou médical.
+abstrus|Langue|Qui est très difficile à comprendre, obscur par excès de complexité ou de subtilité, exigeant un effort intellectuel considérable.
+accolade|Langue|Geste consistant à entourer quelqu’un de ses bras pour le serrer contre soi (embrassade) ; en héraldique, rapprochement d’objets ou d’armoiries.
+adversité|Émotions|Situation malheureuse, ensemble de difficultés, de revers et d’épreuves auxquelles on doit faire face.
+amphibologie|Langue|Construction grammaticale ambiguë pouvant donner lieu à un double sens, souvent exploitée dans les jeux de mots ou dans la rhétorique.
+anaphore|Langue|Figure de style consistant à répéter un même mot ou groupe de mots en début de phrases ou de vers successifs, pour produire un effet rythmique ou insistant.
+antinomie|Idées|Contradiction réelle ou apparente entre deux principes, deux lois, deux idées également valides mais difficilement conciliables.
+aphasie|Corps & santé|Trouble du langage causé par une lésion cérébrale, se traduisant par la difficulté ou l’incapacité à parler, à comprendre ou à écrire.
+aphorisme|Langue|Formule concise exprimant une pensée, un principe ou une vérité d’ordre moral ou philosophique de façon frappante.
+apoplexie|Corps & santé|Ancien terme médical désignant une perte soudaine de connaissance causée par une hémorragie cérébrale (aujourd’hui appelée AVC) ; par extension, une violente émotion.
+apostrophe|Langue|Figure de style où l’on interpelle directement une personne absente, un objet inanimé, une idée abstraite ; peut aussi désigner le signe orthographique (’).
+azimut|Sciences|En navigation, en astronomie : angle mesuré entre le plan de l’horizon et une direction donnée par rapport au nord ; par extension, orientation, direction.
+ballotine|Cuisine|Préparation culinaire où l’on farcit et roule une volaille ou une viande, maintenue par une ficelle, souvent braisée ou pochée.
+baryton|Arts|Voix masculine située entre le ténor et la basse, caractérisée par une tessiture médiane ; peut aussi désigner le chanteur ou l’instrument correspondant.
+biface|Histoire|Outil préhistorique taillé sur ses deux faces, généralement en silex, utilisé comme couteau, hache ou grattoir.
+bourrasque|Nature|Coup de vent soudain, violent et de courte durée, souvent accompagné de pluie ou de neige ; par extension, agitation brutale et passagère.
+boursier|Société|Relatif à la bourse des valeurs (finance) ; peut aussi désigner un étudiant bénéficiant d’une bourse d’étude.
+cacophonie|Arts|Mélange confus et désagréable de sons discordants ; au sens figuré, désorganisation ou incohérence dans un ensemble d’éléments.
+cambouis|Objets|Graisse noire, visqueuse et salissante issue des moteurs ou des machines ; par extension, saleté tenace.
+capricieux|Caractère|Qui manifeste des changements d’humeur ou de comportement imprévisibles ; se dit aussi d’un climat ou d’un phénomène irrégulier.
+chaumine|Maison|Petite maison rustique, souvent modeste et pauvre, construite en matériaux simples (paille, torchis, bois).
+chiasme|Langue|Figure de style consistant à inverser l’ordre de deux groupes de mots selon un schéma en miroir (ex. : « Il faut manger pour vivre et non vivre pour manger »).
+chlorure|Sciences|Composé chimique formé à partir du chlore et d’un autre élément, généralement un métal ou un radical (ex. : chlorure de sodium = sel de table).
+clandestin|Société|Qui se fait en secret ou dans l’illégalité, souvent pour échapper à la loi ou à l’autorité.
+cliquetis|Nature|Bruit léger et répété produit par le choc métallique de petits objets, comme des clés ou des chaînes.
+colophane|Arts|Résidu solide obtenu par distillation de la résine de pin, utilisé notamment pour frotter les archets des instruments à cordes afin d’améliorer l’adhérence.
+coriandre|Cuisine|Plante aromatique dont les feuilles et les graines sont utilisées en cuisine et en phytothérapie.
+crépuscule|Temps|Lumière diffuse qui précède le lever ou suit le coucher du soleil ; par extension, déclin d’une époque, d’une vie.
+cyanure|Mystère|Sel ou ester de l’acide cyanhydrique, très toxique, souvent associé à l’empoisonnement ; utilisé dans l’industrie (métallurgie, chimie).
+cynisme|Caractère|Attitude consistant à afficher un mépris des normes sociales ou morales ; au sens antique, doctrine philosophique prônant la liberté par le rejet des conventions.
+dirimant|Société|Qui rend nul un acte juridique (notamment un mariage) en raison d’un empêchement légal ou canonique insurmontable.
+dissonant|Arts|Qui manque d’harmonie dans un son, une musique ; par extension, ce qui détonne ou choque dans un ensemble.
+durillon|Corps & santé|Épaississement localisé et dur de la peau, généralement causé par un frottement ou une pression répétée (surtout aux pieds ou aux mains).
+délétère|Sciences|Nocif pour la santé ou pour l’esprit, pernicieux, corrupteur.
+exergue|Langue|Petit espace au bas d’une médaille ou d’une monnaie, souvent occupé par une inscription ; au sens figuré, mise en valeur d’une idée ou d’une phrase au début d’un texte.
+exsuder|Nature|Laisser échapper un liquide (sang, sueur, résine) à travers les pores ou une fissure ; au sens figuré, exprimer un sentiment de manière visible.
+exulter|Émotions|Éprouver une joie intense, souvent difficile à contenir et qui se manifeste extérieurement.
+exuvie|Animaux|Enveloppe externe rejetée par certains animaux lors de la mue (insectes, crustacés, reptiles).
+factice|Idées|Qui est artificiel, imité, non naturel ; peut aussi qualifier un comportement forcé ou affecté.
+fracas|Nature|Bruit violent produit par un choc ou une chute ; par extension, tumulte ou retentissement d’un événement.
+funeste|Mystère|Qui cause ou annonce le malheur, la mort, la destruction.
+glauque|Émotions|D’un vert bleuâtre trouble ; au sens figuré, se dit d’une atmosphère lugubre, malsaine ou sinistre.
+gouaille|Langue|Attitude moqueuse, familière et populaire, souvent accompagnée d’un parler sarcastique.
+gouffre|Nature|Cavité naturelle profonde dans le sol ; au figuré, situation sans issue ou dépense énorme.
+guenille|Objets|Vêtement usé, déchiré, de peu de valeur ; par extension, personne misérable.
+gypseux|Sciences|Qui contient du gypse (sulfate de calcium hydraté), roche tendre utilisée dans la fabrication du plâtre.
+géode|Nature|Cavité rocheuse tapissée de cristaux minéraux, souvent formée par des dépôts dans une bulle de lave.
+gésir|Actions|Être couché sans mouvement, inanimé ou mort ; se dit aussi d’un objet abandonné au sol.
+halieutique|Nature|Relatif à la pêche et à l’exploitation des ressources aquatiques, notamment maritimes.
+hargneux|Caractère|Qui manifeste de l’agressivité, une mauvaise humeur tenace, voire de la rancune.
+hibiscus|Nature|Plante tropicale ou subtropicale aux grandes fleurs colorées ; certaines espèces sont utilisées en infusion.
+hybride|Sciences|Résultat du croisement de deux individus d’espèces, de variétés ou de genres différents ; par extension, mélange de deux éléments d’origines diverses.
+hématome|Corps & santé|Accumulation de sang sous la peau ou dans un tissu, consécutive à un choc ou à une rupture de vaisseau sanguin.
+hémione|Animaux|Mammifère équidé d’Asie centrale, intermédiaire entre l’âne et le cheval, adapté aux steppes.
+hépatite|Corps & santé|Inflammation du foie, pouvant être d’origine virale, toxique, médicamenteuse ou auto-immune.
+impudique|Caractère|Qui manque de pudeur, qui choque par son indécence, son absence de retenue.
+incipit|Langue|Premiers mots ou premières phrases d’un texte, d’un roman ou d’un poème, qui donnent souvent le ton de l’œuvre.
+inique|Société|Profondément injuste, qui blesse la justice et l’équité.
+jocrisse|Caractère|Personnage naïf, maladroit ou ridicule ; par extension, individu sot et niais.
+jouvence|Mystère|Source ou principe imaginaire rendant la jeunesse ou la vigueur ; allusion à la « fontaine de Jouvence ».
+kobold|Mystère|Dans la mythologie germanique, esprit domestique ou souterrain, parfois bienveillant, parfois malicieux ; en minéralogie, a donné son nom au cobalt.
+kouglof|Cuisine|Brioche alsacienne levée, cuite dans un moule cannelé en forme de couronne, souvent garnie de raisins secs et d’amandes.
+kératose|Corps & santé|Affection cutanée caractérisée par un épaississement anormal de la couche cornée de l’épiderme.
+limande|Animaux|Poisson plat de mer, voisin de la sole, à chair fine ; par extension, peut désigner une personne mince et plate.
+loquace|Caractère|Qui parle volontiers et abondamment, avec une grande facilité d’expression.
+lumbago|Corps & santé|Douleur aiguë localisée dans le bas du dos (région lombaire), souvent due à un effort ou à une affection musculaire.
+lutécien|Histoire|Relatif à Lutèce, ancien nom de Paris ; en géologie, se dit aussi d’un étage du tertiaire.
+macabre|Mystère|Qui évoque la mort de manière sinistre ou terrifiante ; par extension, qui provoque un malaise morbide.
+manichéen|Idées|Relatif au manichéisme, doctrine religieuse fondée sur l’opposition radicale entre le Bien et le Mal ; par extension, vision simpliste réduisant tout à deux camps opposés.
+martinet|Animaux|Petit fouet composé de lanières de cuir utilisé pour corriger les enfants ; désigne aussi un oiseau migrateur insectivore, proche de l’hirondelle.
+misanthrope|Caractère|Personne qui éprouve de l’aversion pour le genre humain et fuit la société.
+mélomane|Arts|Personne passionnée de musique, qui en a une connaissance ou une appréciation fine.
+nacarat|Arts|Couleur rouge orangé vif, rappelant l’éclat du corail.
+nocif|Sciences|Qui nuit à la santé ou à l’équilibre, qui cause du tort.
+nymphe|Mystère|Dans la mythologie grecque, divinité féminine de la nature ; en biologie, stade de développement intermédiaire entre la larve et l’adulte chez certains insectes.
+népotisme|Société|Faveur excessive accordée à sa famille ou à ses proches, en particulier dans la distribution de charges et d’emplois.
+onirique|Mystère|Relatif au rêve et à son univers ; au figuré, qui a une qualité étrange, irréelle ou poétique.
+ophidien|Animaux|Relatif aux serpents ; en zoologie, désigne l’ordre des reptiles comprenant les serpents.
+oxalique|Sciences|Qualifie un acide organique toxique présent dans certaines plantes (oseille, rhubarbe), utilisé en chimie.
+oxydant|Sciences|Substance chimique qui provoque une oxydation en captant des électrons ; par extension, agent corrosif.
+oxymore|Langue|Figure de style associant deux termes contradictoires pour créer un effet saisissant (ex. : « obscure clarté »).
+paroxysme|Idées|Degré le plus intense atteint par un sentiment, une émotion ou un phénomène.
+phtisie|Corps & santé|Ancien nom de la tuberculose pulmonaire, maladie infectieuse chronique grave.
+pittoresque|Arts|Qui attire par son originalité, son charme visuel ou expressif ; se dit aussi d’une description vivante et imagée.
+pylône|Objets|Haute structure verticale servant de support à des câbles électriques, à une antenne ou à une partie d’ouvrage (pont, etc.).
+pénombre|Nature|État de lumière atténuée entre l’ombre et la clarté ; au figuré, obscurité morale, ignorance.
+quartz|Nature|Minéral très répandu, composé de dioxyde de silicium (SiO₂), utilisé en joaillerie, en horlogerie (grâce à sa piézoélectricité) et dans l’industrie.
+rassasié|Cuisine|Qui a suffisamment mangé, voire trop, au point de ne plus avoir faim ; au figuré, comblé, satisfait.
+rhizome|Nature|Tige souterraine horizontale, souvent charnue, qui produit des racines et des tiges aériennes, servant d’organe de réserve et de propagation.
+rugueux|Nature|Qui présente une surface inégale, rude au toucher ; au figuré, personne au caractère âpre, peu délicat.
+rutilant|Arts|Qui brille avec éclat, en particulier avec des reflets rouges ; au figuré, flamboyant, éclatant.
+sanglot|Émotions|Manifestation sonore et saccadée de la respiration accompagnant les pleurs ; au figuré, parole ou son entrecoupé par l’émotion.
+sarcasme|Langue|Raillerie amère et ironique, souvent cruelle et blessante.
+sarcophage|Histoire|Cercueil de pierre destiné à recevoir un corps, souvent décoré, utilisé dans l’Antiquité.
+sardonique|Caractère|Qui exprime une ironie amère et moqueuse, accompagnée d’un rire forcé ou cynique.
+satyrique|Mystère|Relatif au satyre (divinité mi-homme mi-bouc de la mythologie grecque) ; par extension, qualifie un comportement lubrique et excessivement porté sur la sexualité.
+scarlatine|Corps & santé|Maladie infectieuse infantile due au streptocoque, caractérisée par une forte fièvre et une éruption cutanée rouge vif.
+scrupule|Caractère|Hésitation, doute moral qui retient d’agir ; au sens ancien, petite pierre pointue (d’où le sens figuré de ‘gêne morale’).
+scruter|Actions|Examiner avec une attention minutieuse et soutenue, en cherchant à découvrir ce qui est caché ou imperceptible.
+sinuosité|Nature|Ligne ou forme marquée par des courbes irrégulières ; au figuré, caractère tortueux, compliqué.
+soliloque|Langue|Discours qu’une personne se tient à elle-même, souvent à haute voix, comme si elle pensait à voix haute.
+soufreux|Sciences|Qui contient du soufre ou qui a l’odeur du soufre ; au figuré, qui évoque l’enfer ou le diabolique.
+succube|Mystère|Démon féminin censé abuser des hommes durant leur sommeil ; par extension, femme séductrice et dominatrice.
+supplice|Histoire|Souffrance atroce infligée volontairement, souvent en guise de châtiment ; au figuré, douleur morale très vive.
+suranné|Temps|Qui appartient à une époque révolue, vieilli, désuet.
+taciturne|Caractère|Se dit d’une personne qui parle peu, qui manifeste une humeur sombre et silencieuse.
+tisonner|Maison|Remuer un feu avec un tisonnier ; au figuré, attiser une querelle.
+torride|Nature|D’une chaleur extrême, brûlante ; par extension, ardent, passionné.
+torve|Émotions|Regard oblique et menaçant, qui inspire la méfiance.
+toxémie|Corps & santé|Présence de substances toxiques dans le sang, souvent liée à une infection.
+transi|Émotions|Saisi par le froid, ou submergé par une émotion intense.
+trombine|Corps & santé|Visage ou mine, souvent avec un ton amusé ou péjoratif.
+tréfonds|Idées|La partie la plus profonde d’un lieu, d’une pensée ou d’un être.
+turpitude|Caractère|Grande bassesse morale, ignominie d’un comportement.
+tutélaire|Mystère|Qui protège, comme une divinité ou une figure protectrice.
+ténacité|Caractère|Qualité de ce qui résiste et persiste, souvent dans l’effort ou l’attachement.
+ténor|Arts|Voix d’homme la plus aiguë en chant classique ; par extension, personnage de premier plan.
+ténèbres|Mystère|Obscurité profonde ; image du mystère, de l’ignorance ou du mal.
+tératologie|Sciences|Science qui étudie les malformations chez les êtres vivants.
+valence|Sciences|En chimie, capacité d’un atome à se lier avec d’autres ; par extension, valeur ou importance d’un élément.
+vermine|Animaux|Ensemble de parasites nuisibles (poux, puces…) ; par extension, foule méprisable.
+vicariat|Société|Fonction ou charge d’un vicaire, représentant ou suppléant d’une autorité ecclésiastique.
+volubile|Caractère|Qui parle avec aisance et abondance, parfois trop rapidement.
+vortex|Sciences|Tourbillon de fluide (air, eau) qui entraîne tout dans son mouvement.
+walkyrie|Mystère|Dans la mythologie nordique, divinité féminine qui choisit les guerriers morts au combat et les conduit au Valhalla.
+wapiti|Animaux|Grand cervidé d’Amérique du Nord, proche de l’élan, reconnaissable à ses bois imposants.
+xiphoïde|Corps & santé|Petit cartilage en forme de pointe situé à l’extrémité inférieure du sternum.
+xylophone|Arts|Instrument de musique composé de lames de bois de tailles variées frappées avec des baguettes.
+xénophobie|Société|Rejet ou haine de ce qui est étranger, des personnes venues d’ailleurs.
+yack|Animaux|Grand bœuf domestique ou sauvage du Tibet et des régions de l’Himalaya, adapté aux hautes altitudes.
+yakitori|Cuisine|Plat japonais composé de petites brochettes de poulet grillé, souvent assaisonnées d’une sauce sucrée-salée.
+yatagan|Histoire|Sabre courbe d’origine ottomane, caractérisé par sa lame large et recourbée.
+yeuse|Nature|Chêne vert, arbre méditerranéen au feuillage persistant.
+yiddish|Langue|Langue germanique mêlée d’hébreu et de slave, parlée historiquement par les communautés juives ashkénazes.
+yourte|Maison|Habitation traditionnelle des peuples nomades d’Asie centrale, faite de feutre et de bois.
+yttrium|Sciences|Élément chimique métallique (symbole Y), utilisé notamment dans les lasers et certaines céramiques.
+zeugme|Langue|Figure de style qui consiste à rattacher à un même mot deux compléments de sens très différents.
+zinc|Sciences|Métal gris-bleu, utilisé dans la galvanisation et les toitures ; familièrement, le comptoir d’un café.
+zircon|Nature|Minéral dur utilisé en bijouterie comme pierre précieuse ou imitation du diamant.
+zloty|Société|Monnaie officielle de la Pologne.
+zodiacal|Mystère|Relatif au zodiaque, bande du ciel où passent le soleil, la lune et les planètes.
+zoologie|Sciences|Science qui étudie les animaux, leur classification, leur biologie.
+zygote|Sciences|Cellule issue de la fécondation d’un ovule par un spermatozoïde, première étape du développement embryonnaire.
+zéphyr|Nature|Vent léger et doux venant de l’ouest ; par extension, ce qui est agréable et aérien.
+éboulure|Nature|Éboulement de matériaux (roches, terre, gravats) sur une pente ou une paroi ; désigne aussi la masse effondrée.
+ébéniste|Métiers|Artisan spécialisé dans la fabrication et la restauration de meubles en bois de qualité, généralement précieux ou raffinés.
+écharde|Corps & santé|Petit fragment pointu de bois, de métal ou d’os qui s’enfonce sous la peau et provoque une douleur locale.
+égrener|Actions|Détacher les grains d’une plante (blé, maïs, raisin, grenade) ; au sens figuré, énoncer une suite de mots ou d’éléments un à un.
+épilepsie|Corps & santé|Maladie neurologique chronique caractérisée par des crises soudaines dues à une activité électrique anormale du cerveau.
+épiphyse|Corps & santé|Petite glande endocrine du cerveau (appelée aussi « glande pinéale ») ; en anatomie osseuse, extrémité élargie d’un os long.
+équinoxe|Temps|Moment de l’année où le jour et la nuit ont une durée sensiblement égale (vers le 20 mars et le 23 septembre).
+équité|Société|Principe moral de justice naturelle qui vise à tempérer la rigidité des lois pour s’adapter aux cas particuliers.
+équivoque|Langue|Ce qui présente plusieurs sens possibles, souvent ambigu ou douteux moralement.
+ésotérisme|Mystère|Ensemble de doctrines ou de pratiques réservées à un petit cercle d’initiés, généralement obscures pour le grand public.
+étrave|Objets|Partie avant d’un navire, qui fend l’eau et permet la progression.
+abcès|Corps & santé|Amas de pus qui se forme sous la peau ou dans un organe.
+acerbe|Caractère|Qui blesse par sa dureté ou sa méchanceté : une critique acerbe.
+adage|Langue|Formule courte qui énonce une vérité d'expérience.
+agrafe|Objets|Petite pièce de métal qui attache ou réunit.
+aigrette|Animaux|Petit héron blanc ; bouquet de plumes sur la tête d'un oiseau.
+alambic|Sciences|Appareil qui sert à distiller.
+albâtre|Nature|Pierre blanche et translucide que l'on sculpte.
+alezan|Animaux|Se dit d'un cheval à la robe brun rouge.
+algèbre|Sciences|Branche des mathématiques qui calcule avec des lettres.
+alinéa|Langue|Retrait en début de ligne qui marque un nouveau paragraphe.
+alizé|Nature|Vent régulier qui souffle sur les régions tropicales.
+alluvion|Nature|Dépôt de sable et de boue laissé par un cours d'eau.
+aloès|Nature|Plante grasse aux feuilles épaisses, utilisée en soin.
+alpaga|Animaux|Animal des Andes, cousin du lama, à la laine douce.
+amidon|Cuisine|Substance tirée des céréales, qui épaissit ou raidit.
+amphore|Histoire|Vase antique à deux anses et au col étroit.
+anathème|Histoire|Condamnation solennelle ; malédiction.
+anicroche|Idées|Petit obstacle, petite difficulté imprévue.
+anorak|Objets|Veste imperméable à capuche.
+anémone|Nature|Fleur aux couleurs vives ; animal marin qui lui ressemble.
+apanage|Histoire|Ce qui est propre à quelqu'un, privilège exclusif.
+apathie|Caractère|Absence d'énergie et d'émotion, indifférence.
+arachide|Cuisine|Plante dont la graine est la cacahuète.
+argot|Langue|Vocabulaire familier propre à un groupe.
+armada|Histoire|Flotte de guerre imposante ; foule nombreuse.
+arpège|Arts|Notes d'un accord jouées l'une après l'autre.
+arthrose|Corps & santé|Usure douloureuse des articulations.
+assiduité|Caractère|Régularité et constance dans ce que l'on fait.
+aubépine|Nature|Arbuste épineux aux fleurs blanches ou roses.
+aulne|Nature|Arbre qui pousse au bord de l'eau.
+avorton|Caractère|Être chétif, mal développé.
+balustre|Maison|Petite colonne renflée d'une rambarde.
+banquise|Nature|Épaisse couche de glace qui recouvre la mer polaire.
+basalte|Nature|Roche volcanique sombre.
+beffroi|Histoire|Tour de guet d'une ville, avec sa cloche.
+berlingot|Cuisine|Bonbon dur en forme de petite pyramide.
+bestiaire|Arts|Recueil de descriptions d'animaux, réels ou fabuleux.
+bigot|Caractère|Qui pratique la religion de façon étroite et excessive.
+biscornu|Idées|De forme irrégulière ; bizarre, compliqué.
+bistre|Arts|Couleur brun noirâtre.
+bonasse|Caractère|Bon jusqu'à la naïveté.
+boniment|Langue|Discours habile pour séduire ou tromper.
+boqueteau|Nature|Petit bois.
+boréal|Nature|Du nord ; l'aurore boréale.
+boudoir|Maison|Petit salon élégant ; biscuit allongé.
+bravoure|Caractère|Courage face au danger.
+bretzel|Cuisine|Biscuit salé en forme de nœud.
+bucolique|Arts|Qui évoque la vie paisible des bergers et de la campagne.
+bécasse|Animaux|Oiseau au long bec vivant dans les bois.
+cadastre|Société|Registre qui décrit les terrains d'une commune.
+camomille|Nature|Plante dont on fait une tisane apaisante.
+camée|Arts|Pierre fine sculptée en relief.
+carlin|Animaux|Petit chien au museau écrasé.
+cassis|Cuisine|Petite baie noire ; son arbuste.
+castor|Animaux|Rongeur qui construit des barrages.
+chafouin|Caractère|Qui a un air sournois et rusé.
+chaloupe|Objets|Grand canot de sauvetage d'un navire.
+chantre|Arts|Chanteur d'église ; celui qui célèbre quelque chose.
+charabia|Langue|Langage incompréhensible.
+chardon|Nature|Plante épineuse aux fleurs violettes.
+charlatan|Caractère|Imposteur qui abuse de la crédulité.
+chatoyant|Arts|Qui change de couleur selon la lumière.
+chevesne|Animaux|Poisson d'eau douce.
+chienlit|Société|Désordre, pagaille.
+châtaigne|Cuisine|Fruit brun du châtaignier, qui se mange grillé.
+cobalt|Sciences|Métal gris ; bleu intense.
+cocotier|Nature|Palmier qui produit la noix de coco.
+colombier|Maison|Bâtiment où l'on élève des pigeons.
+commotion|Corps & santé|Violent ébranlement, choc.
+commérage|Langue|Bavardage malveillant.
+corsaire|Histoire|Marin autorisé par son roi à attaquer les navires ennemis.
+crédule|Caractère|Qui croit tout trop facilement.
+crépu|Corps & santé|Se dit de cheveux très frisés.
+cuistre|Caractère|Pédant vaniteux.
+culasse|Objets|Pièce qui ferme l'arrière du canon d'une arme.
+cupide|Caractère|Avide d'argent.
+dahlia|Nature|Fleur ornementale aux nombreux pétales.
+damier|Objets|Plateau à cases alternées noires et blanches.
+derviche|Histoire|Religieux musulman qui danse en tournoyant.
+diadème|Objets|Bandeau royal orné de pierres précieuses.
+diction|Langue|Manière de prononcer.
+difforme|Corps & santé|Qui n'a pas une forme normale.
+dindon|Animaux|Gros oiseau de basse-cour.
+doléance|Langue|Plainte, réclamation.
+dorade|Animaux|Poisson de mer à la chair fine.
+drille|Caractère|Un joyeux drille : un joyeux compère.
+dubitatif|Émotions|Qui exprime le doute.
+débandade|Histoire|Fuite désordonnée.
+décharné|Corps & santé|Extrêmement maigre.
+démence|Corps & santé|Folie.
+détroit|Nature|Bras de mer resserré entre deux terres.
+embardée|Actions|Brusque écart d'un véhicule.
+embellie|Nature|Amélioration passagère du temps.
+embrun|Nature|Pluie fine de gouttes arrachées aux vagues.
+encensoir|Objets|Petit récipient où l'on brûle l'encens.
+ersatz|Idées|Produit de remplacement de moindre qualité.
+escarpin|Objets|Chaussure fine à talon.
+esthète|Arts|Amateur raffiné du beau.
+exaction|Histoire|Acte de violence, abus de pouvoir.
+exhaustif|Idées|Qui traite à fond, sans rien oublier.
+exigu|Maison|Trop petit, étroit.
+exode|Histoire|Départ en masse d'une population.
+exorcisme|Mystère|Rite pour chasser un démon.
+exécrable|Émotions|Détestable, très mauvais.
+fatidique|Mystère|Fixé par le destin.
+fermoir|Objets|Attache qui ferme un sac ou un bijou.
+flamant|Animaux|Oiseau rose aux longues pattes.
+flemme|Caractère|Paresse (familier).
+foison|Idées|À foison : en grande quantité.
+fondrière|Nature|Trou plein de boue dans un chemin.
+forcené|Caractère|Fou furieux ; acharné.
+fougueux|Caractère|Plein d'ardeur.
+fournil|Maison|Pièce où se trouve le four du boulanger.
+froidure|Nature|Froid de la saison.
+futaille|Objets|Tonneau.
+futilité|Idées|Caractère de ce qui est sans importance.
+giroflée|Nature|Plante aux fleurs parfumées jaunes ou pourpres.
+glotte|Corps & santé|Partie du larynx où naît la voix.
+gondolier|Métiers|Batelier qui conduit une gondole à Venise.
+gouache|Arts|Peinture à l'eau opaque.
+goulu|Caractère|Qui mange avec avidité.
+goéland|Animaux|Grand oiseau de mer.
+grelot|Objets|Petite sphère de métal qui tinte.
+gyrophare|Objets|Lampe tournante sur le toit des véhicules d'urgence.
+géranium|Nature|Plante à fleurs souvent mise en balconnière.
+hauban|Objets|Câble qui maintient un mât.
+heaume|Histoire|Grand casque du chevalier.
+herbu|Nature|Couvert d'herbe.
+horoscope|Mystère|Prédiction tirée de la position des astres.
+hydravion|Objets|Avion qui décolle et se pose sur l'eau.
+igloo|Maison|Abri en blocs de neige.
+impala|Animaux|Antilope d'Afrique.
+importun|Caractère|Qui dérange, qui ennuie.
+impunité|Société|Absence de punition.
+incision|Corps & santé|Entaille faite avec un instrument tranchant.
+indolent|Caractère|Qui évite l'effort, nonchalant.
+irascible|Caractère|Qui se met facilement en colère.
+jusant|Nature|Marée descendante.
+kimono|Objets|Longue robe japonaise à larges manches.
+kirsch|Cuisine|Eau-de-vie de cerise.
+laconique|Langue|Qui s'exprime en peu de mots.
+lacune|Idées|Manque, trou dans une connaissance.
+laiton|Sciences|Alliage de cuivre et de zinc.
+lapsus|Langue|Erreur involontaire en parlant ou en écrivant.
+levure|Cuisine|Champignon microscopique qui fait lever la pâte.
+lichen|Nature|Végétal qui pousse sur les pierres et les écorces.
+lingot|Objets|Bloc de métal précieux.
+loquet|Maison|Petite barre qui ferme une porte.
+loukoum|Cuisine|Confiserie orientale moelleuse.
+lutrin|Objets|Pupitre qui soutient un livre de chant.
+léthargie|Corps & santé|Sommeil profond et prolongé ; torpeur.
+magnanime|Caractère|Généreux et indulgent.
+malingre|Corps & santé|Faible, maladif.
+malotru|Caractère|Personne grossière et mal élevée.
+mandibule|Animaux|Mâchoire des insectes ; mâchoire inférieure.
+marigot|Nature|Bras mort d'un fleuve en Afrique.
+matrice|Sciences|Moule ; tableau de nombres ; utérus.
+meneau|Maison|Montant de pierre qui divise une fenêtre.
+métayer|Métiers|Paysan qui partage sa récolte avec le propriétaire.
+métronome|Arts|Appareil qui bat la mesure.
+mirliton|Arts|Petit instrument à membrane qui nasille.
+moellon|Maison|Pierre de construction grossièrement taillée.
+monacal|Mystère|Propre aux moines.
+mouron|Nature|Petite plante ; se faire du mouron : s'inquiéter.
+mulot|Animaux|Petit rongeur des champs.
+murène|Animaux|Poisson marin au corps de serpent.
+nacré|Arts|Qui a l'éclat de la nacre.
+néophyte|Idées|Nouvel adepte ; débutant.
+nigaud|Caractère|Un peu sot.
+noueux|Nature|Plein de nœuds.
+obole|Société|Petite contribution en argent.
+obtus|Caractère|Borné ; se dit d'un angle de plus de 90 degrés.
+olfactif|Corps & santé|Qui concerne l'odorat.
+oratoire|Langue|Qui concerne l'art de parler en public ; petite chapelle.
+origan|Cuisine|Herbe aromatique.
+pacotille|Objets|Marchandise de peu de valeur.
+pampa|Nature|Grande plaine d'Amérique du Sud.
+pancréas|Corps & santé|Glande qui aide à la digestion.
+paprika|Cuisine|Piment rouge en poudre.
+parangon|Idées|Modèle parfait.
+pataud|Caractère|Lourd et maladroit.
+pedigree|Animaux|Généalogie d'un animal de race.
+penaud|Émotions|Honteux et embarrassé.
+percheron|Animaux|Grand cheval de trait.
+pichet|Cuisine|Petite cruche.
+pilori|Histoire|Poteau où l'on exposait les condamnés.
+piranha|Animaux|Poisson carnivore d'Amazonie.
+pléiade|Idées|Groupe de personnes remarquables.
+poncho|Objets|Manteau fait d'une couverture percée pour la tête.
+pontife|Histoire|Haut dignitaire religieux ; le pape.
+pouliche|Animaux|Jeune jument.
+pourceau|Animaux|Porc.
+preux|Histoire|Brave, vaillant chevalier.
+prisme|Sciences|Solide transparent qui décompose la lumière.
+pruneau|Cuisine|Prune séchée.
+préambule|Langue|Introduction.
+prélat|Histoire|Haut dignitaire de l'Église.
+pétunia|Nature|Fleur en trompette.
+quintette|Arts|Groupe de cinq musiciens.
+rabot|Objets|Outil qui aplanit le bois.
+radis|Cuisine|Petite racine rouge au goût piquant.
+rafiot|Objets|Mauvais bateau.
+ramure|Nature|Ensemble des branches ; bois du cerf.
+rarissime|Idées|Extrêmement rare.
+reliquat|Idées|Ce qui reste.
+rétif|Caractère|Qui refuse d'avancer ou d'obéir.
+rosace|Arts|Grand vitrail rond.
+rotin|Objets|Tige de palmier pour les meubles tressés.
+rudiment|Idées|Notion de base.
+râteau|Objets|Outil de jardin à dents.
+saboteur|Mystère|Personne qui détruit en secret.
+sacrilège|Mystère|Profanation d'une chose sacrée.
+salsifis|Cuisine|Racine comestible allongée.
+samouraï|Histoire|Guerrier du Japon féodal.
+sarrasin|Cuisine|Céréale dont on fait les galettes.
+scélérat|Caractère|Criminel, bandit.
+semonce|Langue|Réprimande.
+semoule|Cuisine|Farine grossière de blé dur.
+solstice|Temps|Jour le plus long ou le plus court de l'année.
+soubrette|Arts|Servante espiègle au théâtre.
+soupape|Objets|Pièce qui règle le passage d'un fluide.
+spartiate|Caractère|Austère, sévère ; sandale à lanières.
+spongieux|Nature|Qui absorbe comme une éponge.
+stèle|Histoire|Pierre dressée portant une inscription.
+suavité|Émotions|Douceur agréable.
+suture|Corps & santé|Couture d'une plaie.
+sécession|Histoire|Séparation d'une partie d'un État.
+séquelle|Corps & santé|Trace laissée par une maladie.
+tesson|Objets|Débris de verre ou de poterie.
+timonier|Métiers|Marin qui tient la barre.
+tombereau|Objets|Charrette qui se décharge en basculant.
+toupet|Caractère|Audace, culot.
+transept|Histoire|Nef transversale d'une église.
+tribord|Objets|Côté droit d'un navire.
+trépas|Mystère|Mort.
+typhon|Nature|Cyclone tropical.
+unisson|Arts|Accord de voix qui chantent la même note.
+urticaire|Corps & santé|Éruption de boutons qui démangent.
+vacuité|Idées|Vide ; absence de valeur.
+venelle|Lieux|Petite rue étroite.
+ventru|Corps & santé|Qui a un gros ventre.
+verve|Langue|Éloquence vive et pleine d'esprit.
+vigie|Métiers|Matelot qui guette depuis le haut du mât.
+vivier|Nature|Bassin où l'on garde des poissons vivants.
+véniel|Mystère|Péché léger, pardonnable.
+véreux|Caractère|Malhonnête ; se dit d'un fruit mangé par un ver.
+wagonnet|Objets|Petit wagon de mine.
+zibeline|Animaux|Petit mammifère à la fourrure précieuse.
+zébrure|Nature|Rayure.
+écervelé|Caractère|Étourdi, sans jugement.
+écriteau|Objets|Panneau qui porte une inscription.
+émacié|Corps & santé|Très amaigri.
+épagneul|Animaux|Chien de chasse aux longues oreilles.
+épure|Arts|Dessin précis ; forme simplifiée à l'essentiel.
+éraflure|Corps & santé|Légère écorchure.

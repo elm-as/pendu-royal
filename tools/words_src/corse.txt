@@ -1,0 +1,397 @@
+# Niveau Corsé : mots de fréquence moyenne, 6 à 10 lettres (noms, adjectifs, verbes à l'infinitif).
+# Format : mot|thème|définition   
+abeille|Animaux|Insecte qui produit le miel et la cire.
+abondance|Idées|Grande quantité, profusion.
+abriter|Actions|Mettre à couvert, protéger des intempéries ou d'un danger.
+abstrait|Idées|Qui n'existe que dans la pensée, qui n'est pas concret.
+académie|Société|Assemblée de savants, d'écrivains ou d'artistes ; école d'art.
+accueil|Société|Manière de recevoir quelqu'un.
+acharner|Actions|Poursuivre avec obstination, sans relâche (s'acharner).
+acheteur|Société|Personne qui achète.
+addition|Cuisine|Note à payer au restaurant ; opération qui ajoute des nombres.
+affaiblir|Actions|Rendre plus faible.
+affiche|Arts|Grande feuille imprimée placardée pour annoncer quelque chose.
+agence|Travail|Établissement qui offre un service : voyages, immobilier…
+agitation|Émotions|État de ce qui remue sans cesse ; nervosité.
+agrandir|Actions|Rendre plus grand.
+alarme|Objets|Signal ou appareil qui avertit d'un danger.
+ambulance|Corps & santé|Véhicule qui transporte les malades et les blessés.
+amiral|Métiers|Officier qui commande une flotte.
+amusant|Émotions|Qui divertit, qui fait rire.
+améliorer|Actions|Rendre meilleur.
+anneau|Objets|Cercle de métal, souvent porté au doigt.
+ardoise|Maison|Pierre grise en plaques pour les toits ; petit tableau d'écolier.
+armistice|Histoire|Accord qui suspend les combats entre deux armées.
+armure|Histoire|Ensemble de pièces de métal qui protégeaient le chevalier.
+arrondir|Actions|Rendre rond ; ajuster un nombre à la valeur ronde la plus proche.
+artifice|Arts|Moyen habile pour tromper ; feu d'artifice.
+artisan|Métiers|Personne qui exerce un métier manuel à son compte.
+assassinat|Mystère|Meurtre commis avec préméditation.
+assaut|Histoire|Attaque soudaine et violente contre une personne, un lieu ou un obstacle.
+auberge|Lieux|Petit hôtel-restaurant de campagne.
+audition|Arts|Essai d'un artiste devant un jury ; faculté d'entendre.
+augmenter|Actions|Rendre plus grand, plus fort ou plus intense.
+baguette|Cuisine|Pain long et fin ; petit bâton.
+balance|Objets|Instrument qui sert à peser.
+banlieue|Lieux|Ensemble des communes qui entourent une grande ville.
+baptiser|Société|Donner un nom ; administrer le baptême.
+barbier|Métiers|Artisan qui rase et taille la barbe.
+bassin|Nature|Pièce d'eau ; partie du corps qui relie le tronc aux jambes.
+bavardage|Langue|Paroles futiles et abondantes.
+bercer|Actions|Balancer doucement un enfant pour l'endormir.
+besogne|Travail|Travail à accomplir.
+beurre|Cuisine|Matière grasse tirée de la crème du lait.
+biberon|Objets|Petite bouteille munie d'une tétine pour nourrir les bébés.
+boisson|Cuisine|Tout liquide que l'on boit.
+bonbon|Cuisine|Petite friandise sucrée.
+bonnet|Objets|Coiffure souple et sans bord.
+boucher|Métiers|Commerçant qui vend de la viande.
+bousculer|Actions|Pousser brusquement.
+boxeur|Métiers|Sportif qui pratique la boxe.
+brandir|Actions|Agiter en l'air d'un geste menaçant ou triomphant.
+brebis|Animaux|Femelle du mouton.
+brigade|Société|Petite troupe de soldats ou de policiers.
+brouillard|Nature|Nuage bas qui réduit la visibilité.
+brutal|Caractère|Violent, grossier.
+brèche|Lieux|Ouverture faite dans un mur ou une défense.
+budget|Société|Prévision des recettes et des dépenses.
+buisson|Nature|Touffe d'arbustes.
+bulletin|Langue|Court communiqué ; relevé des notes d'un élève.
+bénéfice|Société|Avantage ou profit obtenu grâce à une action, une activité ou une décision.
+bétail|Animaux|Ensemble des animaux d'une ferme.
+cahier|Objets|Assemblage de feuilles de papier reliées.
+calculer|Sciences|Effectuer une opération mathématique ou estimer quelque chose par la réflexion.
+canapé|Maison|Long siège à dossier pour plusieurs personnes.
+caoutchouc|Objets|Matière souple et élastique tirée d'un arbre tropical.
+capitale|Lieux|Ville où siège le gouvernement d'un pays.
+capturer|Actions|Attraper ou prendre de force quelque chose ou quelqu’un, comme un animal ou un criminel.
+caporal|Métiers|Militaire du rang juste au-dessus du soldat.
+carcasse|Animaux|Squelette d'un animal ; charpente d'un objet.
+caresse|Émotions|Geste tendre de la main.
+carnet|Objets|Petit cahier de poche.
+cascade|Nature|Chute d'eau.
+caserne|Lieux|Bâtiment où logent les soldats.
+catalogue|Langue|Liste détaillée d'objets à vendre.
+caution|Société|Somme d’argent donnée comme garantie, ou personne qui garantit une obligation.
+cavalier|Histoire|Personne à cheval ; pièce du jeu d'échecs.
+centimètre|Sciences|Centième partie du mètre.
+certificat|Langue|Écrit officiel qui atteste un fait.
+chameau|Animaux|Grand animal du désert à deux bosses.
+chantage|Mystère|Menace de révéler un secret pour obtenir quelque chose.
+chanteur|Arts|Personne qui chante.
+charbon|Nature|Roche noire que l'on brûle pour se chauffer.
+chariot|Objets|Voiture à roues pour transporter des charges.
+charisme|Caractère|Qualité d’une personne qui attire, séduit et influence les autres par sa présence.
+charité|Société|Aide généreuse apportée aux pauvres.
+chaussée|Lieux|Partie de la route où circulent les véhicules ; par extension, surface pavée pour marcher.
+chaussette|Objets|Vêtement qui couvre le pied.
+chauve|Corps & santé|Qui n'a plus de cheveux.
+chiffon|Maison|Morceau de tissu qui sert à essuyer.
+chômage|Travail|Situation de celui qui n'a pas de travail.
+cirque|Arts|Spectacle d'acrobates, de clowns et d'animaux sous un chapiteau.
+clarté|Nature|Lumière ; caractère de ce qui est facile à comprendre.
+clochard|Société|Personne sans domicile qui vit dans la rue.
+cocktail|Cuisine|Mélange de boissons ; réception.
+commerce|Société|Achat et vente de marchandises.
+compassion|Émotions|Sentiment qui fait partager la souffrance d'autrui.
+complicité|Société|Entente secrète ; participation à une faute.
+condamné|Société|Personne reconnue coupable et punie par la justice ; peut aussi désigner quelqu’un voué à un sort malheureux.
+conférence|Langue|Exposé fait devant un public.
+conjoint|Société|Époux, épouse ou partenaire officiel dans une union.
+consoler|Actions|Apaiser le chagrin de quelqu'un.
+contraste|Arts|Opposition marquée entre deux choses.
+coquillage|Animaux|Coquille d'un mollusque marin.
+corbeau|Animaux|Grand oiseau noir au croassement rauque.
+corbeille|Objets|Panier ouvert.
+coupure|Corps & santé|Blessure faite par un objet tranchant ; interruption.
+courageux|Caractère|Qui agit malgré la peur, qui fait preuve de bravoure.
+courrier|Langue|Ensemble des lettres que l'on reçoit ou envoie.
+coutume|Société|Habitude partagée par un peuple.
+couvercle|Cuisine|Ce qui ferme une casserole ou une boîte.
+crapaud|Animaux|Amphibien à la peau pustuleuse, cousin de la grenouille.
+création|Arts|Action de donner naissance à quelque chose de nouveau, qu’il soit artistique, technique ou conceptuel.
+crevette|Animaux|Petit crustacé marin.
+crinière|Animaux|Longs poils sur le cou du lion ou du cheval.
+croissant|Cuisine|Viennoiserie en forme de lune.
+croyance|Idées|Ce que l'on tient pour vrai sans preuve.
+cruauté|Caractère|Plaisir de faire souffrir.
+créateur|Arts|Personne qui invente ou fonde quelque chose.
+cuillère|Cuisine|Ustensile pour manger les liquides.
+cuisinier|Métiers|Personne qui prépare les repas.
+cuivre|Sciences|Métal rougeâtre, bon conducteur d'électricité.
+dauphin|Animaux|Mammifère marin très intelligent ; héritier du roi de France.
+demeure|Maison|Maison, résidence, souvent grande.
+dentelle|Arts|Tissu très fin et décoratif, fait de fils entrelacés, utilisé pour les vêtements ou la décoration.
+dentiste|Métiers|Médecin spécialisé dans le soin des dents et de la bouche.
+diabolique|Mystère|Qui évoque le diable, très méchant.
+dialogue|Langue|Échange de paroles entre deux ou plusieurs personnes.
+diamant|Objets|Pierre précieuse très dure et brillante.
+dimension|Sciences|Grandeur mesurable : longueur, largeur, hauteur.
+diplomate|Métiers|Personne qui représente son pays à l'étranger.
+discret|Caractère|Qui ne se fait pas remarquer.
+dispute|Société|Échange vif de paroles hostiles.
+distraire|Actions|Amuser ; détourner l'attention.
+domicile|Maison|Lieu où l'on habite.
+dortoir|Maison|Grande salle où dorment plusieurs personnes.
+douteux|Idées|Dont on peut douter.
+découverte|Sciences|Action de trouver ce qui était inconnu.
+défaite|Actions|Fait d'être vaincu.
+défunt|Société|Personne décédée.
+dégoût|Émotions|Répulsion, aversion.
+délice|Émotions|Plaisir très vif.
+déménager|Maison|Changer de logement.
+dénoncer|Société|Signaler une faute ou un coupable.
+dépasser|Actions|Aller au-delà d’une limite, surmonter une difficulté ou devancer quelqu’un.
+dépense|Société|Argent que l'on dépense.
+dépression|Corps & santé|État de profonde tristesse ; creux du terrain.
+député|Société|Élu qui siège à l'Assemblée nationale.
+désastre|Idées|Grand malheur, catastrophe.
+dévorant|Émotions|Qui mange avec avidité ; au sens figuré, une passion ou une émotion très forte.
+efficace|Idées|Qui produit l'effet attendu.
+effroi|Émotions|Grande frayeur.
+enchanter|Émotions|Ravir, charmer ; ensorceler.
+enfouir|Actions|Mettre en terre, cacher.
+ennuyeux|Émotions|Qui fait naître l'ennui.
+enrichir|Actions|Rendre plus riche, soit en argent, soit en connaissances ou expériences.
+enseigne|Objets|Panneau qui signale un commerce.
+entourer|Actions|Placer autour de quelqu’un ou quelque chose ; aussi protéger ou accompagner.
+escalade|Actions|Action de grimper sur une paroi, une montagne ou un obstacle.
+escorter|Actions|Accompagner pour protéger.
+espionner|Mystère|Observer en secret.
+espérance|Émotions|Sentiment d'attendre avec confiance.
+esquiver|Actions|Éviter habilement un coup, une attaque ou une situation gênante.
+estomper|Arts|Rendre moins net, atténuer ou faire disparaître progressivement.
+estrade|Maison|Plancher surélevé sur lequel on se tient.
+exception|Idées|Ce qui sort de la règle.
+explorer|Actions|Parcourir un lieu pour le découvrir, l’étudier ou en connaître les détails.
+exposition|Arts|Présentation d'œuvres au public.
+extraire|Actions|Retirer d'un lieu ou d'un ensemble.
+fabrique|Travail|Établissement où l'on fabrique des objets.
+facteur|Métiers|Personne qui distribue le courrier.
+faiblesse|Caractère|Manque de force physique ou morale ; défaut ou fragilité.
+farine|Cuisine|Poudre obtenue en broyant des grains.
+festival|Arts|Série de spectacles consacrée à un art.
+fidélité|Caractère|Constance dans l'attachement.
+fierté|Émotions|Satisfaction de soi ; orgueil légitime.
+figurine|Arts|Petite statuette décorative ou de collection représentant une personne, un animal ou un personnage.
+filament|Sciences|Fil très fin et souple, naturel ou artificiel, utilisé en électricité, en textile ou en biologie.
+fillette|Société|Petite fille.
+financer|Société|Fournir l'argent nécessaire.
+fondation|Maison|Base d'un édifice ; organisme d'intérêt général.
+forgeron|Métiers|Artisan qui travaille le métal en le chauffant et en le martelant.
+formation|Travail|Apprentissage d'un métier.
+foudre|Nature|Décharge électrique d'un orage.
+fourmi|Animaux|Petit insecte qui vit en colonies organisées.
+fragment|Objets|Morceau d'une chose brisée.
+fraîcheur|Nature|Qualité de ce qui est frais.
+féroce|Caractère|Sauvage et cruel.
+gamelle|Cuisine|Récipient métallique pour transporter un repas.
+garderie|Lieux|Lieu où l’on s’occupe des enfants pendant l’absence de leurs parents.
+garnison|Histoire|Troupe qui occupe une place forte.
+gibier|Animaux|Animaux que l'on chasse.
+glissade|Actions|Action de glisser sur une surface, souvent involontairement.
+glorieux|Histoire|Qui s'est couvert de gloire.
+gouverner|Société|Diriger un pays.
+gracieux|Arts|Qui a de la grâce.
+grandeur|Idées|Taille ; noblesse.
+graver|Arts|Tracer en creux sur une surface dure.
+grenier|Maison|Partie d'une maison sous le toit.
+grenouille|Animaux|Amphibien sauteur à la peau lisse.
+griffe|Animaux|Ongle crochu de certains animaux.
+gronder|Actions|Réprimander ; faire un bruit sourd.
+généreux|Caractère|Qui aime donner, partager ou aider sans attendre quelque chose en retour.
+habituel|Temps|Qui se fait régulièrement, de manière courante ou normale.
+hanche|Corps & santé|Partie du corps où la cuisse s'attache au bassin.
+harmonie|Arts|Accord agréable entre des sons ou des éléments.
+hiérarchie|Société|Organisation en niveaux de pouvoir.
+hommage|Société|Marque de respect.
+humour|Caractère|Art de faire rire avec esprit.
+hypothèse|Sciences|Supposition à vérifier.
+héberger|Maison|Loger quelqu'un.
+héritier|Société|Personne qui reçoit un héritage.
+hésitation|Émotions|Fait de ne pas savoir quoi choisir.
+ignorance|Idées|Fait de ne pas savoir.
+impasse|Lieux|Rue sans issue ; situation bloquée.
+impatience|Émotions|Incapacité d'attendre calmement.
+implorer|Actions|Supplier.
+improviser|Arts|Faire sans préparation.
+indice|Mystère|Signe qui met sur la voie.
+individu|Société|Personne considérée isolément.
+infection|Corps & santé|Envahissement du corps par des microbes.
+infernal|Mystère|Qui évoque l'enfer ; insupportable.
+infirmerie|Corps & santé|Salle où l'on soigne dans une école ou une caserne.
+injustice|Société|Absence de justice.
+intimité|Émotions|Vie privée ; relation étroite.
+invention|Sciences|Création d'une chose nouvelle.
+ironie|Langue|Moquerie qui dit le contraire de ce que l'on pense.
+itinéraire|Lieux|Chemin à suivre.
+jambon|Cuisine|Cuisse de porc salée ou cuite.
+japonais|Lieux|Qui vient du Japon.
+joueur|Société|Personne qui joue.
+journal|Langue|Publication quotidienne ou périodique contenant des informations ; peut aussi désigner un carnet personnel.
+jumeau|Société|Né du même accouchement qu'un autre enfant.
+labyrinthe|Mystère|Construction ou réseau complexe de chemins entrecroisés, conçus pour égarer ; au sens figuré, situation confuse ou inextricable.
+largeur|Sciences|Dimension d'un côté à l'autre.
+lavabo|Maison|Évier de salle de bains.
+lessive|Maison|Lavage du linge ; produit pour laver.
+limonade|Cuisine|Boisson gazeuse sucrée.
+liquide|Sciences|Qui coule ; argent comptant.
+locataire|Maison|Personne qui loue un logement.
+longueur|Sciences|Mesure de la dimension la plus longue d’un objet.
+loyauté|Caractère|Fidélité à ses engagements.
+légende|Histoire|Récit merveilleux ; texte sous une image.
+magicien|Mystère|Personne qui fait des tours de magie.
+manuscrit|Langue|Texte écrit à la main.
+maquiller|Arts|Farder le visage ; déguiser la vérité.
+martyr|Histoire|Personne qui souffre ou meurt pour sa foi.
+matelas|Maison|Coussin épais sur lequel on dort.
+migraine|Corps & santé|Violent mal de tête.
+milliard|Sciences|Mille millions.
+miniature|Arts|Reproduction en très petit.
+modeste|Caractère|Qui ne se vante pas.
+mollet|Corps & santé|Partie charnue à l'arrière de la jambe.
+mosaïque|Arts|Assemblage décoratif fait de petits morceaux colorés ; aussi, mélange varié d’éléments.
+mouchoir|Objets|Petit carré de tissu ou de papier pour se moucher.
+mouette|Animaux|Oiseau de mer blanc et gris.
+mouton|Animaux|Animal à laine élevé en troupeau.
+muraille|Histoire|Haut et épais mur de défense.
+musicien|Arts|Personne qui joue d’un instrument ou compose de la musique.
+mâchoire|Corps & santé|Os qui portent les dents.
+mécanicien|Métiers|Personne qui répare les moteurs.
+méditation|Idées|Réflexion profonde ; exercice de concentration.
+méfiance|Émotions|Crainte d'être trompé.
+naufrage|Nature|Perte d'un navire en mer.
+nettoyer|Maison|Enlever la saleté, rendre propre.
+nostalgie|Émotions|Regret mélancolique du passé.
+nourrice|Métiers|Femme qui garde des enfants.
+nuageux|Nature|Ciel couvert de nuages, manquant de soleil.
+obstacle|Idées|Ce qui empêche le passage ou rend une action difficile.
+octobre|Temps|Dixième mois de l'année.
+olivier|Nature|Arbre méditerranéen qui produit les olives.
+omelette|Cuisine|Œufs battus cuits à la poêle.
+orbite|Sciences|Trajectoire d'un astre autour d'un autre.
+orgueil|Caractère|Trop grande estime de soi.
+orphelin|Société|Enfant qui a perdu ses parents.
+oubliette|Histoire|Cachot souterrain où l'on enfermait les prisonniers pour toujours.
+ouvrage|Travail|Travail accompli ; livre.
+paisible|Émotions|Calme, tranquille.
+palissade|Maison|Clôture faite de planches ou de pieux serrés, servant de barrière.
+palmier|Nature|Arbre des pays chauds à grandes feuilles.
+panique|Émotions|Peur soudaine, extrême et irraisonnée pouvant se propager à un groupe entier ; au sens individuel, frayeur incontrôlable.
+panorama|Nature|Vue d’ensemble très large sur un paysage.
+parade|Arts|Défilé ; action de parer un coup.
+parcours|Lieux|Chemin suivi.
+passerelle|Lieux|Pont étroit réservé aux piétons.
+pasteur|Métiers|Ministre du culte protestant ; berger.
+patrouille|Société|Groupe qui surveille un secteur.
+pendule|Objets|Dispositif oscillant servant à mesurer le temps ; par extension, état d’hésitation ou de balancement entre deux choix.
+perroquet|Animaux|Oiseau coloré capable d'imiter la voix.
+pharmacie|Corps & santé|Magasin où l'on vend des médicaments.
+phénomène|Sciences|Fait observable ; personne extraordinaire.
+pigeon|Animaux|Oiseau gris des villes.
+pilier|Maison|Colonne qui soutient.
+pilote|Métiers|Personne qui conduit un avion ou une voiture de course.
+pistache|Cuisine|Petit fruit sec comestible, souvent utilisé en pâtisserie ou comme en-cas.
+plâtre|Maison|Poudre blanche qui durcit avec l'eau.
+poison|Mystère|Substance qui tue ou rend malade.
+population|Société|Ensemble des habitants.
+potion|Mystère|Breuvage magique ou médicinal.
+poésie|Arts|Art d'écrire en vers.
+procession|Société|Défilé religieux.
+procureur|Métiers|Magistrat qui représente la société au tribunal.
+profession|Travail|Métier.
+proverbe|Langue|Courte phrase populaire exprimant une vérité ou un conseil de sagesse.
+province|Lieux|Partie d'un pays, hors de la capitale.
+précision|Sciences|Exactitude.
+préfet|Métiers|Représentant de l'État dans un département.
+publicité|Société|Annonce qui vante un produit.
+pèlerin|Société|Personne qui voyage vers un lieu saint.
+pêcheur|Métiers|Personne qui pêche.
+rafale|Nature|Coup de vent violent et soudain.
+ralentir|Actions|Aller moins vite.
+ramper|Actions|Avancer à plat ventre.
+rebelle|Caractère|Qui se révolte.
+recette|Cuisine|Manière de préparer un plat ; argent reçu.
+redoutable|Idées|Que l'on craint.
+refroidir|Actions|Rendre plus froid.
+registre|Langue|Cahier où l'on note des informations officielles.
+reproche|Langue|Blâme adressé à quelqu'un.
+requin|Animaux|Grand poisson carnassier.
+respirer|Corps & santé|Inspirer et expirer de l’air pour vivre ; peut aussi signifier se détendre.
+retarder|Temps|Repousser un événement à plus tard, ralentir.
+richesse|Société|Abondance de biens.
+rivage|Nature|Bord de la mer ou d'un lac.
+robuste|Caractère|Fort et résistant.
+roseau|Nature|Plante des marais à longue tige.
+routine|Temps|Habitude répétitive.
+royaume|Histoire|Pays gouverné par un roi.
+récolte|Nature|Action de cueillir les produits de la terre.
+réfugié|Société|Personne qui a fui son pays.
+réputation|Société|Opinion que l'on a de quelqu'un.
+répétition|Arts|Fait de répéter ; séance de travail avant un spectacle.
+réservoir|Objets|Récipient où l'on stocke un liquide.
+résister|Actions|Ne pas céder face à une force, une pression ou une tentation.
+rêveur|Caractère|Qui aime rêver.
+sacrifier|Actions|Renoncer à quelque chose pour une cause.
+sanglier|Animaux|Porc sauvage des forêts.
+sardine|Animaux|Petit poisson de mer.
+savant|Sciences|Personne très instruite.
+sculpture|Arts|Art de tailler la matière.
+seigneur|Histoire|Titre de noblesse du Moyen Âge ; au figuré, homme puissant ou personnage vénérable.
+semelle|Objets|Dessous de la chaussure.
+sentier|Nature|Chemin étroit.
+serviteur|Histoire|Personne au service d'un maître.
+sieste|Temps|Petit somme après le déjeuner.
+sifflement|Nature|Son aigu.
+sincère|Caractère|Qui dit ce qu'il pense vraiment.
+sinistre|Mystère|Qui annonce un malheur ; catastrophe.
+sirène|Mystère|Créature mi-femme mi-poisson ; signal d'alarme.
+solaire|Sciences|Qui concerne le Soleil.
+solitaire|Caractère|Qui vit seul.
+sonnette|Maison|Petite cloche électrique à la porte.
+souterrain|Lieux|Passage sous la terre.
+souvenir|Temps|Mémoire d’une expérience passée, ou objet rappelant un événement.
+souverain|Histoire|Roi, reine ou empereur.
+splendeur|Arts|Grande beauté.
+sportif|Société|Qui pratique un sport.
+syllabe|Langue|Groupe de sons prononcés d'une seule émission de voix.
+symptôme|Corps & santé|Signe d'une maladie.
+séparation|Société|Fait de se quitter.
+tactique|Histoire|Art de mener un combat.
+tentation|Émotions|Envie de faire une chose défendue.
+terrestre|Nature|Qui concerne la Terre.
+thérapie|Corps & santé|Traitement.
+timide|Caractère|Qui manque d'assurance.
+toxique|Sciences|Qui empoisonne ou nuit gravement à la santé ; par extension, qui est nocif moralement.
+tourment|Émotions|Grande souffrance.
+trahison|Histoire|Fait de trahir.
+trajet|Lieux|Chemin d'un point à un autre.
+tricot|Arts|Ouvrage fait à l'aiguille avec de la laine.
+trompe|Animaux|Organe allongé (comme celui de l’éléphant) ou dispositif en forme de tube.
+tumulte|Nature|Désordre bruyant, agitation confuse d’une foule ou d’une situation.
+vacarme|Nature|Grand bruit.
+vallée|Nature|Creux entre des montagnes.
+vampire|Mystère|Créature légendaire qui se nourrit du sang des vivants ; par extension, personne exploitant les autres.
+vendeur|Métiers|Personne qui vend.
+vestiaire|Maison|Lieu où l'on dépose les vêtements.
+vieillesse|Temps|Dernière période de la vie.
+virage|Lieux|Courbe d'une route.
+vitrine|Maison|Devanture d'un magasin.
+vulnérable|Caractère|Qui peut être blessé facilement.
+écharpe|Objets|Bande de tissu autour du cou.
+échelle|Objets|Objet à barreaux pour monter.
+éducation|Société|Formation d'un enfant.
+élection|Société|Choix par un vote.
+éliminer|Actions|Faire disparaître, supprimer ou écarter quelque chose ou quelqu’un.
+éléphant|Animaux|Grand mammifère à trompe, vivant en Afrique ou en Asie.
+énigme|Mystère|Devinette ; chose difficile à comprendre.
+épicerie|Lieux|Magasin d'alimentation.
+étable|Maison|Bâtiment où logent les vaches.
+éternité|Temps|Durée sans fin.
+évolution|Sciences|Transformation progressive.
+évêque|Histoire|Chef religieux d'un diocèse.
+luxueux|Arts|Qui présente un caractère de luxe, marqué par la richesse, l’opulence et le raffinement.
+monstrueux|Mystère|Qui a l’apparence ou les proportions d’un monstre ; au figuré, qui dépasse la norme au point de choquer par son excès.
+juteux|Cuisine|Qui contient beaucoup de jus ; au figuré, très avantageux ou rentable.
+noyade|Nature|Mort ou suffocation provoquée par immersion dans un liquide ; par extension, submersion accidentelle.
+pupitre|Objets|Petit meuble incliné servant de support pour lire, écrire ou poser des partitions musicales.

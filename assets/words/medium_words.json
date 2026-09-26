@@ -1,657 +1,1977 @@
 [
-    {
-    "word": "abandons",
-    "definition": "Action de laisser quelque chose ou quelqu’un derrière soi, volontairement ou par obligation. Peut évoquer un manque de soin ou une décision difficile."
-    },
-    {
-        "word": "accident",
-        "definition": "Un événement imprévu et généralement négatif (ex : accident de voiture)."
-    },
-    {
-        "word": "activiste",
-        "definition": "Individu militant, engagé activement pour défendre une cause ou un idéal."
-    },
-    {
-        "word": "ajoutées",
-        "definition": "Choses qui ont été rajoutées en plus du contenu d'origine."
-    },
-    {
-        "word": "alerteur",
-        "definition": "Celui qui avertit ou alerte d’un danger."
-    },
-    {
-        "word": "analyser",
-        "definition": "Examiner en détail pour comprendre."
-    },
-    {
-        "word": "ancrages",
-        "definition": "Points de fixation solides qui maintiennent un objet ou une idée en place ; peut être utilisé au sens figuré pour parler de repères dans la vie."
-    },
-    {
-        "word": "animales",
-        "definition": "Ce qui se rapporte directement aux animaux, par exemple la vie animale ou les comportements animaux."
-    },
-    {
-        "word": "animatif",
-        "definition": "Caractère qui anime ou stimule, souvent utilisé pour parler de supports d’animation ou d’activités."
-    },
-    {
-        "word": "animaux",
-        "definition": "Êtres vivants appartenant au règne animal, capables de ressentir et de se mouvoir."
-    },
-    {
-        "word": "apprenti",
-        "definition": "Personne en formation qui apprend un métier ou une activité auprès d’un professionnel."
-    },
-    {
-        "word": "appuyer",
-        "definition": "Mettre un objet ou une partie du corps contre un support ; aussi, donner son soutien à une idée ou une personne."
-    },
-    {
-        "word": "arrogant",
-        "definition": "Personne ou attitude qui montre un excès d’orgueil, de fierté ou de mépris envers les autres."
-    },
-    {
-        "word": "aspirant",
-        "definition": "Celui qui souhaite accéder à un poste ou un statut ; aussi, appareil ou personne qui aspire l’air."
-    },
-    {
-        "word": "assaut",
-        "definition": "Attaque rapide et violente, souvent militaire, mais aussi utilisée pour décrire une action énergique."
-    },
-    {
-        "word": "assiette",
-        "definition": "Objet de vaisselle plat pour servir et manger ; peut aussi désigner l’équilibre ou la stabilité."    },
-    {
-        "word": "augmenta",
-        "definition": "Action passée du verbe augmenter : quelque chose a grandi, s’est intensifié ou est devenu plus important."
-    },
-    {
-        "word": "augmenter",
-        "definition": "Rendre plus grand, plus fort ou plus intense."
-    },
-    {
-        "word": "banquiers",
-        "definition": "Personnes travaillant dans le domaine bancaire, qui gèrent l’argent et les crédits."
-    },
-    {
-        "word": "brillant",
-        "definition": "Qui brille fortement ; peut aussi désigner une personne très douée ou un succès remarquable."
-    },
-    {
-        "word": "bruyante",
-        "definition": "Qui fait beaucoup de bruit, qui perturbe le calme."
-    },
-    {
-        "word": "bénéfice",
-        "definition": "Avantage ou profit obtenu grâce à une action, une activité ou une décision."
-    },
-    {
-        "word": "cachoter",
-        "definition": "Cacher ou dissimuler quelque chose volontairement, souvent par malice."
-    },
-    {
-        "word": "calculer",
-        "definition": "Effectuer une opération mathématique ou estimer quelque chose par la réflexion."
-    },
-    {
-        "word": "candidats",
-        "definition": "Personnes qui postulent pour un emploi, un concours, une élection ou une admission."
-    },
-    {
-        "word": "capturer",
-        "definition": "Attraper ou prendre de force quelque chose ou quelqu’un, comme un animal ou un criminel."
-    },
-    {
-        "word": "carreaux",
-        "definition": "Petits morceaux de céramique ou de verre servant à couvrir des surfaces ; peut aussi désigner les motifs sur un tissu."
-    },
-    {
-        "word": "caution",
-        "definition": "Somme d’argent donnée comme garantie, ou personne qui garantit une obligation."
-    },
-    {
-        "word": "chaleurs",
-        "definition": "Températures élevées ; aussi utilisé pour parler de la période de reproduction chez certains animaux."
-    },
-    {
-        "word": "charisme",
-        "definition": "Qualité d’une personne qui attire, séduit et influence les autres par sa présence."
-    },
-    {
-        "word": "chassent",
-        "definition": "Forme du verbe chasser : ils ou elles poursuivent des animaux ou font fuir quelque chose."
-    },
-    {
-        "word": "chassure",
-        "definition": "Ancien mot ou variante mal utilisée de chaussure, désignant des souliers pour se chausser."
-    },
-    {
-        "word": "chaussée",
-        "definition": "Partie de la route où circulent les véhicules ; par extension, surface pavée pour marcher."
-    },
-    {
-        "word": "cheminée",
-        "definition": "Conduit permettant à la fumée de sortir d’une maison ; peut aussi désigner la structure décorative autour du foyer."
-    },
-    {
-        "word": "chevaux",
-        "definition": "Animaux domestiqués utilisés pour le transport, le travail ou le sport."
-    },
-    {
-        "word": "chiffres",
-        "definition": "Symboles numériques servant à compter ou mesurer."
-    },
-    {
-        "word": "ciblages",
-        "definition": "Actions de repérer ou viser un groupe ou un objectif."
-    },
-    {
-        "word": "climats",
-        "definition": "Ensemble des conditions météorologiques d’une région sur une longue durée."
-    },
-    {
-        "word": "comiques",
-        "definition": "Qui fait rire, humoristique ; ou personnes spécialisées dans l’humour."
-    },
-    {
-        "word": "condamné",
-        "definition": "Personne reconnue coupable et punie par la justice ; peut aussi désigner quelqu’un voué à un sort malheureux."
-    },
-    {
-        "word": "conjoint",
-        "definition": "Époux, épouse ou partenaire officiel dans une union."
-    },
-    {
-        "word": "courageux",
-        "definition": "Qui agit malgré la peur, qui fait preuve de bravoure."
-    },
-    {
-        "word": "crayonne",
-        "definition": "Action de dessiner ou écrire légèrement au crayon."
-    },
-    {
-        "word": "création",
-        "definition": "Action de donner naissance à quelque chose de nouveau, qu’il soit artistique, technique ou conceptuel."
-    },
-    {
-        "word": "créature",
-        "definition": "Être vivant, souvent utilisé pour désigner des personnages imaginaires ou étranges."
-    },
-    {
-        "word": "curieuse",
-        "definition": "Personne qui aime découvrir, apprendre et poser des questions ; peut aussi désigner un comportement indiscret."
-    },
-    {
-        "word": "dentelle",
-        "definition": "Tissu très fin et décoratif, fait de fils entrelacés, utilisé pour les vêtements ou la décoration."
-    },
-    {
-        "word": "dentiste",
-        "definition": "Médecin spécialisé dans le soin des dents et de la bouche."
-    },
-    {
-        "word": "dialogue",
-        "definition": "Échange de paroles entre deux ou plusieurs personnes."
-    },
-    {
-        "word": "diffuser",
-        "definition": "Répandre, faire circuler une information, une émission ou une substance."
-    },
-    {
-        "word": "dirigent",
-        "definition": "Forme du verbe diriger : ils ou elles guident, commandent ou administrent."
-    },
-    {
-        "word": "dissiper",
-        "definition": "Faire disparaître peu à peu quelque chose, comme un doute, une peur ou de la fumée."
-    },
-    {
-        "word": "douleurs",
-        "definition": "Sensation physique ou émotionnelle désagréable et pénible."
-    },
-    {
-        "word": "déclarer",
-        "definition": "Annoncer officiellement ou exprimer clairement une opinion, une décision ou une vérité."
-    },
-    {
-        "word": "défenses",
-        "definition": "Parties du corps de certains animaux (éléphants, sangliers) ; peut aussi désigner des moyens de protection."
-    },
-    {
-        "word": "dépasser",
-        "definition": "Aller au-delà d’une limite, surmonter une difficulté ou devancer quelqu’un."
-    },
-    {
-        "word": "désirant",
-        "definition": "Qui souhaite, qui a envie d’obtenir quelque chose."
-    },
-    {
-        "word": "dévorant",
-        "definition": "Qui mange avec avidité ; au sens figuré, une passion ou une émotion très forte."
-    },
-    {
-        "word": "embraser",
-        "definition": "Mettre en feu ; au sens figuré, enflammer les esprits ou les émotions."
-    },
-    {
-        "word": "enrichir",
-        "definition": "Rendre plus riche, soit en argent, soit en connaissances ou expériences."
-    },
-    {
-        "word": "enseigné",
-        "definition": "Participe passé d’enseigner : transmettre un savoir ou une compétence."
-    },
-    {
-        "word": "entourer",
-        "definition": "Placer autour de quelqu’un ou quelque chose ; aussi protéger ou accompagner."
-    },
-    {
-        "word": "escalade",
-        "definition": "Action de grimper sur une paroi, une montagne ou un obstacle."
-    },
-    {
-        "word": "esquiver",
-        "definition": "Éviter habilement un coup, une attaque ou une situation gênante."
-    },
-    {
-        "word": "estomper",
-        "definition": "Rendre moins net, atténuer ou faire disparaître progressivement."
-    },
-    {
-        "word": "exilés",
-        "definition": "Personnes contraintes de quitter leur pays, souvent pour des raisons politiques ou de sécurité."
-    },
-    {
-        "word": "existant",
-        "definition": "Qui est présent, réel, qui existe déjà."
-    },
-    {
-        "word": "expliquer",
-        "definition": "Faire comprendre quelque chose en donnant des détails ou des raisons."
-    },
-    {
-        "word": "explorer",
-        "definition": "Parcourir un lieu pour le découvrir, l’étudier ou en connaître les détails."
-    },
-    {
-        "word": "facteurs",
-        "definition": "Éléments qui influencent une situation ; ou personnes qui distribuent le courrier."
-    },
-    {
-        "word": "faiblesse",
-        "definition": "Manque de force physique ou morale ; défaut ou fragilité."
-    },
-    {
-        "word": "fermette",
-        "definition": "Petite ferme, souvent rustique, utilisée comme habitation ou exploitation."
-    },
-    {
-        "word": "fermetés",
-        "definition": "Caractère de ce qui est solide et stable ; peut aussi désigner une attitude décidée."
-    },
-    {
-        "word": "figurine",
-        "definition": "Petite statuette décorative ou de collection représentant une personne, un animal ou un personnage."
-    },
-    {
-        "word": "filament",
-        "definition": "Fil très fin et souple, naturel ou artificiel, utilisé en électricité, en textile ou en biologie."
-    },
-    {
-        "word": "fluviale",
-        "definition": "Relatif aux fleuves et aux rivières."
-    },
-    {
-        "word": "forgeron",
-        "definition": "Artisan qui travaille le métal en le chauffant et en le martelant."
-    },
-    {
-        "word": "formules",
-        "definition": "Expressions toutes faites ou équations mathématiques."
-    },
-    {
-        "word": "frissons",
-        "definition": "Petits tremblements involontaires du corps, causés par le froid, la peur ou l’émotion."
-    },
-    {
-        "word": "fromages",
-        "definition": "Produits alimentaires fabriqués à partir de lait caillé, affinés de différentes manières."
-    },
-    {
-        "word": "fusibles",
-        "definition": "Petits dispositifs électriques qui protègent un circuit en cas de surcharge."
-    },
-    {
-        "word": "garderie",
-        "definition": "Lieu où l’on s’occupe des enfants pendant l’absence de leurs parents."
-    },
-    {
-        "word": "glissade",
-        "definition": "Action de glisser sur une surface, souvent involontairement."
-    },
-    {
-        "word": "générale",
-        "definition": "Qui concerne tout le monde ou l’ensemble d’une situation."
-    },
-    {
-        "word": "généreux",
-        "definition": "Qui aime donner, partager ou aider sans attendre quelque chose en retour."
-    },
-    {
-        "word": "habituel",
-        "definition": "Qui se fait régulièrement, de manière courante ou normale."
-    },
-    {
-        "word": "hommages",
-        "definition": "Marques de respect, de reconnaissance ou d’admiration envers quelqu’un."
-    },
-    {
-        "word": "hôpitaux",
-        "definition": "Établissements où l’on soigne les malades et blessés."
-    },
-    {
-        "word": "intenses",
-        "definition": "Très forts, puissants ou extrêmes, que ce soit pour une sensation, une émotion ou un effort."
-    },
-    {
-        "word": "intimide",
-        "definition": "Qui provoque de la crainte ou rend quelqu’un mal à l’aise."
-    },
-    {
-        "word": "isolante",
-        "definition": "Qui empêche le passage de la chaleur, du son ou de l’électricité."
-    },
-    {
-        "word": "journal",
-        "definition": "Publication quotidienne ou périodique contenant des informations ; peut aussi désigner un carnet personnel."
-    },
-    {
-        "word": "journaux",
-        "definition": "Forme plurielle de journal : publications régulières contenant des actualités."
-    },
-    {
-        "word": "libertine",
-        "definition": "Personne qui mène une vie libre, parfois marquée par la recherche des plaisirs."
-    },
-    {
-        "word": "localise",
-        "definition": "Situer quelque chose dans l’espace, identifier sa position."
-    },
-    {
-        "word": "longueur",
-        "definition": "Mesure de la dimension la plus longue d’un objet."
-    },
-    {
-        "word": "luminaire",
-        "definition": "Objet qui éclaire une pièce, comme une lampe ou un lustre."
-    },
-    {
-        "word": "lumières",
-        "definition": "Rayons émis par une source lumineuse ; au figuré, connaissances et savoirs."
-    },
-    {
-        "word": "lunettes",
-        "definition": "Objet optique porté devant les yeux pour mieux voir ou se protéger."
-    },
-    {
-        "word": "légendes",
-        "definition": "Récits traditionnels souvent imaginaires ; aussi, explications courtes accompagnant une image."
-    },
-    {
-        "word": "marchand",
-        "definition": "Personne qui vend des biens ou services, souvent sur un marché."
-    },
-    {
-        "word": "mariages",
-        "definition": "Union officielle ou religieuse de deux personnes, célébrée par une cérémonie."
-    },
-    {
-        "word": "militant",
-        "definition": "Personne engagée activement pour défendre une idée, une cause ou un mouvement."
-    },
-    {
-        "word": "ministre",
-        "definition": "Membre du gouvernement chargé d’un domaine particulier, comme la santé ou l’éducation."
-    },
-    {
-        "word": "moineaux",
-        "definition": "Petits oiseaux communs vivant près des habitations humaines."
-    },
-    {
-        "word": "mosaïque",
-        "definition": "Assemblage décoratif fait de petits morceaux colorés ; aussi, mélange varié d’éléments."
-    },
-    {
-        "word": "musicien",
-        "definition": "Personne qui joue d’un instrument ou compose de la musique."
-    },
-    {
-        "word": "mystères",
-        "definition": "Choses difficiles à comprendre ou à expliquer, entourées de secret."
-    },
-    {
-        "word": "navettes",
-        "definition": "Transports faisant des allers-retours réguliers ; peut aussi désigner des petits biscuits allongés."
-    },
-    {
-        "word": "nettoyer",
-        "definition": "Enlever la saleté, rendre propre."
-    },
-    {
-        "word": "nouveaux",
-        "definition": "Choses récentes, qui apparaissent ou viennent d’arriver."
-    },
-    {
-        "word": "nuageux",
-        "definition": "Ciel couvert de nuages, manquant de soleil."
-    },
-    {
-        "word": "obstacle",
-        "definition": "Ce qui empêche le passage ou rend une action difficile."
-    },
-    {
-        "word": "officiel",
-        "definition": "Qui émane d’une autorité reconnue ; ou personne représentant une autorité."
-    },
-    {
-        "word": "palissade",
-        "definition": "Clôture faite de planches ou de pieux serrés, servant de barrière."
-    },
-    {
-        "word": "panaches",
-        "definition": "Grandes touffes ou ornements, souvent de plumes, de fumée ou de flammes."
-    },
-    {
-        "word": "panorama",
-        "definition": "Vue d’ensemble très large sur un paysage."
-    },
-    {
-        "word": "pharaons",
-        "definition": "Anciens rois d’Égypte considérés comme des divinités."
-    },
-    {
-        "word": "piratage",
-        "definition": "Action illégale consistant à copier, voler ou accéder à des données ou programmes."
-    },
-    {
-        "word": "pistache",
-        "definition": "Petit fruit sec comestible, souvent utilisé en pâtisserie ou comme en-cas."
-    },
-    {
-        "word": "polluent",
-        "definition": "Forme du verbe polluer : ils ou elles rendent l’air, l’eau ou la terre sales et nuisibles."
-    },
-    {
-        "word": "poursuit",
-        "definition": "Forme du verbe poursuivre : il ou elle continue une action ou chasse quelqu’un."
-    },
-    {
-        "word": "problème",
-        "definition": "Question ou difficulté à résoudre."
-    },
-    {
-        "word": "prochain",
-        "definition": "Qui vient immédiatement après, dans le temps ou dans l’espace."
-    },
-    {
-        "word": "promesse",
-        "definition": "Engagement de faire quelque chose ou de tenir une parole."
-    },
-    {
-        "word": "proverbe",
-        "definition": "Courte phrase populaire exprimant une vérité ou un conseil de sagesse."
-    },
-    {
-        "word": "précieux",
-        "definition": "Qui a une grande valeur matérielle ou affective."
-    },
-    {
-        "word": "présider",
-        "definition": "Diriger une assemblée, une réunion ou un organisme officiel."
-    },
-    {
-        "word": "prévient",
-        "definition": "Forme du verbe prévenir : il ou elle avertit d’un danger ou empêche qu’il arrive."
-    },
-    {
-        "word": "pénétrer",
-        "definition": "Entrer dans un lieu ou traverser une surface."
-    },
-    {
-        "word": "périmètre",
-        "definition": "Mesure du contour d’une figure géométrique ; ou limite d’un espace."
-    },
-    {
-        "word": "périodes",
-        "definition": "Durées de temps limitées marquées par certains événements."
-    },
-    {
-        "word": "rassuré",
-        "definition": "Qui a retrouvé son calme après une inquiétude."
-    },
-    {
-        "word": "ravivant",
-        "definition": "Qui redonne de la force, de la vie ou de l’intensité."
-    },
-    {
-        "word": "rayonnés",
-        "definition": "Qui ont diffusé de la lumière, de la chaleur ou une influence."
-    },
-    {
-        "word": "refusent",
-        "definition": "Forme du verbe refuser : ils ou elles rejettent une demande ou une proposition."
-    },
-    {
-        "word": "relatifs",
-        "definition": "Qui se rapportent à quelque chose ou qui dépendent d’une comparaison."
-    },
-    {
-        "word": "renforcé",
-        "definition": "Devenu plus solide, plus intense ou plus résistant."
-    },
-    {
-        "word": "renouvel",
-        "definition": "Forme du verbe renouveler : refaire, remplacer ou donner une nouvelle vie à quelque chose."
-    },
-    {
-        "word": "reptiles",
-        "definition": "Animaux à sang froid comme les serpents, lézards ou tortues."
-    },
-    {
-        "word": "respirer",
-        "definition": "Inspirer et expirer de l’air pour vivre ; peut aussi signifier se détendre."
-    },
-    {
-        "word": "ressenti",
-        "definition": "Ce que l’on perçoit intérieurement, comme une émotion ou une impression."
-    },
-    {
-        "word": "retarder",
-        "definition": "Repousser un événement à plus tard, ralentir."
-    },
-    {
-        "word": "retouche",
-        "definition": "Modification ou correction apportée à un texte, une image ou un objet."
-    },
-    {
-        "word": "romancer",
-        "definition": "Transformer un récit en histoire plus imaginaire, embellie ou fictive."
-    },
-    {
-        "word": "réalisez",
-        "definition": "Forme du verbe réaliser : vous accomplissez ou vous comprenez quelque chose."
-    },
-    {
-        "word": "réalisés",
-        "definition": "Choses qui ont été faites ou accomplies."
-    },
-    {
-        "word": "récitait",
-        "definition": "Forme du verbe réciter : il ou elle disait un texte appris par cœur."
-    },
-    {
-        "word": "récitant",
-        "definition": "Personne qui lit ou déclame un texte à voix haute."
-    },
-    {
-        "word": "réduire",
-        "definition": "Rendre plus petit, moins intense ou moins important."
-    },
-    {
-        "word": "réduites",
-        "definition": "Qui ont été diminuées en taille, en quantité ou en intensité."
-    },
-    {
-        "word": "réformer",
-        "definition": "Changer une organisation ou une règle pour l’améliorer."
-    },
-    {
-        "word": "résister",
-        "definition": "Ne pas céder face à une force, une pression ou une tentation."
-    },
-    {
-        "word": "résultat",
-        "definition": "Conséquence ou effet d’une action, d’un travail ou d’un événement."
-    },
-    {
-        "word": "sceptres",
-        "definition": "Bâtons ornés symbolisant le pouvoir des rois."
-    },
-    {
-        "word": "sentiers",
-        "definition": "Petits chemins étroits, souvent en pleine nature."
-    },
-    {
-        "word": "solidité",
-        "definition": "Caractère de ce qui est solide, résistant ou stable."
-    },
-    {
-        "word": "solistes",
-        "definition": "Musiciens ou chanteurs qui jouent ou chantent seuls, en avant d’un groupe."
-    },
-    {
-        "word": "solitude",
-        "definition": "État d’une personne qui est seule, volontairement ou non."
-    },
-    {
-        "word": "soumettre",
-        "definition": "Placer sous l’autorité de quelqu’un ou faire accepter quelque chose."
-    },
-    {
-        "word": "souvenir",
-        "definition": "Mémoire d’une expérience passée, ou objet rappelant un événement."
-    },
-    {
-        "word": "éliminer",
-        "definition": "Faire disparaître, supprimer ou écarter quelque chose ou quelqu’un."
-    },
-    {
-        "word": "éléphant",
-        "definition": "Grand mammifère à trompe, vivant en Afrique ou en Asie."
-    },
-    {
-        "word": "épreuves",
-        "definition": "Situations difficiles à surmonter ; peut aussi désigner des tests ou compétitions."
-    }
+ {
+  "word": "abeille",
+  "definition": "Insecte qui produit le miel et la cire.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "abondance",
+  "definition": "Grande quantité, profusion.",
+  "theme": "Idées"
+ },
+ {
+  "word": "abriter",
+  "definition": "Mettre à couvert, protéger des intempéries ou d'un danger.",
+  "theme": "Actions"
+ },
+ {
+  "word": "abstrait",
+  "definition": "Qui n'existe que dans la pensée, qui n'est pas concret.",
+  "theme": "Idées"
+ },
+ {
+  "word": "académie",
+  "definition": "Assemblée de savants, d'écrivains ou d'artistes ; école d'art.",
+  "theme": "Société"
+ },
+ {
+  "word": "accueil",
+  "definition": "Manière de recevoir quelqu'un.",
+  "theme": "Société"
+ },
+ {
+  "word": "acharner",
+  "definition": "Poursuivre avec obstination, sans relâche (s'acharner).",
+  "theme": "Actions"
+ },
+ {
+  "word": "acheteur",
+  "definition": "Personne qui achète.",
+  "theme": "Société"
+ },
+ {
+  "word": "addition",
+  "definition": "Note à payer au restaurant ; opération qui ajoute des nombres.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "affaiblir",
+  "definition": "Rendre plus faible.",
+  "theme": "Actions"
+ },
+ {
+  "word": "affiche",
+  "definition": "Grande feuille imprimée placardée pour annoncer quelque chose.",
+  "theme": "Arts"
+ },
+ {
+  "word": "agence",
+  "definition": "Établissement qui offre un service : voyages, immobilier…",
+  "theme": "Travail"
+ },
+ {
+  "word": "agitation",
+  "definition": "État de ce qui remue sans cesse ; nervosité.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "agrandir",
+  "definition": "Rendre plus grand.",
+  "theme": "Actions"
+ },
+ {
+  "word": "alarme",
+  "definition": "Signal ou appareil qui avertit d'un danger.",
+  "theme": "Objets"
+ },
+ {
+  "word": "ambulance",
+  "definition": "Véhicule qui transporte les malades et les blessés.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "améliorer",
+  "definition": "Rendre meilleur.",
+  "theme": "Actions"
+ },
+ {
+  "word": "amiral",
+  "definition": "Officier qui commande une flotte.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "amusant",
+  "definition": "Qui divertit, qui fait rire.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "anneau",
+  "definition": "Cercle de métal, souvent porté au doigt.",
+  "theme": "Objets"
+ },
+ {
+  "word": "ardoise",
+  "definition": "Pierre grise en plaques pour les toits ; petit tableau d'écolier.",
+  "theme": "Maison"
+ },
+ {
+  "word": "armistice",
+  "definition": "Accord qui suspend les combats entre deux armées.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "armure",
+  "definition": "Ensemble de pièces de métal qui protégeaient le chevalier.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "arrondir",
+  "definition": "Rendre rond ; ajuster un nombre à la valeur ronde la plus proche.",
+  "theme": "Actions"
+ },
+ {
+  "word": "artifice",
+  "definition": "Moyen habile pour tromper ; feu d'artifice.",
+  "theme": "Arts"
+ },
+ {
+  "word": "artisan",
+  "definition": "Personne qui exerce un métier manuel à son compte.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "assassinat",
+  "definition": "Meurtre commis avec préméditation.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "assaut",
+  "definition": "Attaque soudaine et violente contre une personne, un lieu ou un obstacle.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "auberge",
+  "definition": "Petit hôtel-restaurant de campagne.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "audition",
+  "definition": "Essai d'un artiste devant un jury ; faculté d'entendre.",
+  "theme": "Arts"
+ },
+ {
+  "word": "augmenter",
+  "definition": "Rendre plus grand, plus fort ou plus intense.",
+  "theme": "Actions"
+ },
+ {
+  "word": "baguette",
+  "definition": "Pain long et fin ; petit bâton.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "balance",
+  "definition": "Instrument qui sert à peser.",
+  "theme": "Objets"
+ },
+ {
+  "word": "banlieue",
+  "definition": "Ensemble des communes qui entourent une grande ville.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "baptiser",
+  "definition": "Donner un nom ; administrer le baptême.",
+  "theme": "Société"
+ },
+ {
+  "word": "barbier",
+  "definition": "Artisan qui rase et taille la barbe.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "bassin",
+  "definition": "Pièce d'eau ; partie du corps qui relie le tronc aux jambes.",
+  "theme": "Nature"
+ },
+ {
+  "word": "bavardage",
+  "definition": "Paroles futiles et abondantes.",
+  "theme": "Langue"
+ },
+ {
+  "word": "bénéfice",
+  "definition": "Avantage ou profit obtenu grâce à une action, une activité ou une décision.",
+  "theme": "Société"
+ },
+ {
+  "word": "bercer",
+  "definition": "Balancer doucement un enfant pour l'endormir.",
+  "theme": "Actions"
+ },
+ {
+  "word": "besogne",
+  "definition": "Travail à accomplir.",
+  "theme": "Travail"
+ },
+ {
+  "word": "bétail",
+  "definition": "Ensemble des animaux d'une ferme.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "beurre",
+  "definition": "Matière grasse tirée de la crème du lait.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "biberon",
+  "definition": "Petite bouteille munie d'une tétine pour nourrir les bébés.",
+  "theme": "Objets"
+ },
+ {
+  "word": "boisson",
+  "definition": "Tout liquide que l'on boit.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "bonbon",
+  "definition": "Petite friandise sucrée.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "bonnet",
+  "definition": "Coiffure souple et sans bord.",
+  "theme": "Objets"
+ },
+ {
+  "word": "boucher",
+  "definition": "Commerçant qui vend de la viande.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "bousculer",
+  "definition": "Pousser brusquement.",
+  "theme": "Actions"
+ },
+ {
+  "word": "boxeur",
+  "definition": "Sportif qui pratique la boxe.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "brandir",
+  "definition": "Agiter en l'air d'un geste menaçant ou triomphant.",
+  "theme": "Actions"
+ },
+ {
+  "word": "brebis",
+  "definition": "Femelle du mouton.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "brèche",
+  "definition": "Ouverture faite dans un mur ou une défense.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "brigade",
+  "definition": "Petite troupe de soldats ou de policiers.",
+  "theme": "Société"
+ },
+ {
+  "word": "brouillard",
+  "definition": "Nuage bas qui réduit la visibilité.",
+  "theme": "Nature"
+ },
+ {
+  "word": "brutal",
+  "definition": "Violent, grossier.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "budget",
+  "definition": "Prévision des recettes et des dépenses.",
+  "theme": "Société"
+ },
+ {
+  "word": "buisson",
+  "definition": "Touffe d'arbustes.",
+  "theme": "Nature"
+ },
+ {
+  "word": "bulletin",
+  "definition": "Court communiqué ; relevé des notes d'un élève.",
+  "theme": "Langue"
+ },
+ {
+  "word": "cahier",
+  "definition": "Assemblage de feuilles de papier reliées.",
+  "theme": "Objets"
+ },
+ {
+  "word": "calculer",
+  "definition": "Effectuer une opération mathématique ou estimer quelque chose par la réflexion.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "canapé",
+  "definition": "Long siège à dossier pour plusieurs personnes.",
+  "theme": "Maison"
+ },
+ {
+  "word": "caoutchouc",
+  "definition": "Matière souple et élastique tirée d'un arbre tropical.",
+  "theme": "Objets"
+ },
+ {
+  "word": "capitale",
+  "definition": "Ville où siège le gouvernement d'un pays.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "caporal",
+  "definition": "Militaire du rang juste au-dessus du soldat.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "capturer",
+  "definition": "Attraper ou prendre de force quelque chose ou quelqu’un, comme un animal ou un criminel.",
+  "theme": "Actions"
+ },
+ {
+  "word": "carcasse",
+  "definition": "Squelette d'un animal ; charpente d'un objet.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "caresse",
+  "definition": "Geste tendre de la main.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "carnet",
+  "definition": "Petit cahier de poche.",
+  "theme": "Objets"
+ },
+ {
+  "word": "cascade",
+  "definition": "Chute d'eau.",
+  "theme": "Nature"
+ },
+ {
+  "word": "caserne",
+  "definition": "Bâtiment où logent les soldats.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "catalogue",
+  "definition": "Liste détaillée d'objets à vendre.",
+  "theme": "Langue"
+ },
+ {
+  "word": "caution",
+  "definition": "Somme d’argent donnée comme garantie, ou personne qui garantit une obligation.",
+  "theme": "Société"
+ },
+ {
+  "word": "cavalier",
+  "definition": "Personne à cheval ; pièce du jeu d'échecs.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "centimètre",
+  "definition": "Centième partie du mètre.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "certificat",
+  "definition": "Écrit officiel qui atteste un fait.",
+  "theme": "Langue"
+ },
+ {
+  "word": "chameau",
+  "definition": "Grand animal du désert à deux bosses.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "chantage",
+  "definition": "Menace de révéler un secret pour obtenir quelque chose.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "chanteur",
+  "definition": "Personne qui chante.",
+  "theme": "Arts"
+ },
+ {
+  "word": "charbon",
+  "definition": "Roche noire que l'on brûle pour se chauffer.",
+  "theme": "Nature"
+ },
+ {
+  "word": "chariot",
+  "definition": "Voiture à roues pour transporter des charges.",
+  "theme": "Objets"
+ },
+ {
+  "word": "charisme",
+  "definition": "Qualité d’une personne qui attire, séduit et influence les autres par sa présence.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "charité",
+  "definition": "Aide généreuse apportée aux pauvres.",
+  "theme": "Société"
+ },
+ {
+  "word": "chaussée",
+  "definition": "Partie de la route où circulent les véhicules ; par extension, surface pavée pour marcher.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "chaussette",
+  "definition": "Vêtement qui couvre le pied.",
+  "theme": "Objets"
+ },
+ {
+  "word": "chauve",
+  "definition": "Qui n'a plus de cheveux.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "chiffon",
+  "definition": "Morceau de tissu qui sert à essuyer.",
+  "theme": "Maison"
+ },
+ {
+  "word": "chômage",
+  "definition": "Situation de celui qui n'a pas de travail.",
+  "theme": "Travail"
+ },
+ {
+  "word": "cirque",
+  "definition": "Spectacle d'acrobates, de clowns et d'animaux sous un chapiteau.",
+  "theme": "Arts"
+ },
+ {
+  "word": "clarté",
+  "definition": "Lumière ; caractère de ce qui est facile à comprendre.",
+  "theme": "Nature"
+ },
+ {
+  "word": "clochard",
+  "definition": "Personne sans domicile qui vit dans la rue.",
+  "theme": "Société"
+ },
+ {
+  "word": "cocktail",
+  "definition": "Mélange de boissons ; réception.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "commerce",
+  "definition": "Achat et vente de marchandises.",
+  "theme": "Société"
+ },
+ {
+  "word": "compassion",
+  "definition": "Sentiment qui fait partager la souffrance d'autrui.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "complicité",
+  "definition": "Entente secrète ; participation à une faute.",
+  "theme": "Société"
+ },
+ {
+  "word": "condamné",
+  "definition": "Personne reconnue coupable et punie par la justice ; peut aussi désigner quelqu’un voué à un sort malheureux.",
+  "theme": "Société"
+ },
+ {
+  "word": "conférence",
+  "definition": "Exposé fait devant un public.",
+  "theme": "Langue"
+ },
+ {
+  "word": "conjoint",
+  "definition": "Époux, épouse ou partenaire officiel dans une union.",
+  "theme": "Société"
+ },
+ {
+  "word": "consoler",
+  "definition": "Apaiser le chagrin de quelqu'un.",
+  "theme": "Actions"
+ },
+ {
+  "word": "contraste",
+  "definition": "Opposition marquée entre deux choses.",
+  "theme": "Arts"
+ },
+ {
+  "word": "coquillage",
+  "definition": "Coquille d'un mollusque marin.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "corbeau",
+  "definition": "Grand oiseau noir au croassement rauque.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "corbeille",
+  "definition": "Panier ouvert.",
+  "theme": "Objets"
+ },
+ {
+  "word": "coupure",
+  "definition": "Blessure faite par un objet tranchant ; interruption.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "courageux",
+  "definition": "Qui agit malgré la peur, qui fait preuve de bravoure.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "courrier",
+  "definition": "Ensemble des lettres que l'on reçoit ou envoie.",
+  "theme": "Langue"
+ },
+ {
+  "word": "coutume",
+  "definition": "Habitude partagée par un peuple.",
+  "theme": "Société"
+ },
+ {
+  "word": "couvercle",
+  "definition": "Ce qui ferme une casserole ou une boîte.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "crapaud",
+  "definition": "Amphibien à la peau pustuleuse, cousin de la grenouille.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "créateur",
+  "definition": "Personne qui invente ou fonde quelque chose.",
+  "theme": "Arts"
+ },
+ {
+  "word": "création",
+  "definition": "Action de donner naissance à quelque chose de nouveau, qu’il soit artistique, technique ou conceptuel.",
+  "theme": "Arts"
+ },
+ {
+  "word": "crevette",
+  "definition": "Petit crustacé marin.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "crinière",
+  "definition": "Longs poils sur le cou du lion ou du cheval.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "croissant",
+  "definition": "Viennoiserie en forme de lune.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "croyance",
+  "definition": "Ce que l'on tient pour vrai sans preuve.",
+  "theme": "Idées"
+ },
+ {
+  "word": "cruauté",
+  "definition": "Plaisir de faire souffrir.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "cuillère",
+  "definition": "Ustensile pour manger les liquides.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "cuisinier",
+  "definition": "Personne qui prépare les repas.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "cuivre",
+  "definition": "Métal rougeâtre, bon conducteur d'électricité.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "dauphin",
+  "definition": "Mammifère marin très intelligent ; héritier du roi de France.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "découverte",
+  "definition": "Action de trouver ce qui était inconnu.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "défaite",
+  "definition": "Fait d'être vaincu.",
+  "theme": "Actions"
+ },
+ {
+  "word": "défunt",
+  "definition": "Personne décédée.",
+  "theme": "Société"
+ },
+ {
+  "word": "dégoût",
+  "definition": "Répulsion, aversion.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "délice",
+  "definition": "Plaisir très vif.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "déménager",
+  "definition": "Changer de logement.",
+  "theme": "Maison"
+ },
+ {
+  "word": "demeure",
+  "definition": "Maison, résidence, souvent grande.",
+  "theme": "Maison"
+ },
+ {
+  "word": "dénoncer",
+  "definition": "Signaler une faute ou un coupable.",
+  "theme": "Société"
+ },
+ {
+  "word": "dentelle",
+  "definition": "Tissu très fin et décoratif, fait de fils entrelacés, utilisé pour les vêtements ou la décoration.",
+  "theme": "Arts"
+ },
+ {
+  "word": "dentiste",
+  "definition": "Médecin spécialisé dans le soin des dents et de la bouche.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "dépasser",
+  "definition": "Aller au-delà d’une limite, surmonter une difficulté ou devancer quelqu’un.",
+  "theme": "Actions"
+ },
+ {
+  "word": "dépense",
+  "definition": "Argent que l'on dépense.",
+  "theme": "Société"
+ },
+ {
+  "word": "dépression",
+  "definition": "État de profonde tristesse ; creux du terrain.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "député",
+  "definition": "Élu qui siège à l'Assemblée nationale.",
+  "theme": "Société"
+ },
+ {
+  "word": "désastre",
+  "definition": "Grand malheur, catastrophe.",
+  "theme": "Idées"
+ },
+ {
+  "word": "dévorant",
+  "definition": "Qui mange avec avidité ; au sens figuré, une passion ou une émotion très forte.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "diabolique",
+  "definition": "Qui évoque le diable, très méchant.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "dialogue",
+  "definition": "Échange de paroles entre deux ou plusieurs personnes.",
+  "theme": "Langue"
+ },
+ {
+  "word": "diamant",
+  "definition": "Pierre précieuse très dure et brillante.",
+  "theme": "Objets"
+ },
+ {
+  "word": "dimension",
+  "definition": "Grandeur mesurable : longueur, largeur, hauteur.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "diplomate",
+  "definition": "Personne qui représente son pays à l'étranger.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "discret",
+  "definition": "Qui ne se fait pas remarquer.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "dispute",
+  "definition": "Échange vif de paroles hostiles.",
+  "theme": "Société"
+ },
+ {
+  "word": "distraire",
+  "definition": "Amuser ; détourner l'attention.",
+  "theme": "Actions"
+ },
+ {
+  "word": "domicile",
+  "definition": "Lieu où l'on habite.",
+  "theme": "Maison"
+ },
+ {
+  "word": "dortoir",
+  "definition": "Grande salle où dorment plusieurs personnes.",
+  "theme": "Maison"
+ },
+ {
+  "word": "douteux",
+  "definition": "Dont on peut douter.",
+  "theme": "Idées"
+ },
+ {
+  "word": "écharpe",
+  "definition": "Bande de tissu autour du cou.",
+  "theme": "Objets"
+ },
+ {
+  "word": "échelle",
+  "definition": "Objet à barreaux pour monter.",
+  "theme": "Objets"
+ },
+ {
+  "word": "éducation",
+  "definition": "Formation d'un enfant.",
+  "theme": "Société"
+ },
+ {
+  "word": "efficace",
+  "definition": "Qui produit l'effet attendu.",
+  "theme": "Idées"
+ },
+ {
+  "word": "effroi",
+  "definition": "Grande frayeur.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "élection",
+  "definition": "Choix par un vote.",
+  "theme": "Société"
+ },
+ {
+  "word": "éléphant",
+  "definition": "Grand mammifère à trompe, vivant en Afrique ou en Asie.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "éliminer",
+  "definition": "Faire disparaître, supprimer ou écarter quelque chose ou quelqu’un.",
+  "theme": "Actions"
+ },
+ {
+  "word": "enchanter",
+  "definition": "Ravir, charmer ; ensorceler.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "enfouir",
+  "definition": "Mettre en terre, cacher.",
+  "theme": "Actions"
+ },
+ {
+  "word": "énigme",
+  "definition": "Devinette ; chose difficile à comprendre.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "ennuyeux",
+  "definition": "Qui fait naître l'ennui.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "enrichir",
+  "definition": "Rendre plus riche, soit en argent, soit en connaissances ou expériences.",
+  "theme": "Actions"
+ },
+ {
+  "word": "enseigne",
+  "definition": "Panneau qui signale un commerce.",
+  "theme": "Objets"
+ },
+ {
+  "word": "entourer",
+  "definition": "Placer autour de quelqu’un ou quelque chose ; aussi protéger ou accompagner.",
+  "theme": "Actions"
+ },
+ {
+  "word": "épicerie",
+  "definition": "Magasin d'alimentation.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "escalade",
+  "definition": "Action de grimper sur une paroi, une montagne ou un obstacle.",
+  "theme": "Actions"
+ },
+ {
+  "word": "escorter",
+  "definition": "Accompagner pour protéger.",
+  "theme": "Actions"
+ },
+ {
+  "word": "espérance",
+  "definition": "Sentiment d'attendre avec confiance.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "espionner",
+  "definition": "Observer en secret.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "esquiver",
+  "definition": "Éviter habilement un coup, une attaque ou une situation gênante.",
+  "theme": "Actions"
+ },
+ {
+  "word": "estomper",
+  "definition": "Rendre moins net, atténuer ou faire disparaître progressivement.",
+  "theme": "Arts"
+ },
+ {
+  "word": "estrade",
+  "definition": "Plancher surélevé sur lequel on se tient.",
+  "theme": "Maison"
+ },
+ {
+  "word": "étable",
+  "definition": "Bâtiment où logent les vaches.",
+  "theme": "Maison"
+ },
+ {
+  "word": "éternité",
+  "definition": "Durée sans fin.",
+  "theme": "Temps"
+ },
+ {
+  "word": "évêque",
+  "definition": "Chef religieux d'un diocèse.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "évolution",
+  "definition": "Transformation progressive.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "exception",
+  "definition": "Ce qui sort de la règle.",
+  "theme": "Idées"
+ },
+ {
+  "word": "explorer",
+  "definition": "Parcourir un lieu pour le découvrir, l’étudier ou en connaître les détails.",
+  "theme": "Actions"
+ },
+ {
+  "word": "exposition",
+  "definition": "Présentation d'œuvres au public.",
+  "theme": "Arts"
+ },
+ {
+  "word": "extraire",
+  "definition": "Retirer d'un lieu ou d'un ensemble.",
+  "theme": "Actions"
+ },
+ {
+  "word": "fabrique",
+  "definition": "Établissement où l'on fabrique des objets.",
+  "theme": "Travail"
+ },
+ {
+  "word": "facteur",
+  "definition": "Personne qui distribue le courrier.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "faiblesse",
+  "definition": "Manque de force physique ou morale ; défaut ou fragilité.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "farine",
+  "definition": "Poudre obtenue en broyant des grains.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "féroce",
+  "definition": "Sauvage et cruel.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "festival",
+  "definition": "Série de spectacles consacrée à un art.",
+  "theme": "Arts"
+ },
+ {
+  "word": "fidélité",
+  "definition": "Constance dans l'attachement.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "fierté",
+  "definition": "Satisfaction de soi ; orgueil légitime.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "figurine",
+  "definition": "Petite statuette décorative ou de collection représentant une personne, un animal ou un personnage.",
+  "theme": "Arts"
+ },
+ {
+  "word": "filament",
+  "definition": "Fil très fin et souple, naturel ou artificiel, utilisé en électricité, en textile ou en biologie.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "fillette",
+  "definition": "Petite fille.",
+  "theme": "Société"
+ },
+ {
+  "word": "financer",
+  "definition": "Fournir l'argent nécessaire.",
+  "theme": "Société"
+ },
+ {
+  "word": "fondation",
+  "definition": "Base d'un édifice ; organisme d'intérêt général.",
+  "theme": "Maison"
+ },
+ {
+  "word": "forgeron",
+  "definition": "Artisan qui travaille le métal en le chauffant et en le martelant.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "formation",
+  "definition": "Apprentissage d'un métier.",
+  "theme": "Travail"
+ },
+ {
+  "word": "foudre",
+  "definition": "Décharge électrique d'un orage.",
+  "theme": "Nature"
+ },
+ {
+  "word": "fourmi",
+  "definition": "Petit insecte qui vit en colonies organisées.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "fragment",
+  "definition": "Morceau d'une chose brisée.",
+  "theme": "Objets"
+ },
+ {
+  "word": "fraîcheur",
+  "definition": "Qualité de ce qui est frais.",
+  "theme": "Nature"
+ },
+ {
+  "word": "gamelle",
+  "definition": "Récipient métallique pour transporter un repas.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "garderie",
+  "definition": "Lieu où l’on s’occupe des enfants pendant l’absence de leurs parents.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "garnison",
+  "definition": "Troupe qui occupe une place forte.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "généreux",
+  "definition": "Qui aime donner, partager ou aider sans attendre quelque chose en retour.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "gibier",
+  "definition": "Animaux que l'on chasse.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "glissade",
+  "definition": "Action de glisser sur une surface, souvent involontairement.",
+  "theme": "Actions"
+ },
+ {
+  "word": "glorieux",
+  "definition": "Qui s'est couvert de gloire.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "gouverner",
+  "definition": "Diriger un pays.",
+  "theme": "Société"
+ },
+ {
+  "word": "gracieux",
+  "definition": "Qui a de la grâce.",
+  "theme": "Arts"
+ },
+ {
+  "word": "grandeur",
+  "definition": "Taille ; noblesse.",
+  "theme": "Idées"
+ },
+ {
+  "word": "graver",
+  "definition": "Tracer en creux sur une surface dure.",
+  "theme": "Arts"
+ },
+ {
+  "word": "grenier",
+  "definition": "Partie d'une maison sous le toit.",
+  "theme": "Maison"
+ },
+ {
+  "word": "grenouille",
+  "definition": "Amphibien sauteur à la peau lisse.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "griffe",
+  "definition": "Ongle crochu de certains animaux.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "gronder",
+  "definition": "Réprimander ; faire un bruit sourd.",
+  "theme": "Actions"
+ },
+ {
+  "word": "habituel",
+  "definition": "Qui se fait régulièrement, de manière courante ou normale.",
+  "theme": "Temps"
+ },
+ {
+  "word": "hanche",
+  "definition": "Partie du corps où la cuisse s'attache au bassin.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "harmonie",
+  "definition": "Accord agréable entre des sons ou des éléments.",
+  "theme": "Arts"
+ },
+ {
+  "word": "héberger",
+  "definition": "Loger quelqu'un.",
+  "theme": "Maison"
+ },
+ {
+  "word": "héritier",
+  "definition": "Personne qui reçoit un héritage.",
+  "theme": "Société"
+ },
+ {
+  "word": "hésitation",
+  "definition": "Fait de ne pas savoir quoi choisir.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "hiérarchie",
+  "definition": "Organisation en niveaux de pouvoir.",
+  "theme": "Société"
+ },
+ {
+  "word": "hommage",
+  "definition": "Marque de respect.",
+  "theme": "Société"
+ },
+ {
+  "word": "humour",
+  "definition": "Art de faire rire avec esprit.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "hypothèse",
+  "definition": "Supposition à vérifier.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "ignorance",
+  "definition": "Fait de ne pas savoir.",
+  "theme": "Idées"
+ },
+ {
+  "word": "impasse",
+  "definition": "Rue sans issue ; situation bloquée.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "impatience",
+  "definition": "Incapacité d'attendre calmement.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "implorer",
+  "definition": "Supplier.",
+  "theme": "Actions"
+ },
+ {
+  "word": "improviser",
+  "definition": "Faire sans préparation.",
+  "theme": "Arts"
+ },
+ {
+  "word": "indice",
+  "definition": "Signe qui met sur la voie.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "individu",
+  "definition": "Personne considérée isolément.",
+  "theme": "Société"
+ },
+ {
+  "word": "infection",
+  "definition": "Envahissement du corps par des microbes.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "infernal",
+  "definition": "Qui évoque l'enfer ; insupportable.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "infirmerie",
+  "definition": "Salle où l'on soigne dans une école ou une caserne.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "injustice",
+  "definition": "Absence de justice.",
+  "theme": "Société"
+ },
+ {
+  "word": "intimité",
+  "definition": "Vie privée ; relation étroite.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "invention",
+  "definition": "Création d'une chose nouvelle.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "ironie",
+  "definition": "Moquerie qui dit le contraire de ce que l'on pense.",
+  "theme": "Langue"
+ },
+ {
+  "word": "itinéraire",
+  "definition": "Chemin à suivre.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "jambon",
+  "definition": "Cuisse de porc salée ou cuite.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "japonais",
+  "definition": "Qui vient du Japon.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "joueur",
+  "definition": "Personne qui joue.",
+  "theme": "Société"
+ },
+ {
+  "word": "journal",
+  "definition": "Publication quotidienne ou périodique contenant des informations ; peut aussi désigner un carnet personnel.",
+  "theme": "Langue"
+ },
+ {
+  "word": "jumeau",
+  "definition": "Né du même accouchement qu'un autre enfant.",
+  "theme": "Société"
+ },
+ {
+  "word": "juteux",
+  "definition": "Qui contient beaucoup de jus ; au figuré, très avantageux ou rentable.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "labyrinthe",
+  "definition": "Construction ou réseau complexe de chemins entrecroisés, conçus pour égarer ; au sens figuré, situation confuse ou inextricable.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "largeur",
+  "definition": "Dimension d'un côté à l'autre.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "lavabo",
+  "definition": "Évier de salle de bains.",
+  "theme": "Maison"
+ },
+ {
+  "word": "légende",
+  "definition": "Récit merveilleux ; texte sous une image.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "lessive",
+  "definition": "Lavage du linge ; produit pour laver.",
+  "theme": "Maison"
+ },
+ {
+  "word": "limonade",
+  "definition": "Boisson gazeuse sucrée.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "liquide",
+  "definition": "Qui coule ; argent comptant.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "locataire",
+  "definition": "Personne qui loue un logement.",
+  "theme": "Maison"
+ },
+ {
+  "word": "longueur",
+  "definition": "Mesure de la dimension la plus longue d’un objet.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "loyauté",
+  "definition": "Fidélité à ses engagements.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "luxueux",
+  "definition": "Qui présente un caractère de luxe, marqué par la richesse, l’opulence et le raffinement.",
+  "theme": "Arts"
+ },
+ {
+  "word": "mâchoire",
+  "definition": "Os qui portent les dents.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "magicien",
+  "definition": "Personne qui fait des tours de magie.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "manuscrit",
+  "definition": "Texte écrit à la main.",
+  "theme": "Langue"
+ },
+ {
+  "word": "maquiller",
+  "definition": "Farder le visage ; déguiser la vérité.",
+  "theme": "Arts"
+ },
+ {
+  "word": "martyr",
+  "definition": "Personne qui souffre ou meurt pour sa foi.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "matelas",
+  "definition": "Coussin épais sur lequel on dort.",
+  "theme": "Maison"
+ },
+ {
+  "word": "mécanicien",
+  "definition": "Personne qui répare les moteurs.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "méditation",
+  "definition": "Réflexion profonde ; exercice de concentration.",
+  "theme": "Idées"
+ },
+ {
+  "word": "méfiance",
+  "definition": "Crainte d'être trompé.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "migraine",
+  "definition": "Violent mal de tête.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "milliard",
+  "definition": "Mille millions.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "miniature",
+  "definition": "Reproduction en très petit.",
+  "theme": "Arts"
+ },
+ {
+  "word": "modeste",
+  "definition": "Qui ne se vante pas.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "mollet",
+  "definition": "Partie charnue à l'arrière de la jambe.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "monstrueux",
+  "definition": "Qui a l’apparence ou les proportions d’un monstre ; au figuré, qui dépasse la norme au point de choquer par son excès.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "mosaïque",
+  "definition": "Assemblage décoratif fait de petits morceaux colorés ; aussi, mélange varié d’éléments.",
+  "theme": "Arts"
+ },
+ {
+  "word": "mouchoir",
+  "definition": "Petit carré de tissu ou de papier pour se moucher.",
+  "theme": "Objets"
+ },
+ {
+  "word": "mouette",
+  "definition": "Oiseau de mer blanc et gris.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "mouton",
+  "definition": "Animal à laine élevé en troupeau.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "muraille",
+  "definition": "Haut et épais mur de défense.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "musicien",
+  "definition": "Personne qui joue d’un instrument ou compose de la musique.",
+  "theme": "Arts"
+ },
+ {
+  "word": "naufrage",
+  "definition": "Perte d'un navire en mer.",
+  "theme": "Nature"
+ },
+ {
+  "word": "nettoyer",
+  "definition": "Enlever la saleté, rendre propre.",
+  "theme": "Maison"
+ },
+ {
+  "word": "nostalgie",
+  "definition": "Regret mélancolique du passé.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "nourrice",
+  "definition": "Femme qui garde des enfants.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "noyade",
+  "definition": "Mort ou suffocation provoquée par immersion dans un liquide ; par extension, submersion accidentelle.",
+  "theme": "Nature"
+ },
+ {
+  "word": "nuageux",
+  "definition": "Ciel couvert de nuages, manquant de soleil.",
+  "theme": "Nature"
+ },
+ {
+  "word": "obstacle",
+  "definition": "Ce qui empêche le passage ou rend une action difficile.",
+  "theme": "Idées"
+ },
+ {
+  "word": "octobre",
+  "definition": "Dixième mois de l'année.",
+  "theme": "Temps"
+ },
+ {
+  "word": "olivier",
+  "definition": "Arbre méditerranéen qui produit les olives.",
+  "theme": "Nature"
+ },
+ {
+  "word": "omelette",
+  "definition": "Œufs battus cuits à la poêle.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "orbite",
+  "definition": "Trajectoire d'un astre autour d'un autre.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "orgueil",
+  "definition": "Trop grande estime de soi.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "orphelin",
+  "definition": "Enfant qui a perdu ses parents.",
+  "theme": "Société"
+ },
+ {
+  "word": "oubliette",
+  "definition": "Cachot souterrain où l'on enfermait les prisonniers pour toujours.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "ouvrage",
+  "definition": "Travail accompli ; livre.",
+  "theme": "Travail"
+ },
+ {
+  "word": "paisible",
+  "definition": "Calme, tranquille.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "palissade",
+  "definition": "Clôture faite de planches ou de pieux serrés, servant de barrière.",
+  "theme": "Maison"
+ },
+ {
+  "word": "palmier",
+  "definition": "Arbre des pays chauds à grandes feuilles.",
+  "theme": "Nature"
+ },
+ {
+  "word": "panique",
+  "definition": "Peur soudaine, extrême et irraisonnée pouvant se propager à un groupe entier ; au sens individuel, frayeur incontrôlable.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "panorama",
+  "definition": "Vue d’ensemble très large sur un paysage.",
+  "theme": "Nature"
+ },
+ {
+  "word": "parade",
+  "definition": "Défilé ; action de parer un coup.",
+  "theme": "Arts"
+ },
+ {
+  "word": "parcours",
+  "definition": "Chemin suivi.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "passerelle",
+  "definition": "Pont étroit réservé aux piétons.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "pasteur",
+  "definition": "Ministre du culte protestant ; berger.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "patrouille",
+  "definition": "Groupe qui surveille un secteur.",
+  "theme": "Société"
+ },
+ {
+  "word": "pêcheur",
+  "definition": "Personne qui pêche.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "pèlerin",
+  "definition": "Personne qui voyage vers un lieu saint.",
+  "theme": "Société"
+ },
+ {
+  "word": "pendule",
+  "definition": "Dispositif oscillant servant à mesurer le temps ; par extension, état d’hésitation ou de balancement entre deux choix.",
+  "theme": "Objets"
+ },
+ {
+  "word": "perroquet",
+  "definition": "Oiseau coloré capable d'imiter la voix.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "pharmacie",
+  "definition": "Magasin où l'on vend des médicaments.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "phénomène",
+  "definition": "Fait observable ; personne extraordinaire.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "pigeon",
+  "definition": "Oiseau gris des villes.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "pilier",
+  "definition": "Colonne qui soutient.",
+  "theme": "Maison"
+ },
+ {
+  "word": "pilote",
+  "definition": "Personne qui conduit un avion ou une voiture de course.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "pistache",
+  "definition": "Petit fruit sec comestible, souvent utilisé en pâtisserie ou comme en-cas.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "plâtre",
+  "definition": "Poudre blanche qui durcit avec l'eau.",
+  "theme": "Maison"
+ },
+ {
+  "word": "poésie",
+  "definition": "Art d'écrire en vers.",
+  "theme": "Arts"
+ },
+ {
+  "word": "poison",
+  "definition": "Substance qui tue ou rend malade.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "population",
+  "definition": "Ensemble des habitants.",
+  "theme": "Société"
+ },
+ {
+  "word": "potion",
+  "definition": "Breuvage magique ou médicinal.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "précision",
+  "definition": "Exactitude.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "préfet",
+  "definition": "Représentant de l'État dans un département.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "procession",
+  "definition": "Défilé religieux.",
+  "theme": "Société"
+ },
+ {
+  "word": "procureur",
+  "definition": "Magistrat qui représente la société au tribunal.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "profession",
+  "definition": "Métier.",
+  "theme": "Travail"
+ },
+ {
+  "word": "proverbe",
+  "definition": "Courte phrase populaire exprimant une vérité ou un conseil de sagesse.",
+  "theme": "Langue"
+ },
+ {
+  "word": "province",
+  "definition": "Partie d'un pays, hors de la capitale.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "publicité",
+  "definition": "Annonce qui vante un produit.",
+  "theme": "Société"
+ },
+ {
+  "word": "pupitre",
+  "definition": "Petit meuble incliné servant de support pour lire, écrire ou poser des partitions musicales.",
+  "theme": "Objets"
+ },
+ {
+  "word": "rafale",
+  "definition": "Coup de vent violent et soudain.",
+  "theme": "Nature"
+ },
+ {
+  "word": "ralentir",
+  "definition": "Aller moins vite.",
+  "theme": "Actions"
+ },
+ {
+  "word": "ramper",
+  "definition": "Avancer à plat ventre.",
+  "theme": "Actions"
+ },
+ {
+  "word": "rebelle",
+  "definition": "Qui se révolte.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "recette",
+  "definition": "Manière de préparer un plat ; argent reçu.",
+  "theme": "Cuisine"
+ },
+ {
+  "word": "récolte",
+  "definition": "Action de cueillir les produits de la terre.",
+  "theme": "Nature"
+ },
+ {
+  "word": "redoutable",
+  "definition": "Que l'on craint.",
+  "theme": "Idées"
+ },
+ {
+  "word": "refroidir",
+  "definition": "Rendre plus froid.",
+  "theme": "Actions"
+ },
+ {
+  "word": "réfugié",
+  "definition": "Personne qui a fui son pays.",
+  "theme": "Société"
+ },
+ {
+  "word": "registre",
+  "definition": "Cahier où l'on note des informations officielles.",
+  "theme": "Langue"
+ },
+ {
+  "word": "répétition",
+  "definition": "Fait de répéter ; séance de travail avant un spectacle.",
+  "theme": "Arts"
+ },
+ {
+  "word": "reproche",
+  "definition": "Blâme adressé à quelqu'un.",
+  "theme": "Langue"
+ },
+ {
+  "word": "réputation",
+  "definition": "Opinion que l'on a de quelqu'un.",
+  "theme": "Société"
+ },
+ {
+  "word": "requin",
+  "definition": "Grand poisson carnassier.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "réservoir",
+  "definition": "Récipient où l'on stocke un liquide.",
+  "theme": "Objets"
+ },
+ {
+  "word": "résister",
+  "definition": "Ne pas céder face à une force, une pression ou une tentation.",
+  "theme": "Actions"
+ },
+ {
+  "word": "respirer",
+  "definition": "Inspirer et expirer de l’air pour vivre ; peut aussi signifier se détendre.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "retarder",
+  "definition": "Repousser un événement à plus tard, ralentir.",
+  "theme": "Temps"
+ },
+ {
+  "word": "rêveur",
+  "definition": "Qui aime rêver.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "richesse",
+  "definition": "Abondance de biens.",
+  "theme": "Société"
+ },
+ {
+  "word": "rivage",
+  "definition": "Bord de la mer ou d'un lac.",
+  "theme": "Nature"
+ },
+ {
+  "word": "robuste",
+  "definition": "Fort et résistant.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "roseau",
+  "definition": "Plante des marais à longue tige.",
+  "theme": "Nature"
+ },
+ {
+  "word": "routine",
+  "definition": "Habitude répétitive.",
+  "theme": "Temps"
+ },
+ {
+  "word": "royaume",
+  "definition": "Pays gouverné par un roi.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "sacrifier",
+  "definition": "Renoncer à quelque chose pour une cause.",
+  "theme": "Actions"
+ },
+ {
+  "word": "sanglier",
+  "definition": "Porc sauvage des forêts.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "sardine",
+  "definition": "Petit poisson de mer.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "savant",
+  "definition": "Personne très instruite.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "sculpture",
+  "definition": "Art de tailler la matière.",
+  "theme": "Arts"
+ },
+ {
+  "word": "seigneur",
+  "definition": "Titre de noblesse du Moyen Âge ; au figuré, homme puissant ou personnage vénérable.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "semelle",
+  "definition": "Dessous de la chaussure.",
+  "theme": "Objets"
+ },
+ {
+  "word": "sentier",
+  "definition": "Chemin étroit.",
+  "theme": "Nature"
+ },
+ {
+  "word": "séparation",
+  "definition": "Fait de se quitter.",
+  "theme": "Société"
+ },
+ {
+  "word": "serviteur",
+  "definition": "Personne au service d'un maître.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "sieste",
+  "definition": "Petit somme après le déjeuner.",
+  "theme": "Temps"
+ },
+ {
+  "word": "sifflement",
+  "definition": "Son aigu.",
+  "theme": "Nature"
+ },
+ {
+  "word": "sincère",
+  "definition": "Qui dit ce qu'il pense vraiment.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "sinistre",
+  "definition": "Qui annonce un malheur ; catastrophe.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "sirène",
+  "definition": "Créature mi-femme mi-poisson ; signal d'alarme.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "solaire",
+  "definition": "Qui concerne le Soleil.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "solitaire",
+  "definition": "Qui vit seul.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "sonnette",
+  "definition": "Petite cloche électrique à la porte.",
+  "theme": "Maison"
+ },
+ {
+  "word": "souterrain",
+  "definition": "Passage sous la terre.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "souvenir",
+  "definition": "Mémoire d’une expérience passée, ou objet rappelant un événement.",
+  "theme": "Temps"
+ },
+ {
+  "word": "souverain",
+  "definition": "Roi, reine ou empereur.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "splendeur",
+  "definition": "Grande beauté.",
+  "theme": "Arts"
+ },
+ {
+  "word": "sportif",
+  "definition": "Qui pratique un sport.",
+  "theme": "Société"
+ },
+ {
+  "word": "syllabe",
+  "definition": "Groupe de sons prononcés d'une seule émission de voix.",
+  "theme": "Langue"
+ },
+ {
+  "word": "symptôme",
+  "definition": "Signe d'une maladie.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "tactique",
+  "definition": "Art de mener un combat.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "tentation",
+  "definition": "Envie de faire une chose défendue.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "terrestre",
+  "definition": "Qui concerne la Terre.",
+  "theme": "Nature"
+ },
+ {
+  "word": "thérapie",
+  "definition": "Traitement.",
+  "theme": "Corps & santé"
+ },
+ {
+  "word": "timide",
+  "definition": "Qui manque d'assurance.",
+  "theme": "Caractère"
+ },
+ {
+  "word": "tourment",
+  "definition": "Grande souffrance.",
+  "theme": "Émotions"
+ },
+ {
+  "word": "toxique",
+  "definition": "Qui empoisonne ou nuit gravement à la santé ; par extension, qui est nocif moralement.",
+  "theme": "Sciences"
+ },
+ {
+  "word": "trahison",
+  "definition": "Fait de trahir.",
+  "theme": "Histoire"
+ },
+ {
+  "word": "trajet",
+  "definition": "Chemin d'un point à un autre.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "tricot",
+  "definition": "Ouvrage fait à l'aiguille avec de la laine.",
+  "theme": "Arts"
+ },
+ {
+  "word": "trompe",
+  "definition": "Organe allongé (comme celui de l’éléphant) ou dispositif en forme de tube.",
+  "theme": "Animaux"
+ },
+ {
+  "word": "tumulte",
+  "definition": "Désordre bruyant, agitation confuse d’une foule ou d’une situation.",
+  "theme": "Nature"
+ },
+ {
+  "word": "vacarme",
+  "definition": "Grand bruit.",
+  "theme": "Nature"
+ },
+ {
+  "word": "vallée",
+  "definition": "Creux entre des montagnes.",
+  "theme": "Nature"
+ },
+ {
+  "word": "vampire",
+  "definition": "Créature légendaire qui se nourrit du sang des vivants ; par extension, personne exploitant les autres.",
+  "theme": "Mystère"
+ },
+ {
+  "word": "vendeur",
+  "definition": "Personne qui vend.",
+  "theme": "Métiers"
+ },
+ {
+  "word": "vestiaire",
+  "definition": "Lieu où l'on dépose les vêtements.",
+  "theme": "Maison"
+ },
+ {
+  "word": "vieillesse",
+  "definition": "Dernière période de la vie.",
+  "theme": "Temps"
+ },
+ {
+  "word": "virage",
+  "definition": "Courbe d'une route.",
+  "theme": "Lieux"
+ },
+ {
+  "word": "vitrine",
+  "definition": "Devanture d'un magasin.",
+  "theme": "Maison"
+ },
+ {
+  "word": "vulnérable",
+  "definition": "Qui peut être blessé facilement.",
+  "theme": "Caractère"
+ }
 ]

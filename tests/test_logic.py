@@ -7,7 +7,7 @@ from datetime import date
 from pathlib import Path
 
 from pendu.achievements import unlock_new
-from pendu.config import LEVELS
+from pendu.config import KEYBOARD_LETTERS, LEVELS
 from pendu.events import ALL_EVENTS, EventDirector, roll_event
 from pendu.game import ALREADY, HIT, MISS, SHIELDED, Round, Session
 from pendu.storage import Profile
@@ -245,6 +245,19 @@ class WordTests(unittest.TestCase):
         self.assertEqual(fold("çà et là, élève"), "ca et la, eleve")
         self.assertEqual(mask_definition("Un éléphant et des éléphanteaux.", "éléphant"),
                          "Un ____ et des ____.")
+
+    def test_dictionary_is_playable(self):
+        bank = WordBank()
+        seen = set()
+        for level, entries in bank.words.items():
+            self.assertGreaterEqual(len(entries), 300, level)
+            for e in entries:
+                w = e["word"]
+                self.assertTrue(set(fold(w)) <= KEYBOARD_LETTERS, w)  # jouable au clavier
+                self.assertLessEqual(len(w), 12, w)                    # tient sur une ligne
+                self.assertTrue(e["definition"] and e["theme"], w)
+                self.assertNotIn(w, seen)
+                seen.add(w)
 
     def test_bank_pick_and_daily(self):
         bank = WordBank()
