@@ -6,3 +6,4 @@ bin/
 venv/
 # Images haute résolution d'origine (sources de travail, trop lourdes pour git / l'APK)
 assets_src/
+.pytest_cache/
