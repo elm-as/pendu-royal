@@ -60,17 +60,19 @@ def format_duration(seconds) -> str:
 
 
 # --- Fenêtres modales --------------------------------------------------------
+# Attention : sur un widget Kivy, un argument de constructeur nommé « on_… » est pris pour
+# un abonnement à un événement, pas pour une valeur. D'où les noms en « …_callback ».
 class ConfirmModal(ModalView):
     title = StringProperty("")
     message = StringProperty("")
     yes_text = StringProperty("Oui")
     no_text = StringProperty("Annuler")
-    on_yes = ObjectProperty(None)
+    yes_callback = ObjectProperty(None)
 
     def answer(self, yes: bool):
         self.dismiss()
-        if yes and self.on_yes:
-            self.on_yes()
+        if yes and self.yes_callback:
+            self.yes_callback()
 
 
 # --- Accueil -----------------------------------------------------------------
@@ -82,12 +84,12 @@ class HeroImage(Image):
 class SecretModal(ModalView):
     title = StringProperty("")
     message = StringProperty("")
-    on_go = ObjectProperty(None)
+    go_callback = ObjectProperty(None)
 
     def go(self):
         self.dismiss()
-        if self.on_go:
-            self.on_go()
+        if self.go_callback:
+            self.go_callback()
 
 
 CROWN_TAPS = 5
@@ -148,7 +150,7 @@ class HomeScreen(BaseScreen):
             title=f"Bienvenue, {trolls.NAME}",
             message="Tu as trouvé le secret de la couronne.\n\nLe mode Animé est débloqué : "
                     "devine les personnages de tes animés préférés, de Naruto à Solo Leveling.",
-            on_go=lambda: self.app.go("modes", "left"),
+            go_callback=lambda: self.app.go("modes", "left"),
         ).open()
 
     def on_pre_enter(self, *args):
@@ -412,7 +414,7 @@ class SettingsScreen(BaseScreen):
             self.app.profile.save()
             self.ids.toast.show("Statistiques réinitialisées.", "gold")
         ConfirmModal(title="Tout effacer ?", message="Statistiques, succès, séries et points seront remis à zéro.",
-                     yes_text="Effacer", on_yes=do_reset).open()
+                     yes_text="Effacer", yes_callback=do_reset).open()
 
 
 # --- Tutoriel ------------------------------------------------------------------------

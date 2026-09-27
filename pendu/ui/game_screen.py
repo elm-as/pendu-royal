@@ -71,7 +71,7 @@ class GameScreen(BaseScreen):
 
     def on_enter(self, *args):
         kb = self.ids.keyboard
-        kb.on_validate = self.guess_letter
+        kb.validate_callback = self.guess_letter
         self._clock = Clock.schedule_interval(self._tick, 1 / 30)
         self.begin_round()
 
@@ -367,7 +367,7 @@ class GameScreen(BaseScreen):
         if self.phase in ("play", "intro", "paused") and not self.paused_by_modal:
             self.paused_by_modal = True
             modal = ConfirmModal(title="Abandonner ?", message="La partie sera comptée comme une défaite.",
-                                 yes_text="Abandonner", on_yes=lambda: self.end_round(abandon=True))
+                                 yes_text="Abandonner", yes_callback=lambda: self.end_round(abandon=True))
             modal.bind(on_dismiss=lambda *_: setattr(self, "paused_by_modal", False))
             modal.open()
         return True

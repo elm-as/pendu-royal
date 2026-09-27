@@ -154,7 +154,7 @@ class KeyButton(RoundButton):
 class Keyboard(BoxLayout):
     """Clavier AZERTY : une touche sélectionne, VALIDER (ou re-toucher la touche) confirme."""
     selected = StringProperty("")
-    on_validate = ObjectProperty(None)
+    validate_callback = ObjectProperty(None)
     locked = BooleanProperty(False)
 
     def __init__(self, **kw):
@@ -196,8 +196,8 @@ class Keyboard(BoxLayout):
         if self.locked or not self.selected:
             return
         letter, self.selected = self.selected, ""
-        if self.on_validate:
-            self.on_validate(letter)
+        if self.validate_callback:
+            self.validate_callback(letter)
         self.refresh()
 
     def refresh(self):
