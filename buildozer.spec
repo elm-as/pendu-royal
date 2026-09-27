@@ -17,7 +17,8 @@ android.presplash_color = #120B07
 android.permissions = VIBRATE
 android.api = 34
 android.minapi = 24
-android.archs = arm64-v8a
+# 64 bits ET 32 bits : beaucoup de téléphones d'entrée de gamme tournent sous Android 32 bits
+android.archs = arm64-v8a, armeabi-v7a
 android.allow_backup = True
 android.accept_sdk_license = True
 
