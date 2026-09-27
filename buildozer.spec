@@ -7,7 +7,8 @@ source.include_exts = py,kv,png,json,ttf,wav
 # ni les originaux haute résolution, ni les outils, ni les tests dans l'APK
 source.exclude_dirs = assets_src,tools,tests,bin,.buildozer,venv,.venv,__pycache__
 version = 2.0.0
-requirements = python3,kivy==2.3.1,plyer
+# charset_normalizer épinglé : la 3.5 a des paquets Android que python-for-android 2026.05 installe mal
+requirements = python3,kivy==2.3.1,charset_normalizer==3.3.2
 orientation = portrait
 fullscreen = 0
 icon.filename = %(source.dir)s/assets/images/png/icon.png
@@ -16,8 +17,9 @@ android.presplash_color = #120B07
 android.permissions = VIBRATE
 android.api = 34
 android.minapi = 24
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 android.allow_backup = True
+android.accept_sdk_license = True
 
 [buildozer]
 log_level = 2

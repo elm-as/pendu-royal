@@ -10,6 +10,7 @@ class Audio:
     def __init__(self, settings: dict):
         self.settings = settings
         self._cache = {}
+        self._vibrator = None
 
     def play(self, name: str) -> None:
         if not self.settings.get("sound", True):
@@ -25,7 +26,12 @@ class Audio:
         if platform != "android" or not self.settings.get("vibration", True):
             return
         try:
-            from plyer import vibrator
-            vibrator.vibrate(ms / 1000)
-        except Exception as exc:  # plyer absent ou permission refusée
+            if self._vibrator is None:
+                # API Android directe via pyjnius (fourni avec Kivy) : pas besoin de plyer
+                from jnius import autoclass
+                activity = autoclass("org.kivy.android.PythonActivity").mActivity
+                context = autoclass("android.content.Context")
+                self._vibrator = activity.getSystemService(context.VIBRATOR_SERVICE)
+            self._vibrator.vibrate(int(ms))
+        except Exception as exc:  # permission refusée, appareil sans vibreur…
             Logger.debug(f"Pendu: vibration indisponible ({exc})")
